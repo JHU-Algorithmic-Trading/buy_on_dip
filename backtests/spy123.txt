@@ -1,0 +1,234 @@
+Ticker: SPY
+Start Date: 1984-01-01
+End Date: 2024-12-19
+Min Percent Drop: 3.0%
+Min Percent Gain: 3.0%
+Share Quantities: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99]
+----------
+
+
+
+SPY dropped -3.24% on 1996-03-08. Bought 1 shares at $63.5. Average price at $63.5.
+Investment gained 3.05% on 1996-04-01. Span of 24 days. Sold 1 shares at $65.44
+Annualized return: 46.4%
+
+SPY dropped -3.18% on 1997-04-11. Bought 1 shares at $73.38. Average price at $73.38.
+Investment gained 3.07% on 1997-04-15. Span of 4 days. Sold 1 shares at $75.62
+Annualized return: 279.81%
+
+SPY dropped -3.07% on 1997-08-15. Bought 1 shares at $89.78. Average price at $89.78.
+Investment gained 3.41% on 1997-08-19. Span of 4 days. Sold 1 shares at $92.84
+Annualized return: 311.26%
+
+SPY dropped -7.25% on 1997-10-27. Bought 1 shares at $87.19. Average price at $87.19.
+Investment gained 5.77% on 1997-10-28. Span of 1 days. Sold 1 shares at $92.22
+Annualized return: 2106.27%
+
+SPY dropped -3.46% on 1998-01-09. Bought 1 shares at $92.31. Average price at $92.31.
+Investment gained 3.25% on 1998-01-13. Span of 4 days. Sold 1 shares at $95.31
+Annualized return: 296.55%
+
+SPY dropped -3.87% on 1998-08-04. Bought 1 shares at $107.0. Average price at $107.0.
+Investment gained 3.15% on 1998-08-18. Span of 14 days. Sold 1 shares at $110.38
+Annualized return: 82.23%
+
+SPY dropped -4.71% on 1998-08-27. Bought 1 shares at $103.75. Average price at $103.75.
+SPY is below the mean by 7.47%>=3.0% and significantly below last purchase price on 1998-08-31. Bought 2 shares at $96.0. Average price at $98.58.
+Investment gained 4.48% on 1998-09-08. Span of 12 days. Sold 3 shares at $103.0
+Annualized return: 136.27%
+
+SPY dropped -3.04% on 1998-09-30. Bought 1 shares at $101.75. Average price at $101.75.
+SPY is below the mean by 3.01%>=3.0% and significantly below last purchase price on 1998-10-05. Bought 2 shares at $98.69. Average price at $99.71.
+Investment gained 6.28% on 1998-10-15. Span of 15 days. Sold 3 shares at $105.97
+Annualized return: 152.78%
+
+SPY dropped -3.91% on 2000-01-04. Bought 1 shares at $139.75. Average price at $139.75.
+Investment gained 4.29% on 2000-01-07. Span of 3 days. Sold 1 shares at $145.75
+Annualized return: 522.36%
+
+SPY dropped -3.12% on 2000-01-28. Bought 1 shares at $135.88. Average price at $135.88.
+Investment gained 3.73% on 2000-02-01. Span of 4 days. Sold 1 shares at $140.94
+Annualized return: 339.98%
+
+SPY dropped -5.72% on 2000-04-14. Bought 1 shares at $136.0. Average price at $136.0.
+Investment gained 3.49% on 2000-04-17. Span of 3 days. Sold 1 shares at $140.75
+Annualized return: 424.94%
+
+SPY dropped -3.26% on 2001-01-05. Bought 1 shares at $129.19. Average price at $129.19.
+Investment gained 3.3% on 2001-01-17. Span of 12 days. Sold 1 shares at $133.45
+Annualized return: 100.43%
+
+SPY dropped -4.28% on 2001-03-12. Bought 1 shares at $118.08. Average price at $118.08.
+SPY is below the mean by 3.29%>=3.0% and significantly below last purchase price on 2001-03-20. Bought 2 shares at $114.2. Average price at $115.49.
+SPY is below the mean by 4.42%>=3.0% and significantly below last purchase price on 2001-04-03. Bought 3 shares at $110.39. Average price at $112.94.
+Investment gained 3.28% on 2001-04-10. Span of 29 days. Sold 6 shares at $116.65
+Annualized return: 41.33%
+
+SPY dropped -5.22% on 2001-09-17. Bought 1 shares at $104.3. Average price at $104.3.
+SPY is below the mean by 5.36%>=3.0% and significantly below last purchase price on 2001-09-20. Bought 2 shares at $98.71. Average price at $100.57.
+Investment gained 3.84% on 2001-09-28. Span of 11 days. Sold 3 shares at $104.44
+Annualized return: 127.57%
+
+SPY dropped -3.14% on 2002-01-29. Bought 1 shares at $110.28. Average price at $110.28.
+Investment gained 3.14% on 2002-03-01. Span of 31 days. Sold 1 shares at $113.74
+Annualized return: 36.94%
+
+SPY dropped -3.64% on 2002-07-10. Bought 1 shares at $92.12. Average price at $92.12.
+SPY is below the mean by 4.69%>=3.0% and significantly below last purchase price on 2002-07-18. Bought 2 shares at $87.8. Average price at $89.24.
+SPY is below the mean by 5.08%>=3.0% and significantly below last purchase price on 2002-07-19. Bought 3 shares at $84.71. Average price at $86.98.
+SPY is below the mean by 8.08%>=3.0% and significantly below last purchase price on 2002-07-23. Bought 4 shares at $79.95. Average price at $84.16.
+Investment gained 6.66% on 2002-07-29. Span of 19 days. Sold 10 shares at $89.77
+Annualized return: 127.93%
+
+SPY dropped -3.48% on 2002-08-05. Bought 1 shares at $83.77. Average price at $83.77.
+Investment gained 3.37% on 2002-08-06. Span of 1 days. Sold 1 shares at $86.59
+Annualized return: 1228.72%
+
+SPY dropped -3.81% on 2002-09-03. Bought 1 shares at $88.28. Average price at $88.28.
+Investment gained 3.87% on 2002-09-10. Span of 7 days. Sold 1 shares at $91.7
+Annualized return: 202.0%
+
+SPY dropped -3.48% on 2002-09-27. Bought 1 shares at $82.75. Average price at $82.75.
+Investment gained 3.59% on 2002-10-01. Span of 4 days. Sold 1 shares at $85.72
+Annualized return: 327.51%
+
+SPY dropped -3.32% on 2003-03-24. Bought 1 shares at $86.69. Average price at $86.69.
+Investment gained 3.56% on 2003-04-15. Span of 22 days. Sold 1 shares at $89.78
+Annualized return: 59.14%
+
+SPY dropped -3.91% on 2007-02-27. Bought 1 shares at $139.5. Average price at $139.5.
+Investment gained 3.0% on 2007-04-03. Span of 35 days. Sold 1 shares at $143.69
+Annualized return: 31.32%
+
+SPY dropped -3.19% on 2008-06-06. Bought 1 shares at $136.29. Average price at $136.29.
+SPY is below the mean by 3.46%>=3.0% and significantly below last purchase price on 2008-06-20. Bought 2 shares at $131.58. Average price at $133.15.
+SPY is below the mean by 4.22%>=3.0% and significantly below last purchase price on 2008-06-27. Bought 3 shares at $127.53. Average price at $130.34.
+SPY is below the mean by 5.85%>=3.0% and significantly below last purchase price on 2008-07-14. Bought 4 shares at $122.72. Average price at $127.29.
+SPY is below the mean by 8.39%>=3.0% and significantly below last purchase price on 2008-09-17. Bought 5 shares at $116.61. Average price at $123.73.
+SPY is below the mean by 9.98%>=3.0% and significantly below last purchase price on 2008-09-29. Bought 6 shares at $111.38. Average price at $120.2.
+SPY is below the mean by 12.88%>=3.0% and significantly below last purchase price on 2008-10-06. Bought 7 shares at $104.72. Average price at $116.33.
+SPY is below the mean by 14.01%>=3.0% and significantly below last purchase price on 2008-10-07. Bought 8 shares at $100.03. Average price at $112.71.
+SPY is below the mean by 19.53%>=3.0% and significantly below last purchase price on 2008-10-09. Bought 9 shares at $90.7. Average price at $108.31.
+SPY is below the mean by 19.64%>=3.0% and significantly below last purchase price on 2008-10-24. Bought 10 shares at $87.04. Average price at $104.44.
+SPY is below the mean by 19.62%>=3.0% and significantly below last purchase price on 2008-10-27. Bought 11 shares at $83.95. Average price at $101.03.
+SPY is below the mean by 25.32%>=3.0% and significantly below last purchase price on 2008-11-20. Bought 12 shares at $75.45. Average price at $97.09.
+SPY is below the mean by 27.28%>=3.0% and significantly below last purchase price on 2009-03-02. Bought 13 shares at $70.6. Average price at $93.31.
+SPY is below the mean by 27.0%>=3.0% and significantly below last purchase price on 2009-03-09. Bought 14 shares at $68.11. Average price at $89.95.
+Investment gained 3.37% on 2009-05-08. Span of 336 days. Sold 105 shares at $92.98
+Annualized return: 3.66%
+
+SPY dropped -3.09% on 2010-02-04. Bought 1 shares at $106.44. Average price at $106.44.
+Investment gained 3.1% on 2010-02-16. Span of 12 days. Sold 1 shares at $109.74
+Annualized return: 94.3%
+
+SPY dropped -3.32% on 2010-05-06. Bought 1 shares at $112.94. Average price at $112.94.
+Investment gained 3.99% on 2010-05-12. Span of 6 days. Sold 1 shares at $117.45
+Annualized return: 242.92%
+
+SPY dropped -3.78% on 2010-05-20. Bought 1 shares at $107.54. Average price at $107.54.
+Investment gained 4.15% on 2010-06-15. Span of 26 days. Sold 1 shares at $112.0
+Annualized return: 58.22%
+
+SPY dropped -3.09% on 2010-06-29. Bought 1 shares at $104.21. Average price at $104.21.
+Investment gained 3.6% on 2010-07-09. Span of 10 days. Sold 1 shares at $107.96
+Annualized return: 131.35%
+
+SPY dropped -4.68% on 2011-08-04. Bought 1 shares at $120.26. Average price at $120.26.
+SPY is below the mean by 6.65%>=3.0% and significantly below last purchase price on 2011-08-08. Bought 2 shares at $112.26. Average price at $114.93.
+Investment gained 4.95% on 2011-08-15. Span of 11 days. Sold 3 shares at $120.62
+Annualized return: 164.38%
+
+SPY dropped -4.31% on 2011-08-18. Bought 1 shares at $114.51. Average price at $114.51.
+Investment gained 3.12% on 2011-08-24. Span of 6 days. Sold 1 shares at $118.08
+Annualized return: 189.66%
+
+SPY dropped -3.23% on 2011-09-22. Bought 1 shares at $112.86. Average price at $112.86.
+Investment gained 4.15% on 2011-09-27. Span of 5 days. Sold 1 shares at $117.54
+Annualized return: 302.71%
+
+SPY dropped -3.69% on 2011-11-09. Bought 1 shares at $123.16. Average price at $123.16.
+SPY is below the mean by 3.22%>=3.0% and significantly below last purchase price on 2011-11-22. Bought 2 shares at $119.19. Average price at $120.51.
+Investment gained 3.71% on 2011-11-30. Span of 21 days. Sold 3 shares at $124.99
+Annualized return: 64.56%
+
+SPY dropped -3.01% on 2015-08-21. Bought 1 shares at $197.83. Average price at $197.83.
+SPY is below the mean by 4.21%>=3.0% and significantly below last purchase price on 2015-08-24. Bought 2 shares at $189.5. Average price at $192.28.
+Investment gained 3.64% on 2015-08-27. Span of 6 days. Sold 3 shares at $199.27
+Annualized return: 221.26%
+
+SPY dropped -3.59% on 2016-06-24. Bought 1 shares at $203.24. Average price at $203.24.
+Investment gained 3.07% on 2016-06-30. Span of 6 days. Sold 1 shares at $209.48
+Annualized return: 186.77%
+
+SPY dropped -4.18% on 2018-02-05. Bought 1 shares at $263.93. Average price at $263.93.
+Investment gained 3.45% on 2018-02-15. Span of 10 days. Sold 1 shares at $273.03
+Annualized return: 125.85%
+
+SPY dropped -3.17% on 2018-10-10. Bought 1 shares at $278.3. Average price at $278.3.
+SPY is below the mean by 4.66%>=3.0% and significantly below last purchase price on 2018-10-24. Bought 2 shares at $265.32. Average price at $269.65.
+Investment gained 4.21% on 2018-11-07. Span of 28 days. Sold 3 shares at $281.01
+Annualized return: 54.93%
+
+SPY dropped -3.24% on 2018-12-04. Bought 1 shares at $270.25. Average price at $270.25.
+SPY is below the mean by 3.62%>=3.0% and significantly below last purchase price on 2018-12-14. Bought 2 shares at $260.47. Average price at $263.73.
+SPY is below the mean by 4.73%>=3.0% and significantly below last purchase price on 2018-12-19. Bought 3 shares at $251.26. Average price at $257.49.
+SPY is below the mean by 6.52%>=3.0% and significantly below last purchase price on 2018-12-21. Bought 4 shares at $240.7. Average price at $250.78.
+Investment gained 3.23% on 2019-01-10. Span of 37 days. Sold 10 shares at $258.88
+Annualized return: 31.87%
+
+SPY dropped -3.01% on 2019-08-05. Bought 1 shares at $283.82. Average price at $283.82.
+Investment gained 3.45% on 2019-08-08. Span of 3 days. Sold 1 shares at $293.62
+Annualized return: 420.1%
+
+SPY dropped -3.32% on 2020-02-24. Bought 1 shares at $322.42. Average price at $322.42.
+SPY is below the mean by 3.03%>=3.0% and significantly below last purchase price on 2020-02-25. Bought 2 shares at $312.65. Average price at $315.91.
+SPY is below the mean by 5.82%>=3.0% and significantly below last purchase price on 2020-02-27. Bought 3 shares at $297.51. Average price at $306.71.
+SPY is below the mean by 10.59%>=3.0% and significantly below last purchase price on 2020-03-09. Bought 4 shares at $274.23. Average price at $293.72.
+SPY is below the mean by 15.53%>=3.0% and significantly below last purchase price on 2020-03-12. Bought 5 shares at $248.11. Average price at $278.51.
+SPY is below the mean by 13.88%>=3.0% and significantly below last purchase price on 2020-03-16. Bought 6 shares at $239.85. Average price at $267.47.
+SPY is below the mean by 14.46%>=3.0% and significantly below last purchase price on 2020-03-20. Bought 7 shares at $228.8. Average price at $257.8.
+Investment gained 6.3% on 2020-04-08. Span of 44 days. Sold 28 shares at $274.03
+Annualized return: 52.22%
+
+SPY dropped -3.04% on 2020-04-21. Bought 1 shares at $273.04. Average price at $273.04.
+Investment gained 3.64% on 2020-04-24. Span of 3 days. Sold 1 shares at $282.97
+Annualized return: 442.48%
+
+SPY dropped -5.76% on 2020-06-11. Bought 1 shares at $300.61. Average price at $300.61.
+Investment gained 4.11% on 2020-06-16. Span of 5 days. Sold 1 shares at $312.96
+Annualized return: 299.91%
+
+SPY dropped -3.44% on 2020-09-03. Bought 1 shares at $345.39. Average price at $345.39.
+SPY is below the mean by 3.53%>=3.0% and significantly below last purchase price on 2020-09-08. Bought 2 shares at $333.21. Average price at $337.27.
+SPY is below the mean by 4.34%>=3.0% and significantly below last purchase price on 2020-09-23. Bought 3 shares at $322.64. Average price at $329.96.
+Investment gained 3.27% on 2020-10-07. Span of 34 days. Sold 6 shares at $340.76
+Annualized return: 35.15%
+
+SPY dropped -3.42% on 2020-10-28. Bought 1 shares at $326.66. Average price at $326.66.
+Investment gained 5.17% on 2020-11-04. Span of 7 days. Sold 1 shares at $343.54
+Annualized return: 269.45%
+
+SPY dropped -3.7% on 2022-04-29. Bought 1 shares at $412.0. Average price at $412.0.
+Investment gained 4.14% on 2022-05-04. Span of 5 days. Sold 1 shares at $429.06
+Annualized return: 302.28%
+
+SPY dropped -3.55% on 2022-05-05. Bought 1 shares at $413.81. Average price at $413.81.
+SPY is below the mean by 3.78%>=3.0% and significantly below last purchase price on 2022-05-09. Bought 2 shares at $398.17. Average price at $403.38.
+Investment gained 3.47% on 2022-06-02. Span of 28 days. Sold 3 shares at $417.39
+Annualized return: 45.26%
+
+SPY dropped -3.8% on 2022-06-13. Bought 1 shares at $375.0. Average price at $375.0.
+Investment gained 4.02% on 2022-06-24. Span of 11 days. Sold 1 shares at $390.08
+Annualized return: 133.44%
+
+SPY dropped -3.38% on 2022-08-26. Bought 1 shares at $405.31. Average price at $405.31.
+SPY is below the mean by 3.22%>=3.0% and significantly below last purchase price on 2022-09-02. Bought 2 shares at $392.24. Average price at $396.6.
+Investment gained 3.62% on 2022-09-12. Span of 17 days. Sold 3 shares at $410.97
+Annualized return: 77.81%
+
+SPY dropped -4.35% on 2022-09-13. Bought 1 shares at $393.1. Average price at $393.1.
+SPY is below the mean by 4.0%>=3.0% and significantly below last purchase price on 2022-09-21. Bought 2 shares at $377.39. Average price at $382.63.
+SPY is below the mean by 4.79%>=3.0% and significantly below last purchase price on 2022-09-26. Bought 3 shares at $364.31. Average price at $373.47.
+Investment gained 3.07% on 2022-10-25. Span of 42 days. Sold 6 shares at $384.92
+Annualized return: 26.65%
+

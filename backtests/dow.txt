@@ -1,0 +1,310 @@
+Ticker: DOW
+Start Date: 1984-01-01
+End Date: 2025-1-30
+Min Percent Drop: 2.5%
+Min Percent Gain: 2.5%
+Share Quantities: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99]
+----------
+
+
+
+DOW dropped -4.14% on 2019-04-05. Bought 1 shares at $57.24. Average price at $57.24.
+DOW is below the mean by 2.67%>=2.5% and significantly below last purchase price on 2019-04-10. Bought 2 shares at $55.71. Average price at $56.22.
+Investment gained 3.7% on 2019-04-12. Span of 7 days. Sold 3 shares at $58.3
+Annualized return: 192.92%
+
+DOW dropped -2.88% on 2019-04-24. Bought 1 shares at $55.98. Average price at $55.98.
+DOW is below the mean by 5.86%>=2.5% and significantly below last purchase price on 2019-05-02. Bought 2 shares at $52.7. Average price at $53.79.
+DOW is below the mean by 5.29%>=2.5% and significantly below last purchase price on 2019-05-13. Bought 3 shares at $50.95. Average price at $52.37.
+DOW is below the mean by 6.99%>=2.5% and significantly below last purchase price on 2019-05-23. Bought 4 shares at $48.71. Average price at $50.91.
+DOW is below the mean by 8.15%>=2.5% and significantly below last purchase price on 2019-05-31. Bought 5 shares at $46.76. Average price at $49.52.
+Investment gained 3.1% on 2019-06-06. Span of 43 days. Sold 15 shares at $51.06
+Annualized return: 26.32%
+
+DOW dropped -3.27% on 2019-06-14. Bought 1 shares at $51.15. Average price at $51.15.
+DOW is below the mean by 3.52%>=2.5% and significantly below last purchase price on 2019-06-17. Bought 2 shares at $49.35. Average price at $49.95.
+DOW is below the mean by 4.16%>=2.5% and significantly below last purchase price on 2019-07-09. Bought 3 shares at $47.87. Average price at $48.91.
+Investment gained 4.13% on 2019-07-15. Span of 31 days. Sold 6 shares at $50.93
+Annualized return: 48.63%
+
+DOW dropped -3.83% on 2019-07-25. Bought 1 shares at $50.77. Average price at $50.77.
+DOW is below the mean by 3.27%>=2.5% and significantly below last purchase price on 2019-07-26. Bought 2 shares at $49.11. Average price at $49.66.
+DOW is below the mean by 5.66%>=2.5% and significantly below last purchase price on 2019-08-01. Bought 3 shares at $46.85. Average price at $48.26.
+DOW is below the mean by 5.51%>=2.5% and significantly below last purchase price on 2019-08-02. Bought 4 shares at $45.6. Average price at $47.19.
+DOW is below the mean by 5.86%>=2.5% and significantly below last purchase price on 2019-08-06. Bought 5 shares at $44.43. Average price at $46.27.
+DOW is below the mean by 6.73%>=2.5% and significantly below last purchase price on 2019-08-20. Bought 6 shares at $43.16. Average price at $45.38.
+DOW is below the mean by 7.34%>=2.5% and significantly below last purchase price on 2019-08-22. Bought 7 shares at $42.05. Average price at $44.55.
+DOW is below the mean by 8.62%>=2.5% and significantly below last purchase price on 2019-08-23. Bought 8 shares at $40.71. Average price at $43.7.
+Investment gained 6.0% on 2019-09-10. Span of 47 days. Sold 36 shares at $46.32
+Annualized return: 46.62%
+
+DOW dropped -2.73% on 2019-09-24. Bought 1 shares at $46.6. Average price at $46.6.
+DOW is below the mean by 3.58%>=2.5% and significantly below last purchase price on 2019-10-02. Bought 2 shares at $44.93. Average price at $45.49.
+Investment gained 3.61% on 2019-10-11. Span of 17 days. Sold 3 shares at $47.13
+Annualized return: 77.57%
+
+DOW dropped -2.72% on 2019-11-13. Bought 1 shares at $53.66. Average price at $53.66.
+Investment gained 2.87% on 2019-11-25. Span of 12 days. Sold 1 shares at $55.2
+Annualized return: 87.29%
+
+DOW dropped -2.52% on 2019-12-03. Bought 1 shares at $51.82. Average price at $51.82.
+Investment gained 2.7% on 2019-12-06. Span of 3 days. Sold 1 shares at $53.22
+Annualized return: 328.7%
+
+DOW dropped -3.29% on 2020-01-22. Bought 1 shares at $50.87. Average price at $50.87.
+DOW is below the mean by 4.68%>=2.5% and significantly below last purchase price on 2020-01-24. Bought 2 shares at $48.49. Average price at $49.28.
+DOW is below the mean by 4.27%>=2.5% and significantly below last purchase price on 2020-01-27. Bought 3 shares at $47.18. Average price at $48.23.
+Investment gained 2.98% on 2020-01-29. Span of 7 days. Sold 6 shares at $49.67
+Annualized return: 155.5%
+
+DOW dropped -4.95% on 2020-01-31. Bought 1 shares at $46.07. Average price at $46.07.
+Investment gained 4.3% on 2020-02-04. Span of 4 days. Sold 1 shares at $48.05
+Annualized return: 392.17%
+
+DOW dropped -4.27% on 2020-02-24. Bought 1 shares at $46.24. Average price at $46.24.
+DOW is below the mean by 4.95%>=2.5% and significantly below last purchase price on 2020-02-25. Bought 2 shares at $43.95. Average price at $44.71.
+DOW is below the mean by 11.55%>=2.5% and significantly below last purchase price on 2020-02-27. Bought 3 shares at $39.55. Average price at $42.13.
+DOW is below the mean by 27.54%>=2.5% and significantly below last purchase price on 2020-03-09. Bought 4 shares at $30.53. Average price at $37.49.
+DOW is below the mean by 25.34%>=2.5% and significantly below last purchase price on 2020-03-11. Bought 5 shares at $27.99. Average price at $34.32.
+DOW is below the mean by 31.04%>=2.5% and significantly below last purchase price on 2020-03-12. Bought 6 shares at $23.67. Average price at $31.28.
+DOW is below the mean by 29.67%>=2.5% and significantly below last purchase price on 2020-03-16. Bought 7 shares at $22.0. Average price at $28.96.
+Investment gained 4.9% on 2020-03-25. Span of 30 days. Sold 28 shares at $30.38
+Annualized return: 59.66%
+
+DOW dropped -3.77% on 2020-03-27. Bought 1 shares at $28.56. Average price at $28.56.
+DOW is below the mean by 5.32%>=2.5% and significantly below last purchase price on 2020-04-01. Bought 2 shares at $27.04. Average price at $27.55.
+Investment gained 10.87% on 2020-04-06. Span of 10 days. Sold 3 shares at $30.54
+Annualized return: 396.62%
+
+DOW dropped -3.64% on 2020-04-13. Bought 1 shares at $35.23. Average price at $35.23.
+DOW is below the mean by 8.52%>=2.5% and significantly below last purchase price on 2020-04-15. Bought 2 shares at $32.23. Average price at $33.23.
+DOW is below the mean by 7.07%>=2.5% and significantly below last purchase price on 2020-04-21. Bought 3 shares at $30.88. Average price at $32.05.
+Investment gained 3.32% on 2020-04-24. Span of 11 days. Sold 6 shares at $33.12
+Annualized return: 110.24%
+
+DOW dropped -7.52% on 2020-05-01. Bought 1 shares at $33.93. Average price at $33.93.
+DOW is below the mean by 2.56%>=2.5% and significantly below last purchase price on 2020-05-04. Bought 2 shares at $33.06. Average price at $33.35.
+DOW is below the mean by 4.17%>=2.5% and significantly below last purchase price on 2020-05-06. Bought 3 shares at $31.96. Average price at $32.66.
+Investment gained 5.13% on 2020-05-08. Span of 7 days. Sold 6 shares at $34.33
+Annualized return: 267.46%
+
+DOW dropped -4.26% on 2020-05-13. Bought 1 shares at $32.35. Average price at $32.35.
+Investment gained 3.59% on 2020-05-14. Span of 1 days. Sold 1 shares at $33.51
+Annualized return: 1308.81%
+
+DOW dropped -2.99% on 2020-05-19. Bought 1 shares at $35.64. Average price at $35.64.
+Investment gained 8.84% on 2020-05-26. Span of 7 days. Sold 1 shares at $38.79
+Annualized return: 460.86%
+
+DOW dropped -2.79% on 2020-05-28. Bought 1 shares at $38.71. Average price at $38.71.
+Investment gained 4.88% on 2020-06-02. Span of 5 days. Sold 1 shares at $40.6
+Annualized return: 356.42%
+
+DOW dropped -3.25% on 2020-06-09. Bought 1 shares at $44.41. Average price at $44.41.
+DOW is below the mean by 11.6%>=2.5% and significantly below last purchase price on 2020-06-11. Bought 2 shares at $39.26. Average price at $40.98.
+Investment gained 3.11% on 2020-06-16. Span of 7 days. Sold 3 shares at $42.25
+Annualized return: 162.03%
+
+DOW dropped -2.56% on 2020-06-17. Bought 1 shares at $41.17. Average price at $41.17.
+DOW is below the mean by 6.61%>=2.5% and significantly below last purchase price on 2020-06-24. Bought 2 shares at $38.45. Average price at $39.36.
+Investment gained 4.12% on 2020-06-29. Span of 12 days. Sold 3 shares at $40.98
+Annualized return: 125.46%
+
+DOW dropped -3.21% on 2020-07-08. Bought 1 shares at $40.35. Average price at $40.35.
+Investment gained 5.18% on 2020-07-14. Span of 6 days. Sold 1 shares at $42.44
+Annualized return: 315.1%
+
+DOW dropped -3.14% on 2020-07-20. Bought 1 shares at $42.3. Average price at $42.3.
+Investment gained 4.82% on 2020-07-22. Span of 2 days. Sold 1 shares at $44.34
+Annualized return: 880.14%
+
+DOW dropped -3.43% on 2020-07-23. Bought 1 shares at $42.82. Average price at $42.82.
+Investment gained 2.76% on 2020-07-27. Span of 4 days. Sold 1 shares at $44.0
+Annualized return: 251.46%
+
+DOW dropped -3.14% on 2020-07-28. Bought 1 shares at $42.62. Average price at $42.62.
+DOW is below the mean by 3.66%>=2.5% and significantly below last purchase price on 2020-07-31. Bought 2 shares at $41.06. Average price at $41.58.
+Investment gained 2.53% on 2020-08-07. Span of 10 days. Sold 3 shares at $42.63
+Annualized return: 92.17%
+
+DOW dropped -2.68% on 2020-09-16. Bought 1 shares at $49.7. Average price at $49.7.
+Investment gained 2.56% on 2020-09-17. Span of 1 days. Sold 1 shares at $50.97
+Annualized return: 932.7%
+
+DOW dropped -4.88% on 2020-09-21. Bought 1 shares at $47.91. Average price at $47.91.
+DOW is below the mean by 3.13%>=2.5% and significantly below last purchase price on 2020-09-24. Bought 2 shares at $46.41. Average price at $46.91.
+Investment gained 3.56% on 2020-10-05. Span of 14 days. Sold 3 shares at $48.58
+Annualized return: 92.81%
+
+DOW dropped -2.84% on 2020-10-26. Bought 1 shares at $47.15. Average price at $47.15.
+DOW is below the mean by 4.18%>=2.5% and significantly below last purchase price on 2020-10-28. Bought 2 shares at $45.18. Average price at $45.84.
+Investment gained 4.33% on 2020-11-02. Span of 7 days. Sold 3 shares at $47.82
+Annualized return: 225.62%
+
+DOW dropped -4.68% on 2020-11-04. Bought 1 shares at $46.45. Average price at $46.45.
+Investment gained 5.43% on 2020-11-05. Span of 1 days. Sold 1 shares at $48.97
+Annualized return: 1980.19%
+
+DOW dropped -4.31% on 2020-11-30. Bought 1 shares at $53.01. Average price at $53.01.
+Investment gained 3.85% on 2020-12-04. Span of 4 days. Sold 1 shares at $55.05
+Annualized return: 351.16%
+
+DOW dropped -3.34% on 2020-12-07. Bought 1 shares at $53.21. Average price at $53.21.
+Investment gained 2.52% on 2020-12-08. Span of 1 days. Sold 1 shares at $54.55
+Annualized return: 919.19%
+
+DOW dropped -2.63% on 2021-01-04. Bought 1 shares at $54.04. Average price at $54.04.
+Investment gained 3.26% on 2021-01-05. Span of 1 days. Sold 1 shares at $55.8
+Annualized return: 1188.75%
+
+DOW dropped -3.92% on 2021-01-15. Bought 1 shares at $57.31. Average price at $57.31.
+DOW is below the mean by 2.74%>=2.5% and significantly below last purchase price on 2021-01-26. Bought 2 shares at $55.74. Average price at $56.26.
+DOW is below the mean by 7.76%>=2.5% and significantly below last purchase price on 2021-01-29. Bought 3 shares at $51.9. Average price at $54.08.
+Investment gained 4.18% on 2021-02-04. Span of 20 days. Sold 6 shares at $56.34
+Annualized return: 76.21%
+
+DOW dropped -3.67% on 2021-02-25. Bought 1 shares at $61.35. Average price at $61.35.
+DOW is below the mean by 3.33%>=2.5% and significantly below last purchase price on 2021-02-26. Bought 2 shares at $59.31. Average price at $59.99.
+Investment gained 2.58% on 2021-03-01. Span of 4 days. Sold 3 shares at $61.54
+Annualized return: 235.77%
+
+DOW dropped -4.35% on 2021-03-23. Bought 1 shares at $60.75. Average price at $60.75.
+Investment gained 4.1% on 2021-03-25. Span of 2 days. Sold 1 shares at $63.24
+Annualized return: 748.03%
+
+DOW dropped -3.21% on 2021-04-20. Bought 1 shares at $62.48. Average price at $62.48.
+Investment gained 3.75% on 2021-04-21. Span of 1 days. Sold 1 shares at $64.82
+Annualized return: 1367.0%
+
+DOW dropped -6.0% on 2021-04-22. Bought 1 shares at $60.93. Average price at $60.93.
+Investment gained 2.82% on 2021-04-27. Span of 5 days. Sold 1 shares at $62.65
+Annualized return: 206.07%
+
+DOW dropped -3.13% on 2021-06-17. Bought 1 shares at $63.54. Average price at $63.54.
+DOW is below the mean by 2.53%>=2.5% and significantly below last purchase price on 2021-07-06. Bought 2 shares at $61.93. Average price at $62.47.
+DOW is below the mean by 3.93%>=2.5% and significantly below last purchase price on 2021-07-16. Bought 3 shares at $60.01. Average price at $61.24.
+DOW is below the mean by 5.63%>=2.5% and significantly below last purchase price on 2021-07-19. Bought 4 shares at $57.79. Average price at $59.86.
+Investment gained 3.59% on 2021-07-26. Span of 39 days. Sold 10 shares at $62.01
+Annualized return: 33.63%
+
+DOW dropped -2.89% on 2021-09-17. Bought 1 shares at $57.75. Average price at $57.75.
+DOW is below the mean by 2.72%>=2.5% and significantly below last purchase price on 2021-09-20. Bought 2 shares at $56.18. Average price at $56.7.
+Investment gained 5.27% on 2021-09-27. Span of 10 days. Sold 3 shares at $59.69
+Annualized return: 192.25%
+
+DOW dropped -3.28% on 2021-10-06. Bought 1 shares at $57.16. Average price at $57.16.
+Investment gained 2.71% on 2021-10-08. Span of 2 days. Sold 1 shares at $58.71
+Annualized return: 494.88%
+
+DOW dropped -4.62% on 2021-10-27. Bought 1 shares at $56.0. Average price at $56.0.
+Investment gained 2.57% on 2021-11-01. Span of 5 days. Sold 1 shares at $57.44
+Annualized return: 187.71%
+
+DOW dropped -3.18% on 2021-11-04. Bought 1 shares at $57.17. Average price at $57.17.
+Investment gained 2.83% on 2021-11-09. Span of 5 days. Sold 1 shares at $58.79
+Annualized return: 206.86%
+
+DOW dropped -3.39% on 2021-11-30. Bought 1 shares at $54.93. Average price at $54.93.
+DOW is below the mean by 3.95%>=2.5% and significantly below last purchase price on 2021-12-01. Bought 2 shares at $52.76. Average price at $53.48.
+Investment gained 2.57% on 2021-12-07. Span of 7 days. Sold 3 shares at $54.86
+Annualized return: 134.22%
+
+DOW dropped -3.39% on 2022-01-20. Bought 1 shares at $57.81. Average price at $57.81.
+Investment gained 4.1% on 2022-01-27. Span of 7 days. Sold 1 shares at $60.18
+Annualized return: 213.77%
+
+DOW dropped -3.1% on 2022-03-01. Bought 1 shares at $57.13. Average price at $57.13.
+Investment gained 3.62% on 2022-03-02. Span of 1 days. Sold 1 shares at $59.2
+Annualized return: 1322.51%
+
+DOW dropped -2.87% on 2022-04-06. Bought 1 shares at $61.67. Average price at $61.67.
+Investment gained 2.58% on 2022-04-12. Span of 6 days. Sold 1 shares at $63.26
+Annualized return: 156.84%
+
+DOW dropped -3.03% on 2022-05-05. Bought 1 shares at $68.47. Average price at $68.47.
+DOW is below the mean by 2.69%>=2.5% and significantly below last purchase price on 2022-05-09. Bought 2 shares at $66.63. Average price at $67.24.
+Investment gained 4.05% on 2022-05-17. Span of 12 days. Sold 3 shares at $69.97
+Annualized return: 123.34%
+
+DOW dropped -6.06% on 2022-06-10. Bought 1 shares at $61.87. Average price at $61.87.
+DOW is below the mean by 5.16%>=2.5% and significantly below last purchase price on 2022-06-13. Bought 2 shares at $58.68. Average price at $59.74.
+DOW is below the mean by 7.24%>=2.5% and significantly below last purchase price on 2022-06-16. Bought 3 shares at $55.42. Average price at $57.58.
+DOW is below the mean by 9.1%>=2.5% and significantly below last purchase price on 2022-06-22. Bought 4 shares at $52.34. Average price at $55.48.
+DOW is below the mean by 8.57%>=2.5% and significantly below last purchase price on 2022-07-05. Bought 5 shares at $50.73. Average price at $53.9.
+DOW is below the mean by 9.28%>=2.5% and significantly below last purchase price on 2022-07-14. Bought 6 shares at $48.9. Average price at $52.47.
+Investment gained 2.99% on 2022-08-10. Span of 61 days. Sold 21 shares at $54.04
+Annualized return: 17.89%
+
+DOW dropped -4.09% on 2022-08-30. Bought 1 shares at $51.38. Average price at $51.38.
+DOW is below the mean by 2.76%>=2.5% and significantly below last purchase price on 2022-09-01. Bought 2 shares at $49.96. Average price at $50.43.
+DOW is below the mean by 3.65%>=2.5% and significantly below last purchase price on 2022-09-06. Bought 3 shares at $48.59. Average price at $49.51.
+Investment gained 2.86% on 2022-09-12. Span of 13 days. Sold 6 shares at $50.93
+Annualized return: 80.43%
+
+DOW dropped -6.01% on 2022-09-13. Bought 1 shares at $47.87. Average price at $47.87.
+DOW is below the mean by 3.03%>=2.5% and significantly below last purchase price on 2022-09-16. Bought 2 shares at $46.42. Average price at $46.9.
+DOW is below the mean by 4.1%>=2.5% and significantly below last purchase price on 2022-09-21. Bought 3 shares at $44.98. Average price at $45.94.
+DOW is below the mean by 5.55%>=2.5% and significantly below last purchase price on 2022-09-26. Bought 4 shares at $43.39. Average price at $44.92.
+Investment gained 3.78% on 2022-10-04. Span of 21 days. Sold 10 shares at $46.62
+Annualized return: 65.74%
+
+DOW dropped -2.7% on 2022-10-19. Bought 1 shares at $45.13. Average price at $45.13.
+Investment gained 3.86% on 2022-10-21. Span of 2 days. Sold 1 shares at $46.87
+Annualized return: 703.63%
+
+DOW dropped -3.97% on 2022-11-09. Bought 1 shares at $47.68. Average price at $47.68.
+Investment gained 4.78% on 2022-11-10. Span of 1 days. Sold 1 shares at $49.96
+Annualized return: 1745.38%
+
+DOW dropped -2.64% on 2022-11-28. Bought 1 shares at $50.2. Average price at $50.2.
+Investment gained 2.69% on 2022-12-02. Span of 4 days. Sold 1 shares at $51.55
+Annualized return: 245.39%
+
+DOW dropped -3.56% on 2022-12-15. Bought 1 shares at $49.53. Average price at $49.53.
+Investment gained 2.69% on 2022-12-23. Span of 8 days. Sold 1 shares at $50.86
+Annualized return: 122.51%
+
+DOW dropped -2.75% on 2023-03-13. Bought 1 shares at $52.4. Average price at $52.4.
+DOW is below the mean by 3.66%>=2.5% and significantly below last purchase price on 2023-03-15. Bought 2 shares at $50.48. Average price at $51.12.
+Investment gained 3.5% on 2023-03-28. Span of 15 days. Sold 3 shares at $52.91
+Annualized return: 85.2%
+
+DOW dropped -5.22% on 2023-04-25. Bought 1 shares at $52.5. Average price at $52.5.
+Investment gained 3.62% on 2023-04-28. Span of 3 days. Sold 1 shares at $54.4
+Annualized return: 440.32%
+
+DOW dropped -3.34% on 2023-08-15. Bought 1 shares at $53.53. Average price at $53.53.
+Investment gained 3.19% on 2023-08-29. Span of 14 days. Sold 1 shares at $55.24
+Annualized return: 83.28%
+
+DOW dropped -2.78% on 2023-09-21. Bought 1 shares at $51.0. Average price at $51.0.
+DOW is below the mean by 3.04%>=2.5% and significantly below last purchase price on 2023-10-19. Bought 2 shares at $49.45. Average price at $49.97.
+DOW is below the mean by 4.86%>=2.5% and significantly below last purchase price on 2023-10-25. Bought 3 shares at $47.54. Average price at $48.75.
+Investment gained 4.71% on 2023-11-14. Span of 54 days. Sold 6 shares at $51.05
+Annualized return: 31.84%
+
+DOW dropped -2.94% on 2024-02-13. Bought 1 shares at $53.18. Average price at $53.18.
+Investment gained 3.74% on 2024-02-15. Span of 2 days. Sold 1 shares at $55.17
+Annualized return: 682.92%
+
+DOW dropped -2.71% on 2024-06-03. Bought 1 shares at $56.07. Average price at $56.07.
+DOW is below the mean by 3.32%>=2.5% and significantly below last purchase price on 2024-06-20. Bought 2 shares at $54.21. Average price at $54.83.
+DOW is below the mean by 4.01%>=2.5% and significantly below last purchase price on 2024-07-01. Bought 3 shares at $52.63. Average price at $53.73.
+Investment gained 3.13% on 2024-07-17. Span of 44 days. Sold 6 shares at $55.41
+Annualized return: 25.94%
+
+DOW dropped -3.08% on 2024-09-03. Bought 1 shares at $51.93. Average price at $51.93.
+DOW is below the mean by 3.22%>=2.5% and significantly below last purchase price on 2024-09-12. Bought 2 shares at $50.26. Average price at $50.82.
+Investment gained 4.08% on 2024-09-19. Span of 16 days. Sold 3 shares at $52.89
+Annualized return: 93.08%
+
+DOW dropped -2.58% on 2024-10-08. Bought 1 shares at $53.21. Average price at $53.21.
+DOW is below the mean by 3.23%>=2.5% and significantly below last purchase price on 2024-10-23. Bought 2 shares at $51.49. Average price at $52.06.
+DOW is below the mean by 4.54%>=2.5% and significantly below last purchase price on 2024-10-25. Bought 3 shares at $49.7. Average price at $50.88.
+DOW is below the mean by 5.76%>=2.5% and significantly below last purchase price on 2024-11-04. Bought 4 shares at $47.95. Average price at $49.71.
+DOW is below the mean by 6.48%>=2.5% and significantly below last purchase price on 2024-11-08. Bought 5 shares at $46.49. Average price at $48.64.
+DOW is below the mean by 7.39%>=2.5% and significantly below last purchase price on 2024-11-12. Bought 6 shares at $45.04. Average price at $47.61.
+DOW is below the mean by 8.31%>=2.5% and significantly below last purchase price on 2024-11-19. Bought 7 shares at $43.65. Average price at $46.62.
+DOW is below the mean by 9.5%>=2.5% and significantly below last purchase price on 2024-12-05. Bought 8 shares at $42.19. Average price at $45.63.
+DOW is below the mean by 10.46%>=2.5% and significantly below last purchase price on 2024-12-13. Bought 9 shares at $40.86. Average price at $44.68.
+DOW is below the mean by 12.49%>=2.5% and significantly below last purchase price on 2024-12-19. Bought 10 shares at $39.1. Average price at $43.67.

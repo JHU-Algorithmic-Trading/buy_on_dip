@@ -1,0 +1,323 @@
+Ticker: VOD
+Start Date: 1984-01-01
+End Date: 2025-02-02
+Min Percent Drop: 5.0%
+Min Percent Gain: 4.0%
+Share Quantities: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+----------
+
+
+
+VOD dropped -5.14% on 1988-11-25. Bought 1 shares at $2.33. Average price at $2.33.
+Investment gained 6.25% on 1988-12-16. Span of 21 days. Sold 1 shares at $2.48
+Annualized return: 108.63%
+
+VOD dropped -5.52% on 1989-05-23. Bought 1 shares at $5.32. Average price at $5.32.
+Investment gained 5.11% on 1989-05-25. Span of 2 days. Sold 1 shares at $5.59
+Annualized return: 932.48%
+
+VOD dropped -5.71% on 1989-06-29. Bought 1 shares at $5.13. Average price at $5.13.
+VOD is below the mean by 5.68%>=5.0% and significantly below last purchase price on 1989-06-30. Bought 1 shares at $4.83. Average price at $4.98.
+Investment gained 5.65% on 1989-07-07. Span of 8 days. Sold 2 shares at $5.26
+Annualized return: 257.92%
+
+VOD dropped -5.36% on 1989-07-31. Bought 1 shares at $4.8. Average price at $4.8.
+VOD is below the mean by 5.67%>=5.0% and significantly below last purchase price on 1989-08-02. Bought 1 shares at $4.52. Average price at $4.66.
+VOD is below the mean by 7.92%>=5.0% and significantly below last purchase price on 1989-08-24. Bought 1 shares at $4.29. Average price at $4.54.
+Investment gained 5.28% on 1989-09-01. Span of 32 days. Sold 3 shares at $4.78
+Annualized return: 60.2%
+
+VOD dropped -8.97% on 1989-10-13. Bought 1 shares at $4.14. Average price at $4.14.
+VOD is below the mean by 5.63%>=5.0% and significantly below last purchase price on 1989-10-26. Bought 1 shares at $3.9. Average price at $4.02.
+Investment gained 6.52% on 1989-11-08. Span of 26 days. Sold 2 shares at $4.28
+Annualized return: 91.56%
+
+VOD dropped -5.53% on 1990-03-21. Bought 1 shares at $4.31. Average price at $4.31.
+Investment gained 4.95% on 1990-03-26. Span of 5 days. Sold 1 shares at $4.52
+Annualized return: 361.71%
+
+VOD dropped -5.07% on 1990-05-31. Bought 1 shares at $4.91. Average price at $4.91.
+VOD is below the mean by 5.53%>=5.0% and significantly below last purchase price on 1990-06-18. Bought 1 shares at $4.64. Average price at $4.78.
+Investment gained 7.52% on 1990-07-02. Span of 32 days. Sold 2 shares at $5.14
+Annualized return: 85.78%
+
+VOD dropped -5.98% on 1990-08-02. Bought 1 shares at $4.58. Average price at $4.58.
+VOD is below the mean by 7.2%>=5.0% and significantly below last purchase price on 1990-08-06. Bought 1 shares at $4.25. Average price at $4.42.
+VOD is below the mean by 9.45%>=5.0% and significantly below last purchase price on 1990-08-21. Bought 1 shares at $4.0. Average price at $4.28.
+VOD is below the mean by 11.27%>=5.0% and significantly below last purchase price on 1990-09-12. Bought 1 shares at $3.8. Average price at $4.16.
+VOD is below the mean by 14.07%>=5.0% and significantly below last purchase price on 1990-09-14. Bought 1 shares at $3.57. Average price at $4.04.
+VOD is below the mean by 16.39%>=5.0% and significantly below last purchase price on 1990-09-21. Bought 1 shares at $3.38. Average price at $3.93.
+Investment gained 5.23% on 1990-10-08. Span of 67 days. Sold 6 shares at $4.14
+Annualized return: 28.48%
+
+VOD dropped -6.34% on 1990-10-09. Bought 1 shares at $3.87. Average price at $3.87.
+VOD is below the mean by 5.76%>=5.0% and significantly below last purchase price on 1990-10-16. Bought 1 shares at $3.65. Average price at $3.76.
+Investment gained 7.35% on 1990-10-23. Span of 14 days. Sold 2 shares at $4.04
+Annualized return: 191.75%
+
+VOD dropped -5.43% on 1991-04-22. Bought 1 shares at $5.07. Average price at $5.07.
+Investment gained 4.02% on 1991-05-29. Span of 37 days. Sold 1 shares at $5.27
+Annualized return: 39.69%
+
+VOD dropped -5.06% on 1993-09-02. Bought 1 shares at $6.19. Average price at $6.19.
+VOD is below the mean by 5.96%>=5.0% and significantly below last purchase price on 1993-09-07. Bought 1 shares at $5.82. Average price at $6.01.
+Investment gained 6.62% on 1993-10-06. Span of 34 days. Sold 2 shares at $6.41
+Annualized return: 71.11%
+
+VOD dropped -5.31% on 1995-02-01. Bought 1 shares at $6.76. Average price at $6.76.
+Investment gained 6.03% on 1995-02-03. Span of 2 days. Sold 1 shares at $7.16
+Annualized return: 1101.29%
+
+VOD dropped -5.01% on 1995-09-27. Bought 1 shares at $9.38. Average price at $9.38.
+Investment gained 4.35% on 1995-10-03. Span of 6 days. Sold 1 shares at $9.79
+Annualized return: 264.49%
+
+VOD dropped -12.01% on 1995-11-21. Bought 1 shares at $7.89. Average price at $7.89.
+Investment gained 6.27% on 1995-11-30. Span of 9 days. Sold 1 shares at $8.39
+Annualized return: 254.41%
+
+VOD dropped -6.31% on 1996-09-04. Bought 1 shares at $8.21. Average price at $8.21.
+Investment gained 4.96% on 1996-10-28. Span of 54 days. Sold 1 shares at $8.62
+Annualized return: 33.56%
+
+VOD dropped -5.04% on 1998-07-09. Bought 1 shares at $29.65. Average price at $29.65.
+Investment gained 9.63% on 1998-07-14. Span of 5 days. Sold 1 shares at $32.5
+Annualized return: 702.75%
+
+VOD dropped -5.97% on 1998-08-04. Bought 1 shares at $29.59. Average price at $29.59.
+Investment gained 5.12% on 1998-08-18. Span of 14 days. Sold 1 shares at $31.11
+Annualized return: 133.44%
+
+VOD dropped -9.74% on 1998-08-31. Bought 1 shares at $29.27. Average price at $29.27.
+Investment gained 4.28% on 1998-09-08. Span of 8 days. Sold 1 shares at $30.52
+Annualized return: 195.21%
+
+VOD dropped -9.13% on 1998-10-05. Bought 1 shares at $22.31. Average price at $22.31.
+Investment gained 8.62% on 1998-10-06. Span of 1 days. Sold 1 shares at $24.23
+Annualized return: 3144.91%
+
+VOD dropped -5.03% on 1999-08-05. Bought 1 shares at $44.04. Average price at $44.04.
+Investment gained 4.07% on 1999-08-16. Span of 11 days. Sold 1 shares at $45.83
+Annualized return: 134.97%
+
+VOD dropped -7.06% on 1999-10-19. Bought 1 shares at $51.77. Average price at $51.77.
+Investment gained 5.49% on 1999-10-21. Span of 2 days. Sold 1 shares at $54.61
+Annualized return: 1001.05%
+
+VOD dropped -8.54% on 1999-11-12. Bought 1 shares at $55.19. Average price at $55.19.
+VOD is below the mean by 7.12%>=5.0% and significantly below last purchase price on 1999-11-16. Bought 1 shares at $51.26. Average price at $53.23.
+Investment gained 6.7% on 1999-11-26. Span of 14 days. Sold 2 shares at $56.79
+Annualized return: 174.76%
+
+VOD dropped -5.26% on 1999-11-29. Bought 1 shares at $53.81. Average price at $53.81.
+Investment gained 6.9% on 1999-12-03. Span of 4 days. Sold 1 shares at $57.52
+Annualized return: 629.74%
+
+VOD dropped -6.38% on 2000-02-04. Bought 1 shares at $67.35. Average price at $67.35.
+VOD is below the mean by 6.59%>=5.0% and significantly below last purchase price on 2000-02-07. Bought 1 shares at $62.91. Average price at $65.13.
+VOD is below the mean by 9.11%>=5.0% and significantly below last purchase price on 2000-02-16. Bought 1 shares at $59.2. Average price at $63.15.
+Investment gained 6.65% on 2000-02-23. Span of 19 days. Sold 3 shares at $67.35
+Annualized return: 127.73%
+
+VOD dropped -6.19% on 2000-04-04. Bought 1 shares at $60.65. Average price at $60.65.
+Investment gained 5.76% on 2000-04-06. Span of 2 days. Sold 1 shares at $64.15
+Annualized return: 1051.62%
+
+VOD dropped -6.84% on 2000-04-10. Bought 1 shares at $61.45. Average price at $61.45.
+VOD is below the mean by 6.87%>=5.0% and significantly below last purchase price on 2000-04-12. Bought 1 shares at $57.23. Average price at $59.34.
+VOD is below the mean by 10.67%>=5.0% and significantly below last purchase price on 2000-04-14. Bought 1 shares at $53.01. Average price at $57.23.
+VOD is below the mean by 13.61%>=5.0% and significantly below last purchase price on 2000-05-03. Bought 1 shares at $49.44. Average price at $55.28.
+VOD is below the mean by 18.47%>=5.0% and significantly below last purchase price on 2000-05-09. Bought 1 shares at $45.07. Average price at $53.24.
+VOD is below the mean by 20.54%>=5.0% and significantly below last purchase price on 2000-05-19. Bought 1 shares at $42.3. Average price at $51.42.
+Investment gained 5.22% on 2000-05-30. Span of 50 days. Sold 6 shares at $54.1
+Annualized return: 38.08%
+
+VOD dropped -8.7% on 2000-06-23. Bought 1 shares at $51.19. Average price at $51.19.
+VOD is below the mean by 6.12%>=5.0% and significantly below last purchase price on 2000-06-29. Bought 1 shares at $48.06. Average price at $49.62.
+Investment gained 6.46% on 2000-07-03. Span of 10 days. Sold 2 shares at $52.83
+Annualized return: 235.66%
+
+VOD dropped -5.39% on 2000-07-07. Bought 1 shares at $56.21. Average price at $56.21.
+VOD is below the mean by 5.18%>=5.0% and significantly below last purchase price on 2000-07-11. Bought 1 shares at $53.3. Average price at $54.75.
+VOD is below the mean by 9.57%>=5.0% and significantly below last purchase price on 2000-07-28. Bought 1 shares at $49.51. Average price at $53.01.
+VOD is below the mean by 11.68%>=5.0% and significantly below last purchase price on 2000-08-18. Bought 1 shares at $46.82. Average price at $51.46.
+VOD is below the mean by 14.82%>=5.0% and significantly below last purchase price on 2000-08-23. Bought 1 shares at $43.83. Average price at $49.93.
+VOD is below the mean by 18.05%>=5.0% and significantly below last purchase price on 2000-09-18. Bought 1 shares at $40.92. Average price at $48.43.
+VOD is below the mean by 20.62%>=5.0% and significantly below last purchase price on 2001-01-09. Bought 1 shares at $38.44. Average price at $47.01.
+VOD is below the mean by 23.14%>=5.0% and significantly below last purchase price on 2001-02-09. Bought 1 shares at $36.13. Average price at $45.65.
+VOD is below the mean by 27.03%>=5.0% and significantly below last purchase price on 2001-02-16. Bought 1 shares at $33.31. Average price at $44.27.
+VOD is below the mean by 31.56%>=5.0% and significantly below last purchase price on 2001-02-21. Bought 1 shares at $30.3. Average price at $42.88.
+VOD is below the mean by 33.84%>=5.0% and significantly below last purchase price on 2001-06-04. Bought 1 shares at $28.37. Average price at $41.56.
+VOD is below the mean by 35.66%>=5.0% and significantly below last purchase price on 2001-06-14. Bought 1 shares at $26.74. Average price at $40.32.
+VOD is below the mean by 37.31%>=5.0% and significantly below last purchase price on 2001-06-22. Bought 1 shares at $25.28. Average price at $39.17.
+VOD is below the mean by 38.84%>=5.0% and significantly below last purchase price on 2001-06-27. Bought 1 shares at $23.95. Average price at $38.08.
+VOD is below the mean by 40.49%>=5.0% and significantly below last purchase price on 2001-08-08. Bought 1 shares at $22.66. Average price at $37.05.
+VOD is below the mean by 42.62%>=5.0% and significantly below last purchase price on 2001-08-17. Bought 1 shares at $21.26. Average price at $36.06.
+VOD is below the mean by 44.79%>=5.0% and significantly below last purchase price on 2002-04-09. Bought 1 shares at $19.91. Average price at $35.11.
+VOD is below the mean by 48.21%>=5.0% and significantly below last purchase price on 2002-04-11. Bought 1 shares at $18.19. Average price at $34.17.
+VOD is below the mean by 52.58%>=5.0% and significantly below last purchase price on 2002-05-03. Bought 1 shares at $16.21. Average price at $33.23.
+VOD is below the mean by 53.97%>=5.0% and significantly below last purchase price on 2002-06-20. Bought 1 shares at $15.3. Average price at $32.33.
+Investment gained 4.27% on 2007-06-27. Span of 2546 days. Sold 20 shares at $33.71
+Annualized return: 0.61%
+
+VOD dropped -5.32% on 2007-07-26. Bought 1 shares at $31.19. Average price at $31.19.
+Investment gained 5.07% on 2007-08-02. Span of 7 days. Sold 1 shares at $32.77
+Annualized return: 264.12%
+
+VOD dropped -5.45% on 2008-03-19. Bought 1 shares at $29.89. Average price at $29.89.
+Investment gained 4.33% on 2008-03-24. Span of 5 days. Sold 1 shares at $31.18
+Annualized return: 316.2%
+
+VOD dropped -5.23% on 2008-03-31. Bought 1 shares at $30.08. Average price at $30.08.
+Investment gained 6.0% on 2008-04-02. Span of 2 days. Sold 1 shares at $31.89
+Annualized return: 1094.63%
+
+VOD dropped -5.17% on 2008-04-11. Bought 1 shares at $30.32. Average price at $30.32.
+Investment gained 4.74% on 2008-04-18. Span of 7 days. Sold 1 shares at $31.75
+Annualized return: 247.21%
+
+VOD dropped -5.32% on 2008-06-04. Bought 1 shares at $30.68. Average price at $30.68.
+Investment gained 4.68% on 2008-06-05. Span of 1 days. Sold 1 shares at $32.12
+Annualized return: 1709.8%
+
+VOD dropped -13.89% on 2008-07-22. Bought 1 shares at $26.1. Average price at $26.1.
+Investment gained 6.25% on 2008-07-23. Span of 1 days. Sold 1 shares at $27.73
+Annualized return: 2281.25%
+
+VOD dropped -6.18% on 2008-09-15. Bought 1 shares at $23.51. Average price at $23.51.
+Investment gained 4.86% on 2008-09-19. Span of 4 days. Sold 1 shares at $24.65
+Annualized return: 443.19%
+
+VOD dropped -8.98% on 2008-09-29. Bought 1 shares at $21.7. Average price at $21.7.
+Investment gained 5.64% on 2008-10-01. Span of 2 days. Sold 1 shares at $22.93
+Annualized return: 1028.65%
+
+VOD dropped -7.54% on 2008-10-09. Bought 1 shares at $19.61. Average price at $19.61.
+Investment gained 8.37% on 2008-10-13. Span of 4 days. Sold 1 shares at $21.25
+Annualized return: 763.58%
+
+VOD dropped -10.18% on 2008-10-15. Bought 1 shares at $19.26. Average price at $19.26.
+Investment gained 4.82% on 2008-10-16. Span of 1 days. Sold 1 shares at $20.18
+Annualized return: 1758.34%
+
+VOD dropped -10.01% on 2008-10-21. Bought 1 shares at $18.88. Average price at $18.88.
+VOD is below the mean by 10.15%>=5.0% and significantly below last purchase price on 2008-10-22. Bought 1 shares at $16.96. Average price at $17.92.
+Investment gained 5.92% on 2008-10-28. Span of 7 days. Sold 2 shares at $18.98
+Annualized return: 308.47%
+
+VOD dropped -8.28% on 2008-11-06. Bought 1 shares at $16.94. Average price at $16.94.
+Investment gained 7.52% on 2008-11-11. Span of 5 days. Sold 1 shares at $18.22
+Annualized return: 549.04%
+
+VOD dropped -9.67% on 2008-11-19. Bought 1 shares at $17.8. Average price at $17.8.
+Investment gained 6.7% on 2008-11-24. Span of 5 days. Sold 1 shares at $18.99
+Annualized return: 489.18%
+
+VOD dropped -10.32% on 2008-12-01. Bought 1 shares at $17.9. Average price at $17.9.
+Investment gained 4.5% on 2008-12-02. Span of 1 days. Sold 1 shares at $18.71
+Annualized return: 1642.08%
+
+VOD dropped -6.14% on 2009-01-20. Bought 1 shares at $19.15. Average price at $19.15.
+Investment gained 5.96% on 2009-02-03. Span of 14 days. Sold 1 shares at $20.3
+Annualized return: 155.4%
+
+VOD dropped -5.31% on 2009-02-10. Bought 1 shares at $19.63. Average price at $19.63.
+VOD is below the mean by 5.76%>=5.0% and significantly below last purchase price on 2009-02-18. Bought 1 shares at $18.5. Average price at $19.07.
+VOD is below the mean by 8.21%>=5.0% and significantly below last purchase price on 2009-02-25. Bought 1 shares at $17.5. Average price at $18.55.
+VOD is below the mean by 14.91%>=5.0% and significantly below last purchase price on 2009-03-09. Bought 1 shares at $15.78. Average price at $17.85.
+Investment gained 6.65% on 2009-04-01. Span of 50 days. Sold 4 shares at $19.04
+Annualized return: 48.56%
+
+VOD dropped -5.13% on 2009-04-20. Bought 1 shares at $18.66. Average price at $18.66.
+Investment gained 5.79% on 2009-05-04. Span of 14 days. Sold 1 shares at $19.75
+Annualized return: 150.93%
+
+VOD dropped -6.05% on 2009-05-07. Bought 1 shares at $18.66. Average price at $18.66.
+Investment gained 4.42% on 2009-05-12. Span of 5 days. Sold 1 shares at $19.49
+Annualized return: 322.94%
+
+VOD dropped -6.64% on 2009-06-03. Bought 1 shares at $18.78. Average price at $18.78.
+Investment gained 4.61% on 2009-06-17. Span of 14 days. Sold 1 shares at $19.64
+Annualized return: 120.31%
+
+VOD dropped -5.6% on 2011-06-01. Bought 1 shares at $26.97. Average price at $26.97.
+Investment gained 6.2% on 2011-07-29. Span of 58 days. Sold 1 shares at $28.64
+Annualized return: 39.0%
+
+VOD dropped -5.23% on 2011-08-08. Bought 1 shares at $26.39. Average price at $26.39.
+Investment gained 4.6% on 2011-08-12. Span of 4 days. Sold 1 shares at $27.6
+Annualized return: 419.42%
+
+VOD dropped -5.83% on 2013-06-12. Bought 1 shares at $28.66. Average price at $28.66.
+Investment gained 4.2% on 2013-07-11. Span of 29 days. Sold 1 shares at $29.87
+Annualized return: 52.82%
+
+VOD dropped -5.78% on 2014-05-20. Bought 1 shares at $34.21. Average price at $34.21.
+VOD is below the mean by 6.46%>=5.0% and significantly below last purchase price on 2014-06-24. Bought 1 shares at $32.0. Average price at $33.1.
+Investment gained 4.09% on 2014-07-29. Span of 70 days. Sold 2 shares at $34.46
+Annualized return: 21.34%
+
+VOD dropped -5.74% on 2014-10-09. Bought 1 shares at $31.35. Average price at $31.35.
+VOD is below the mean by 5.36%>=5.0% and significantly below last purchase price on 2014-10-16. Bought 1 shares at $29.67. Average price at $30.51.
+Investment gained 5.74% on 2014-10-24. Span of 15 days. Sold 2 shares at $32.26
+Annualized return: 139.57%
+
+VOD dropped -5.18% on 2015-09-28. Bought 1 shares at $31.12. Average price at $31.12.
+Investment gained 4.05% on 2015-10-05. Span of 7 days. Sold 1 shares at $32.38
+Annualized return: 211.12%
+
+VOD dropped -7.08% on 2016-06-24. Bought 1 shares at $30.17. Average price at $30.17.
+VOD is below the mean by 6.17%>=5.0% and significantly below last purchase price on 2016-06-27. Bought 1 shares at $28.31. Average price at $29.24.
+Investment gained 5.64% on 2016-06-30. Span of 6 days. Sold 2 shares at $30.89
+Annualized return: 343.28%
+
+VOD dropped -6.25% on 2018-02-05. Bought 1 shares at $29.11. Average price at $29.11.
+VOD is below the mean by 6.01%>=5.0% and significantly below last purchase price on 2018-03-22. Bought 1 shares at $27.36. Average price at $28.24.
+Investment gained 4.16% on 2018-04-10. Span of 64 days. Sold 2 shares at $29.41
+Annualized return: 23.73%
+
+VOD dropped -5.05% on 2018-06-07. Bought 1 shares at $25.18. Average price at $25.18.
+VOD is below the mean by 5.16%>=5.0% and significantly below last purchase price on 2018-07-17. Bought 1 shares at $23.88. Average price at $24.53.
+VOD is below the mean by 10.8%>=5.0% and significantly below last purchase price on 2018-08-30. Bought 1 shares at $21.88. Average price at $23.65.
+VOD is below the mean by 13.9%>=5.0% and significantly below last purchase price on 2018-10-08. Bought 1 shares at $20.36. Average price at $22.82.
+VOD is below the mean by 17.24%>=5.0% and significantly below last purchase price on 2018-10-24. Bought 1 shares at $18.89. Average price at $22.04.
+VOD is below the mean by 18.96%>=5.0% and significantly below last purchase price on 2019-01-28. Bought 1 shares at $17.86. Average price at $21.34.
+VOD is below the mean by 21.42%>=5.0% and significantly below last purchase price on 2019-05-13. Bought 1 shares at $16.77. Average price at $20.69.
+VOD is below the mean by 23.29%>=5.0% and significantly below last purchase price on 2019-05-16. Bought 1 shares at $15.87. Average price at $20.09.
+Investment gained 4.35% on 2019-10-23. Span of 503 days. Sold 8 shares at $20.96
+Annualized return: 3.16%
+
+VOD dropped -10.42% on 2020-03-09. Bought 1 shares at $15.91. Average price at $15.91.
+VOD is below the mean by 5.91%>=5.0% and significantly below last purchase price on 2020-03-11. Bought 1 shares at $14.97. Average price at $15.44.
+VOD is below the mean by 13.21%>=5.0% and significantly below last purchase price on 2020-03-12. Bought 1 shares at $13.4. Average price at $14.76.
+VOD is below the mean by 21.48%>=5.0% and significantly below last purchase price on 2020-03-16. Bought 1 shares at $11.59. Average price at $13.97.
+Investment gained 5.89% on 2020-03-26. Span of 17 days. Sold 4 shares at $14.79
+Annualized return: 126.43%
+
+VOD dropped -10.54% on 2020-06-11. Bought 1 shares at $15.61. Average price at $15.61.
+Investment gained 4.36% on 2020-06-16. Span of 5 days. Sold 1 shares at $16.29
+Annualized return: 318.0%
+
+VOD dropped -9.24% on 2021-05-18. Bought 1 shares at $18.37. Average price at $18.37.
+VOD is below the mean by 5.88%>=5.0% and significantly below last purchase price on 2021-06-25. Bought 1 shares at $17.29. Average price at $17.83.
+VOD is below the mean by 7.91%>=5.0% and significantly below last purchase price on 2021-07-08. Bought 1 shares at $16.42. Average price at $17.36.
+VOD is below the mean by 11.0%>=5.0% and significantly below last purchase price on 2021-09-30. Bought 1 shares at $15.45. Average price at $16.88.
+VOD is below the mean by 13.4%>=5.0% and significantly below last purchase price on 2021-12-01. Bought 1 shares at $14.62. Average price at $16.43.
+Investment gained 8.16% on 2022-01-28. Span of 255 days. Sold 5 shares at $17.77
+Annualized return: 11.67%
+
+VOD dropped -6.64% on 2022-04-29. Bought 1 shares at $15.19. Average price at $15.19.
+Investment gained 4.48% on 2022-05-04. Span of 5 days. Sold 1 shares at $15.87
+Annualized return: 326.79%
+
+VOD dropped -6.62% on 2022-07-26. Bought 1 shares at $14.53. Average price at $14.53.
+VOD is below the mean by 5.3%>=5.0% and significantly below last purchase price on 2022-08-24. Bought 1 shares at $13.76. Average price at $14.14.
+VOD is below the mean by 7.81%>=5.0% and significantly below last purchase price on 2022-09-06. Bought 1 shares at $13.04. Average price at $13.78.
+VOD is below the mean by 11.73%>=5.0% and significantly below last purchase price on 2022-09-20. Bought 1 shares at $12.16. Average price at $13.37.
+VOD is below the mean by 13.93%>=5.0% and significantly below last purchase price on 2022-09-26. Bought 1 shares at $11.51. Average price at $13.0.
+VOD is below the mean by 16.46%>=5.0% and significantly below last purchase price on 2022-12-06. Bought 1 shares at $10.86. Average price at $12.64.
+VOD is below the mean by 19.48%>=5.0% and significantly below last purchase price on 2022-12-16. Bought 1 shares at $10.18. Average price at $12.29.
+VOD is below the mean by 21.33%>=5.0% and significantly below last purchase price on 2023-05-30. Bought 1 shares at $9.67. Average price at $11.96.
+VOD is below the mean by 23.44%>=5.0% and significantly below last purchase price on 2023-06-12. Bought 1 shares at $9.16. Average price at $11.65.
+VOD is below the mean by 26.28%>=5.0% and significantly below last purchase price on 2023-12-11. Bought 1 shares at $8.59. Average price at $11.35.
+VOD is below the mean by 28.08%>=5.0% and significantly below last purchase price on 2024-02-07. Bought 1 shares at $8.16. Average price at $11.06.

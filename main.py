@@ -7,13 +7,13 @@ import yfinance as yf
 
 #################### Input ####################
 
-ticker = "SPY"
+ticker = "EIX"
 start_date = "1984-01-01"
 end_date = "2025-02-02"
-percent_drop_min = .018
-percent_gain_min = .02
+percent_drop_min = .05
+percent_gain_min = .04
 
-quantities = [1 for i in range(1, 100)]
+quantities = [1 for i in range(0, 100)]
 
 #############################################
 
