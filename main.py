@@ -7,11 +7,11 @@ import yfinance as yf
 
 #################### Input ####################
 
-ticker = "EIX"
+ticker = "GXO"
 start_date = "1984-01-01"
-end_date = "2025-02-02"
+end_date = "2025-02-12"
 percent_drop_min = .05
-percent_gain_min = .04
+percent_gain_min = .05
 
 quantities = [1 for i in range(0, 100)]
 
