@@ -86,7 +86,7 @@ for price, date in zip(close_list, dates_list):
         buy_prices.append(price)
         buy_dates.append(date)
         buy_quantities.append(quantities[len(buy_quantities)])
-        print(f"{msg}. Bought {buy_quantities[-1]} shares at ${round(buy_prices[-1], 2)}. Average price at ${round(calc_mean_price(buy_prices, buy_quantities), 2)}.")
+        print(f"{msg}. Bought {buy_quantities[-1]} shares at ${round(buy_prices[-1], 3)}. Average price at ${round(calc_mean_price(buy_prices, buy_quantities), 3)}.")
 
     prev_price = price
 

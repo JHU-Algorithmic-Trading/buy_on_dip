@@ -1,6 +1,6 @@
 from stock_drop_backtest import StockDropBacktest
 from pprint import pprint
-from datetime import datetime
+from datetime import datetime, timedelta
 import sys
 # import matplotlib.pyplot as plt
 
@@ -9,7 +9,7 @@ def main(ticker, min_drop, min_gain):
     stock_drop = StockDropBacktest(
         ticker,
         "1984-01-01",
-        datetime.today().strftime("%Y-%m-%d"),
+        (datetime.today() - timedelta(days=1)).strftime("%Y-%m-%d"),
         min_drop,
         min_gain,
         lambda prev_qty: prev_qty
@@ -18,7 +18,7 @@ def main(ticker, min_drop, min_gain):
     metrics = stock_drop.get_metrics()
     pprint(metrics)
 
-    for investment in stock_drop.investments:
+    for investment in stock_drop.position_sets:
         pprint(investment.to_json())
 
     # Time period bar chart
