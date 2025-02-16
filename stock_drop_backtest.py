@@ -87,7 +87,7 @@ class PositionSet:
         result_dict = self.to_dict()
 
         record0 = result_dict["entries"][0]
-        string = f"{record0['date']}: Dropped {record0['day_change_pct']}% | Bought {record0['num_shares']} shares at ${record0['buy_price']} | Avg purchase price at {record0['avg_purchase_price']}\n"
+        string = f"{record0['date']}: Dropped {record0['day_change_pct']}% | Bought {record0['num_shares']} shares at ${record0['buy_price']} | Avg purchase price at ${record0['avg_purchase_price']}\n"
 
         prev_record = record0
         for record in result_dict["entries"][1:]:
@@ -115,6 +115,7 @@ class StockDropBacktest:
     def run(self):
         data = yf.download(self.ticker, self.start_date, self.end_date)
         close_list = list(data["Close"][self.ticker])  # need the [self.ticker] indexing to be compatible with updated yf library
+        # Experiment with open price data too...
         dates_list = list(data.index.values)
 
         prev_price = close_list[0]
