@@ -21,4 +21,7 @@ source venv/bin/activate
 
 : Make edits to the input section of main.py, and run with
 python main.py > ticker_backtest.txt
+
+: Alternatively, run backtests and collect metrics on each of the top however many daily losers via
+python src.py
 ```
