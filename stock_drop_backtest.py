@@ -94,7 +94,7 @@ class PositionSet:
         prev_record = record0
         for record in result_dict["entries"][1:]:
             pct_drop_from_prev_purchase_price = round((prev_record["buy_price"] - record["buy_price"]) / prev_record["buy_price"] * 100, 3)
-            string += f"{record['date']}: Dropped {record['day_change_pct']}% | Below {pct_drop_from_prev_purchase_price}%>={round(self.min_drop * 100, 2)}% from last purchase price | Bought {record['num_shares']} shares at ${record['buy_price']} | Avg purchase price = ${record['avg_purchase_price']}\n"
+            string += f"{record['date']}: Dropped {record['day_change_pct']}% | {pct_drop_from_prev_purchase_price}%>={round(self.min_drop * 100, 2)}% below last purchase price | Bought {record['num_shares']} shares at ${record['buy_price']} | Avg purchase price = ${record['avg_purchase_price']}\n"
             prev_record = record
         
         exit = result_dict["exit"]
