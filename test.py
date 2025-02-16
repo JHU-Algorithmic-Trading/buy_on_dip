@@ -17,9 +17,11 @@ def main(ticker, min_drop, min_gain):
     stock_drop.run()
     metrics = stock_drop.get_metrics()
     pprint(metrics)
+    print("\n\n\n")
 
     for investment in stock_drop.position_sets:
-        pprint(investment.to_json())
+        # pprint(investment.to_json())
+        print(investment)
 
     # Time period bar chart
 

@@ -6,13 +6,13 @@ from datetime import datetime
 
 
 class PositionSet:
-    def __init__(self):
+    def __init__(self, min_drop):
         self.pos_state = True
+        self.min_drop = min_drop
         self.day_changes = []
         self.shares = []
         self.prices = []
         self.dates = []
-        self.exit = None
         self.total_realized_gain = 0
         self.annualized_return = None
         self.sell_date = None
@@ -35,8 +35,10 @@ class PositionSet:
     def get_num_drops(self):
         return len(self.day_changes)
 
-    def get_avg_purchase_price(self):
-        return np.dot(self.shares, self.prices) / sum(self.shares)
+    def get_avg_purchase_price(self, i=None):
+        if i is None:
+            return np.dot(self.shares, self.prices) / sum(self.shares)
+        return np.dot(self.shares[:i+1], self.prices[:i+1]) / sum(self.shares[:i+1])
 
     def get_current_gain(self, current_price):
         pps = self.get_avg_purchase_price()
@@ -57,7 +59,7 @@ class PositionSet:
         
         
     def to_json(self):
-        self.exit = {
+        exit = {
             "date": self.sell_date.astype('datetime64[ms]').astype(datetime).strftime("%m/%d/%Y"),
             "day_change_pct": round(self.sell_day_change * 100, 2),
             "investment_gain_pct": round(self.total_realized_gain * 100, 2),
@@ -66,24 +68,41 @@ class PositionSet:
             "sell_price": round(self.sell_price, 3),
             "annualized_return_pct": round(self.annualized_return * 100, 2)
         }
+            
         return {
             "entries": [
                 {
                     "day_change_pct": round(drop_percent*100, 2),
                     "num_shares": shares,
                     "buy_price": round(price, 3),
+                    "avg_purchase_price": round(self.get_avg_purchase_price(i), 3),
                     "date": date.astype('datetime64[ms]').astype(datetime).strftime("%m/%d/%Y")
-                } for drop_percent, shares, price, date in zip(self.day_changes,
+                } for i, (drop_percent, shares, price, date) in enumerate(zip(self.day_changes,
                                                                 self.shares,
                                                                 self.prices,
-                                                                self.dates)
+                                                                self.dates))
             ],
-            "exit": False if self.get_pos_state() else self.exit
+            "exit": False if self.get_pos_state() else exit
         }
     
     def __str__(self):
-        string = ""
+        result_dict = self.to_json()
 
+        record0 = result_dict["entries"][0]
+        string = f"{record0['date']}: Dropped {record0['day_change_pct']}% | Bought {record0['num_shares']} shares at ${record0['buy_price']} | Avg purchase price at {record0['avg_purchase_price']}\n"
+
+        prev_record = record0
+        for record in result_dict["entries"][1:]:
+            pct_drop_from_prev_purchase_price = round((prev_record["buy_price"] - record["buy_price"]) / prev_record["buy_price"] * 100, 3)
+            string += f"{record['date']}: Dropped {record['day_change_pct']}% | Below {pct_drop_from_prev_purchase_price}%>={round(self.min_drop * 100, 2)}% from last purchase price | Bought {record['num_shares']} shares at ${record['buy_price']} | Avg purchase price = ${record['avg_purchase_price']}\n"
+            prev_record = record
+        
+        exit = result_dict["exit"]
+        if exit:
+            string += f"{exit['date']}: Gained {exit['day_change_pct']}% | Investment gained {exit['investment_gain_pct']}% | Span of {exit['day_duration']} days | Sold {exit['num_shares']} shares at ${exit['sell_price']}\n"
+            string += f"Annualized return: {exit['annualized_return_pct']}%\n"
+        
+        return string
 
 class StockDropBacktest:
     def __init__(self, ticker, start_date, end_date, min_drop, min_gain, next_quantity: Callable[[int], int]):
@@ -112,7 +131,7 @@ class StockDropBacktest:
             
             if len(position_sets) == 0 or not position_sets[-1].get_pos_state():  # need to open a new position
                 if day_change <= -self.min_drop:
-                    ps = PositionSet()
+                    ps = PositionSet(self.min_drop)
                     ps.buy(1, price, date, day_change)
                     position_sets.append(ps)  # always start with 1 share
             elif price <= position_sets[-1].get_avg_purchase_price() * (1 - self.min_drop) and \
@@ -136,10 +155,8 @@ class StockDropBacktest:
             print(f"Currently in a drop and excluding this drop from metrics")
             position_sets = self.position_sets[:-1]
 
-        print("total_realized_gain =", position_sets[0].total_realized_gain)
-
         metrics = {
-            "satisfied": len(position_sets),
+            "num_occurrences": len(position_sets),
             "currently_in_drop": self.position_sets[-1].get_pos_state(),
             "percent_gain": {"mean": None, "median": None, "min": None, "max": None, "std": None},
             # "annualized_return": {"mean": None, "median": None, "std": None},
@@ -147,31 +164,35 @@ class StockDropBacktest:
             "num_buys_per_investment": {"mean": None, "median": None, "min": None, "max": None, "std": None},
         }
 
-        get_total_percent_gain = np.vectorize(lambda obj: float(obj.total_realized_gain))
+        get_total_percent_gain = np.vectorize(lambda obj: obj.total_realized_gain * 100)
         # get_annualized_return = np.vectorize(lambda obj: float(obj.annualized_return))
-        get_time_period = np.vectorize(lambda obj: float(obj.day_duration))
-        get_num_drops = np.vectorize(lambda obj: float(obj.get_num_drops()))
+        get_time_period = np.vectorize(lambda obj: obj.day_duration)
+        get_num_drops = np.vectorize(lambda obj: obj.get_num_drops())
+        rounding_dec_places = 3
 
-        metrics["percent_gain"]["mean"] = np.mean(get_total_percent_gain(position_sets))
-        metrics["percent_gain"]["median"] = np.median(get_total_percent_gain(position_sets))
-        metrics["percent_gain"]["std"] = np.std(get_total_percent_gain(position_sets))
-        metrics["percent_gain"]["min"] = np.min(get_total_percent_gain(position_sets))
-        metrics["percent_gain"]["max"] = np.max(get_total_percent_gain(position_sets))
+        tot_pct_gains = get_total_percent_gain(position_sets)
+        metrics["percent_gain"]["mean"] = round(float(np.mean(tot_pct_gains)), rounding_dec_places)
+        metrics["percent_gain"]["median"] = round(float(np.median(tot_pct_gains)), rounding_dec_places)
+        metrics["percent_gain"]["std"] = round(float(np.std(tot_pct_gains)), rounding_dec_places)
+        metrics["percent_gain"]["min"] = round(float(np.min(tot_pct_gains)), rounding_dec_places)
+        metrics["percent_gain"]["max"] = round(float(np.max(tot_pct_gains)), rounding_dec_places)
 
         # metrics["annualized_return"]["mean"] = np.mean(get_annualized_return(investments))
         # metrics["annualized_return"]["median"] = np.median(get_annualized_return(investments))
         # metrics["annualized_return"]["std"] = np.std(get_annualized_return(investments))
 
-        metrics["time_period"]["mean"] = np.mean(get_time_period(position_sets))
-        metrics["time_period"]["median"] = np.median(get_time_period(position_sets))
-        metrics["time_period"]["std"] = np.std(get_time_period(position_sets))
-        metrics["time_period"]["min"] = np.min(get_time_period(position_sets))
-        metrics["time_period"]["max"] = np.max(get_time_period(position_sets))
+        time_periods = get_time_period(position_sets)
+        metrics["time_period"]["mean"] = round(float(np.mean(time_periods)), rounding_dec_places)
+        metrics["time_period"]["median"] = round(float(np.median(time_periods)), rounding_dec_places)
+        metrics["time_period"]["std"] = round(float(np.std(time_periods)), rounding_dec_places)
+        metrics["time_period"]["min"] = round(float(np.min(time_periods)), rounding_dec_places)
+        metrics["time_period"]["max"] = round(float(np.max(time_periods)), rounding_dec_places)
 
-        metrics["num_buys_per_investment"]["mean"] = np.mean(get_num_drops(position_sets))
-        metrics["num_buys_per_investment"]["median"] = np.median(get_num_drops(position_sets))
-        metrics["num_buys_per_investment"]["std"] = np.std(get_num_drops(position_sets))
-        metrics["num_buys_per_investment"]["min"] = np.min(get_num_drops(position_sets))
-        metrics["num_buys_per_investment"]["max"] = np.max(get_num_drops(position_sets))
+        num_drops = get_num_drops(position_sets)
+        metrics["num_buys_per_investment"]["mean"] = round(float(np.mean(num_drops)), rounding_dec_places)
+        metrics["num_buys_per_investment"]["median"] = round(float(np.median(num_drops)), rounding_dec_places)
+        metrics["num_buys_per_investment"]["std"] = round(float(np.std(num_drops)), rounding_dec_places)
+        metrics["num_buys_per_investment"]["min"] = round(float(np.min(num_drops)), rounding_dec_places)
+        metrics["num_buys_per_investment"]["max"] = round(float(np.max(num_drops)), rounding_dec_places)
 
         return metrics
