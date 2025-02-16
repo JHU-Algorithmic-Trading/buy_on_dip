@@ -58,17 +58,7 @@ class PositionSet:
         self.set_pos_state(False)
         
         
-    def to_json(self):
-        exit = {
-            "date": self.sell_date.astype('datetime64[ms]').astype(datetime).strftime("%m/%d/%Y"),
-            "day_change_pct": round(self.sell_day_change * 100, 2),
-            "investment_gain_pct": round(self.total_realized_gain * 100, 2),
-            "day_duration": self.day_duration,
-            "num_shares": sum(self.shares),
-            "sell_price": round(self.sell_price, 3),
-            "annualized_return_pct": round(self.annualized_return * 100, 2)
-        }
-            
+    def to_dict(self):            
         return {
             "entries": [
                 {
@@ -82,11 +72,19 @@ class PositionSet:
                                                                 self.prices,
                                                                 self.dates))
             ],
-            "exit": False if self.get_pos_state() else exit
+            "exit": False if self.get_pos_state() else {
+                "date": self.sell_date.astype('datetime64[ms]').astype(datetime).strftime("%m/%d/%Y"),
+                "day_change_pct": round(self.sell_day_change * 100, 2),
+                "investment_gain_pct": round(self.total_realized_gain * 100, 2),
+                "day_duration": self.day_duration,
+                "num_shares": sum(self.shares),
+                "sell_price": round(self.sell_price, 3),
+                "annualized_return_pct": round(self.annualized_return * 100, 2)
+            }
         }
     
     def __str__(self):
-        result_dict = self.to_json()
+        result_dict = self.to_dict()
 
         record0 = result_dict["entries"][0]
         string = f"{record0['date']}: Dropped {record0['day_change_pct']}% | Bought {record0['num_shares']} shares at ${record0['buy_price']} | Avg purchase price at {record0['avg_purchase_price']}\n"
@@ -152,7 +150,7 @@ class StockDropBacktest:
 
         position_sets = self.position_sets
         if self.position_sets[-1].get_pos_state():
-            print(f"Currently in a drop and excluding this drop from metrics")
+            # print(f"Currently in a drop and excluding this drop from metrics")
             position_sets = self.position_sets[:-1]
 
         metrics = {
