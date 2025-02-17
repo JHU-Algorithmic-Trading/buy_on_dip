@@ -3,7 +3,7 @@ import os
 from pathlib import Path
 import json
 
-from stock_drop_backtest import StockDropBacktest, PositionSet
+from strategy_backtester import StockDropBacktest, PositionSet
 from yf_scraper import get_top_losers
 
 

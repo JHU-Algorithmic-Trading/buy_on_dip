@@ -7,9 +7,9 @@ import yfinance as yf
 
 #################### Input ####################
 
-ticker = "GXO"
+ticker = "AMAT"
 start_date = "1984-01-01"
-end_date = "2025-02-12"
+end_date = "2025-02-15"
 percent_drop_min = .05
 percent_gain_min = .05
 

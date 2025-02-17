@@ -1,4 +1,4 @@
-from stock_drop_backtest import StockDropBacktest
+from strategy_backtester import StockDropBacktest
 from pprint import pprint
 from datetime import datetime, timedelta
 import sys
