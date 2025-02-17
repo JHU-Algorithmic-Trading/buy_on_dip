@@ -2,6 +2,7 @@ import yfinance as yf
 import numpy as np
 from typing import List, Callable
 from datetime import datetime
+import inspect
 
 
 
@@ -144,6 +145,16 @@ class StockDropBacktest:
 
     def get_number_satisfied_conditions(self):
         return len(self.position_sets) if not self.position_sets[-1].get_pos_state() else len(self.position_sets) - 1
+
+    def get_inputs(self):
+        return {
+            "ticker": self.ticker,
+            "start_date": self.start_date,
+            "end_date": self.end_date,
+            "min_drop": self.min_drop,
+            "min_gain": self.min_gain,
+            "next_quantity": inspect.getsource(self.next_quantity)
+        }
 
     def get_metrics(self):
         if self.position_sets is None:

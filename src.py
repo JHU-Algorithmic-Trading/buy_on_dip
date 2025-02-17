@@ -18,6 +18,7 @@ directory.mkdir(parents=True, exist_ok=True)
 backtest_txt_file_name = "backtest.txt"
 backtest_jsn_file_name = "backtest.json"
 metrics_jsn_file_name = "metrics.json"
+inputs_jsn_file_name = "inputs.json"
 
 MIN_DROP_STOCK_FILTER = .07
 MIN_DROP = .05
