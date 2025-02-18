@@ -29,10 +29,11 @@ MIN_GAIN = .05
 
 def main():
 	losers = get_top_losers(count=50)
+	today_str = datetime.today().strftime("%Y-%m-%d")
 	for loser in losers:
 		change = loser["change"] / 100
 		if change < 0 and abs(change) >= MIN_DROP_STOCK_FILTER:
-			today_str = datetime.today().strftime("%Y-%m-%d")
+			
 			strategy = StockDropBacktest(
 				loser["symbol"],
 				"1984-01-01",

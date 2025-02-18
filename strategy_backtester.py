@@ -115,8 +115,10 @@ class StockDropBacktest:
 
     def run(self):
         data = yf.download(self.ticker, self.start_date, self.end_date)
+        # data: Close, Adj Close?, High, Low, Open, Volume
+        # Volume might be something interesting to consider...
+        open_list = list(data["Open"][self.ticker])
         close_list = list(data["Close"][self.ticker])  # need the [self.ticker] indexing to be compatible with updated yf library
-        # Experiment with open price data too...
         dates_list = list(data.index.values)
 
         prev_price = close_list[0]
