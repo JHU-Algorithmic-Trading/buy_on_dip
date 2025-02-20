@@ -7,9 +7,9 @@ import yfinance as yf
 
 #################### Input ####################
 
-ticker = "AMAT"
+ticker = "AMZN"
 start_date = "1984-01-01"
-end_date = "2025-02-15"
+end_date = "2025-02-18"
 percent_drop_min = .05
 percent_gain_min = .05
 

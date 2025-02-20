@@ -42,7 +42,10 @@ def main():
 				MIN_GAIN,
 				lambda prev_qty: prev_qty
 			)
-			strategy.run()
+			try:
+				strategy.run()
+			except:
+				continue
 			backtest_str = "\n".join([position_set.__str__() for position_set in strategy.position_sets])
 			backtest_json = json.dumps([position_set.to_dict() for position_set in strategy.position_sets])
 			metrics_json = json.dumps(strategy.get_metrics())
