@@ -7,7 +7,7 @@ import yfinance as yf
 
 #################### Input ####################
 
-ticker = "GXO"
+ticker = "AMZN"
 start_date = "1984-01-01"
 end_date = "2025-02-12"
 percent_drop_min = .05
