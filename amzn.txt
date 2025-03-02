@@ -1,0 +1,526 @@
+Ticker: AMZN
+Start Date: 1984-01-01
+End Date: 2025-02-27
+Min Percent Drop: 5.0%
+Min Percent Gain: 5.0%
+Share Quantities: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+----------
+
+
+
+YF.download() has changed argument auto_adjust default to True
+AMZN dropped -11.7% on 1997-05-16. Bought 1 shares at $0.086. Average price at $0.086.
+AMZN is below the mean by 5.42%>=5.0% and significantly below last purchase price on 1997-05-20. Bought 1 shares at $0.082. Average price at $0.084.
+AMZN is below the mean by 15.17%>=5.0% and significantly below last purchase price on 1997-05-21. Bought 1 shares at $0.071. Average price at $0.08.
+Investment gained 5.65% on 1997-06-09. Span of 24 days. Sold 3 shares at $0.08
+Annualized return: 85.96%
+
+AMZN dropped -6.17% on 1997-06-10. Bought 1 shares at $0.079. Average price at $0.079.
+AMZN is below the mean by 5.26%>=5.0% and significantly below last purchase price on 1997-06-23. Bought 1 shares at $0.075. Average price at $0.077.
+Investment gained 23.99% on 1997-07-03. Span of 23 days. Sold 2 shares at $0.1
+Annualized return: 380.65%
+
+AMZN dropped -10.57% on 1997-07-11. Bought 1 shares at $0.115. Average price at $0.115.
+AMZN is below the mean by 6.82%>=5.0% and significantly below last purchase price on 1997-07-14. Bought 1 shares at $0.107. Average price at $0.111.
+Investment gained 10.12% on 1997-07-15. Span of 4 days. Sold 2 shares at $0.12
+Annualized return: 923.24%
+
+AMZN dropped -5.59% on 1997-08-12. Bought 1 shares at $0.11. Average price at $0.11.
+AMZN is below the mean by 7.11%>=5.0% and significantly below last purchase price on 1997-08-18. Bought 1 shares at $0.102. Average price at $0.106.
+Investment gained 10.57% on 1997-08-26. Span of 14 days. Sold 2 shares at $0.12
+Annualized return: 275.46%
+
+AMZN dropped -16.1% on 1997-09-15. Bought 1 shares at $0.155. Average price at $0.155.
+Investment gained 8.42% on 1997-09-16. Span of 1 days. Sold 1 shares at $0.17
+Annualized return: 3072.18%
+
+AMZN dropped -5.41% on 1997-09-24. Bought 1 shares at $0.219. Average price at $0.219.
+AMZN is below the mean by 6.79%>=5.0% and significantly below last purchase price on 1997-09-25. Bought 1 shares at $0.204. Average price at $0.211.
+AMZN is below the mean by 11.28%>=5.0% and significantly below last purchase price on 1997-10-09. Bought 1 shares at $0.188. Average price at $0.203.
+Investment gained 8.83% on 1997-10-21. Span of 27 days. Sold 3 shares at $0.22
+Annualized return: 119.43%
+
+AMZN dropped -15.03% on 1997-10-27. Bought 1 shares at $0.214. Average price at $0.214.
+Investment gained 15.85% on 1997-10-28. Span of 1 days. Sold 1 shares at $0.25
+Annualized return: 5786.55%
+
+AMZN dropped -6.05% on 1997-11-10. Bought 1 shares at $0.21. Average price at $0.21.
+AMZN is below the mean by 6.19%>=5.0% and significantly below last purchase price on 1997-11-11. Bought 1 shares at $0.197. Average price at $0.204.
+Investment gained 7.28% on 1997-11-17. Span of 7 days. Sold 2 shares at $0.22
+Annualized return: 379.58%
+
+AMZN dropped -5.8% on 1997-11-24. Bought 1 shares at $0.211. Average price at $0.211.
+Investment gained 6.4% on 1997-12-04. Span of 10 days. Sold 1 shares at $0.22
+Annualized return: 233.75%
+
+AMZN dropped -7.67% on 1998-01-09. Bought 1 shares at $0.213. Average price at $0.213.
+Investment gained 9.05% on 1998-01-13. Span of 4 days. Sold 1 shares at $0.23
+Annualized return: 825.5%
+
+AMZN dropped -5.9% on 1998-03-03. Bought 1 shares at $0.299. Average price at $0.299.
+Investment gained 6.97% on 1998-03-06. Span of 3 days. Sold 1 shares at $0.32
+Annualized return: 847.88%
+
+AMZN dropped -6.25% on 1998-04-22. Bought 1 shares at $0.364. Average price at $0.364.
+AMZN is below the mean by 7.16%>=5.0% and significantly below last purchase price on 1998-04-23. Bought 1 shares at $0.338. Average price at $0.351.
+Investment gained 13.67% on 1998-04-28. Span of 6 days. Sold 2 shares at $0.4
+Annualized return: 831.61%
+
+AMZN dropped -5.95% on 1998-05-11. Bought 1 shares at $0.362. Average price at $0.362.
+Investment gained 5.18% on 1998-05-12. Span of 1 days. Sold 1 shares at $0.38
+Annualized return: 1890.65%
+
+AMZN dropped -8.7% on 1998-06-18. Bought 1 shares at $0.601. Average price at $0.601.
+Investment gained 5.11% on 1998-06-19. Span of 1 days. Sold 1 shares at $0.63
+Annualized return: 1866.11%
+
+AMZN dropped -12.46% on 1998-07-07. Bought 1 shares at $1.018. Average price at $1.018.
+AMZN is below the mean by 12.28%>=5.0% and significantly below last purchase price on 1998-07-08. Bought 1 shares at $0.893. Average price at $0.955.
+AMZN is below the mean by 13.2%>=5.0% and significantly below last purchase price on 1998-07-10. Bought 1 shares at $0.829. Average price at $0.913.
+Investment gained 9.33% on 1998-07-17. Span of 10 days. Sold 3 shares at $1.0
+Annualized return: 340.72%
+
+AMZN dropped -5.28% on 1998-07-28. Bought 1 shares at $0.991. Average price at $0.991.
+AMZN is below the mean by 9.35%>=5.0% and significantly below last purchase price on 1998-07-29. Bought 1 shares at $0.898. Average price at $0.945.
+Investment gained 7.28% on 1998-08-10. Span of 13 days. Sold 2 shares at $1.01
+Annualized return: 204.31%
+
+AMZN dropped -6.48% on 1998-08-27. Bought 1 shares at $0.992. Average price at $0.992.
+AMZN is below the mean by 11.02%>=5.0% and significantly below last purchase price on 1998-08-28. Bought 1 shares at $0.882. Average price at $0.937.
+AMZN is below the mean by 25.52%>=5.0% and significantly below last purchase price on 1998-08-31. Bought 1 shares at $0.698. Average price at $0.857.
+AMZN is below the mean by 26.07%>=5.0% and significantly below last purchase price on 1998-09-11. Bought 1 shares at $0.634. Average price at $0.801.
+Investment gained 9.31% on 1998-09-23. Span of 27 days. Sold 4 shares at $0.88
+Annualized return: 125.79%
+
+AMZN dropped -8.06% on 1998-10-01. Bought 1 shares at $0.855. Average price at $0.855.
+Investment gained 7.43% on 1998-10-02. Span of 1 days. Sold 1 shares at $0.92
+Annualized return: 2711.95%
+
+AMZN dropped -5.03% on 1998-10-05. Bought 1 shares at $0.873. Average price at $0.873.
+AMZN is below the mean by 10.76%>=5.0% and significantly below last purchase price on 1998-10-07. Bought 1 shares at $0.779. Average price at $0.826.
+AMZN is below the mean by 13.0%>=5.0% and significantly below last purchase price on 1998-10-08. Bought 1 shares at $0.718. Average price at $0.79.
+Investment gained 11.58% on 1998-10-19. Span of 14 days. Sold 3 shares at $0.88
+Annualized return: 301.88%
+
+AMZN dropped -6.55% on 1998-11-19. Bought 1 shares at $1.277. Average price at $1.277.
+Investment gained 17.86% on 1998-11-20. Span of 1 days. Sold 1 shares at $1.51
+Annualized return: 6519.98%
+
+AMZN dropped -11.37% on 1998-11-30. Bought 1 shares at $1.6. Average price at $1.6.
+Investment gained 9.11% on 1998-12-01. Span of 1 days. Sold 1 shares at $1.75
+Annualized return: 3326.82%
+
+AMZN dropped -5.01% on 1998-12-03. Bought 1 shares at $1.579. Average price at $1.579.
+Investment gained 7.68% on 1998-12-08. Span of 5 days. Sold 1 shares at $1.7
+Annualized return: 560.98%
+
+AMZN dropped -5.58% on 1998-12-29. Bought 1 shares at $2.769. Average price at $2.769.
+Investment gained 6.81% on 1999-01-04. Span of 6 days. Sold 1 shares at $2.96
+Annualized return: 414.18%
+
+AMZN dropped -11.51% on 1999-01-12. Bought 1 shares at $4.084. Average price at $4.084.
+AMZN is below the mean by 9.41%>=5.0% and significantly below last purchase price on 1999-01-13. Bought 1 shares at $3.7. Average price at $3.892.
+AMZN is below the mean by 11.36%>=5.0% and significantly below last purchase price on 1999-01-14. Bought 1 shares at $3.45. Average price at $3.745.
+AMZN is below the mean by 24.56%>=5.0% and significantly below last purchase price on 1999-01-20. Bought 1 shares at $2.825. Average price at $3.515.
+AMZN is below the mean by 24.61%>=5.0% and significantly below last purchase price on 1999-01-21. Bought 1 shares at $2.65. Average price at $3.342.
+AMZN is below the mean by 25.19%>=5.0% and significantly below last purchase price on 1999-02-09. Bought 1 shares at $2.5. Average price at $3.202.
+AMZN is below the mean by 26.99%>=5.0% and significantly below last purchase price on 1999-02-17. Bought 1 shares at $2.338. Average price at $3.078.
+Investment gained 8.02% on 1999-03-01. Span of 48 days. Sold 7 shares at $3.33
+Annualized return: 60.99%
+
+AMZN dropped -8.79% on 1999-03-02. Bought 1 shares at $3.033. Average price at $3.033.
+Investment gained 7.11% on 1999-03-09. Span of 7 days. Sold 1 shares at $3.25
+Annualized return: 370.72%
+
+AMZN dropped -9.56% on 1999-03-23. Bought 1 shares at $2.984. Average price at $2.984.
+Investment gained 17.17% on 1999-03-25. Span of 2 days. Sold 1 shares at $3.5
+Annualized return: 3134.03%
+
+AMZN dropped -5.82% on 1999-04-14. Bought 1 shares at $4.2. Average price at $4.2.
+Investment gained 13.1% on 1999-04-16. Span of 2 days. Sold 1 shares at $4.75
+Annualized return: 2389.88%
+
+AMZN dropped -16.35% on 1999-04-19. Bought 1 shares at $3.973. Average price at $3.973.
+Investment gained 8.22% on 1999-04-20. Span of 1 days. Sold 1 shares at $4.3
+Annualized return: 2999.8%
+
+AMZN dropped -6.01% on 1999-04-28. Bought 1 shares at $4.838. Average price at $4.838.
+AMZN is below the mean by 13.05%>=5.0% and significantly below last purchase price on 1999-04-29. Bought 1 shares at $4.206. Average price at $4.522.
+AMZN is below the mean by 16.55%>=5.0% and significantly below last purchase price on 1999-05-03. Bought 1 shares at $3.773. Average price at $4.272.
+AMZN is below the mean by 16.32%>=5.0% and significantly below last purchase price on 1999-05-04. Bought 1 shares at $3.575. Average price at $4.098.
+AMZN is below the mean by 19.25%>=5.0% and significantly below last purchase price on 1999-05-14. Bought 1 shares at $3.309. Average price at $3.94.
+AMZN is below the mean by 25.45%>=5.0% and significantly below last purchase price on 1999-05-24. Bought 1 shares at $2.938. Average price at $3.773.
+AMZN is below the mean by 26.08%>=5.0% and significantly below last purchase price on 1999-05-25. Bought 1 shares at $2.789. Average price at $3.633.
+AMZN is below the mean by 27.18%>=5.0% and significantly below last purchase price on 1999-06-01. Bought 1 shares at $2.645. Average price at $3.509.
+AMZN is below the mean by 34.46%>=5.0% and significantly below last purchase price on 1999-06-14. Bought 1 shares at $2.3. Average price at $3.375.
+AMZN is below the mean by 36.66%>=5.0% and significantly below last purchase price on 1999-08-09. Bought 1 shares at $2.138. Average price at $3.251.
+Investment gained 24.19% on 1999-09-29. Span of 154 days. Sold 10 shares at $4.04
+Annualized return: 57.33%
+
+AMZN dropped -5.89% on 1999-10-13. Bought 1 shares at $3.997. Average price at $3.997.
+AMZN is below the mean by 6.1%>=5.0% and significantly below last purchase price on 1999-10-15. Bought 1 shares at $3.753. Average price at $3.875.
+Investment gained 6.77% on 1999-10-25. Span of 12 days. Sold 2 shares at $4.14
+Annualized return: 206.05%
+
+AMZN dropped -6.54% on 1999-10-27. Bought 1 shares at $3.797. Average price at $3.797.
+AMZN is below the mean by 6.5%>=5.0% and significantly below last purchase price on 1999-10-28. Bought 1 shares at $3.55. Average price at $3.673.
+AMZN is below the mean by 9.57%>=5.0% and significantly below last purchase price on 1999-11-02. Bought 1 shares at $3.322. Average price at $3.556.
+AMZN is below the mean by 11.34%>=5.0% and significantly below last purchase price on 1999-11-04. Bought 1 shares at $3.153. Average price at $3.455.
+Investment gained 12.86% on 1999-11-08. Span of 12 days. Sold 4 shares at $3.9
+Annualized return: 391.3%
+
+AMZN dropped -9.21% on 1999-11-09. Bought 1 shares at $3.541. Average price at $3.541.
+Investment gained 5.83% on 1999-11-12. Span of 3 days. Sold 1 shares at $3.75
+Annualized return: 708.74%
+
+AMZN dropped -5.94% on 1999-11-30. Bought 1 shares at $4.253. Average price at $4.253.
+Investment gained 21.82% on 1999-12-09. Span of 9 days. Sold 1 shares at $5.18
+Annualized return: 885.01%
+
+AMZN dropped -6.71% on 1999-12-14. Bought 1 shares at $4.781. Average price at $4.781.
+AMZN is below the mean by 5.88%>=5.0% and significantly below last purchase price on 1999-12-23. Bought 1 shares at $4.5. Average price at $4.641.
+AMZN is below the mean by 12.59%>=5.0% and significantly below last purchase price on 1999-12-27. Bought 1 shares at $4.056. Average price at $4.446.
+AMZN is below the mean by 14.39%>=5.0% and significantly below last purchase price on 1999-12-31. Bought 1 shares at $3.806. Average price at $4.286.
+AMZN is below the mean by 18.63%>=5.0% and significantly below last purchase price on 2000-01-05. Bought 1 shares at $3.487. Average price at $4.126.
+AMZN is below the mean by 20.55%>=5.0% and significantly below last purchase price on 2000-01-06. Bought 1 shares at $3.278. Average price at $3.985.
+AMZN is below the mean by 22.13%>=5.0% and significantly below last purchase price on 2000-01-21. Bought 1 shares at $3.103. Average price at $3.859.
+Investment gained 9.08% on 2000-02-03. Span of 51 days. Sold 7 shares at $4.21
+Annualized return: 64.99%
+
+AMZN dropped -6.68% on 2000-02-04. Bought 1 shares at $3.928. Average price at $3.928.
+Investment gained 5.81% on 2000-02-08. Span of 4 days. Sold 1 shares at $4.16
+Annualized return: 529.93%
+
+AMZN dropped -5.06% on 2000-02-10. Bought 1 shares at $3.809. Average price at $3.809.
+AMZN is below the mean by 7.22%>=5.0% and significantly below last purchase price on 2000-02-16. Bought 1 shares at $3.534. Average price at $3.672.
+AMZN is below the mean by 11.83%>=5.0% and significantly below last purchase price on 2000-02-18. Bought 1 shares at $3.237. Average price at $3.527.
+AMZN is below the mean by 20.08%>=5.0% and significantly below last purchase price on 2000-04-12. Bought 1 shares at $2.819. Average price at $3.35.
+AMZN is below the mean by 28.36%>=5.0% and significantly below last purchase price on 2000-04-13. Bought 1 shares at $2.4. Average price at $3.16.
+AMZN is below the mean by 28.01%>=5.0% and significantly below last purchase price on 2000-05-25. Bought 1 shares at $2.275. Average price at $3.013.
+AMZN is below the mean by 30.29%>=5.0% and significantly below last purchase price on 2000-06-22. Bought 1 shares at $2.1. Average price at $2.882.
+AMZN is below the mean by 41.23%>=5.0% and significantly below last purchase price on 2000-06-23. Bought 1 shares at $1.694. Average price at $2.734.
+AMZN is below the mean by 42.61%>=5.0% and significantly below last purchase price on 2000-07-27. Bought 1 shares at $1.569. Average price at $2.604.
+AMZN is below the mean by 46.6%>=5.0% and significantly below last purchase price on 2000-10-11. Bought 1 shares at $1.391. Average price at $2.483.
+AMZN is below the mean by 49.4%>=5.0% and significantly below last purchase price on 2000-10-12. Bought 1 shares at $1.256. Average price at $2.371.
+AMZN is below the mean by 53.74%>=5.0% and significantly below last purchase price on 2000-10-17. Bought 1 shares at $1.097. Average price at $2.265.
+AMZN is below the mean by 56.13%>=5.0% and significantly below last purchase price on 2000-12-18. Bought 1 shares at $0.994. Average price at $2.167.
+AMZN is below the mean by 57.9%>=5.0% and significantly below last purchase price on 2000-12-19. Bought 1 shares at $0.913. Average price at $2.078.
+AMZN is below the mean by 59.84%>=5.0% and significantly below last purchase price on 2000-12-20. Bought 1 shares at $0.834. Average price at $1.995.
+AMZN is below the mean by 61.93%>=5.0% and significantly below last purchase price on 2000-12-21. Bought 1 shares at $0.759. Average price at $1.918.
+AMZN is below the mean by 63.82%>=5.0% and significantly below last purchase price on 2001-01-02. Bought 1 shares at $0.694. Average price at $1.846.
+AMZN is below the mean by 66.14%>=5.0% and significantly below last purchase price on 2001-02-20. Bought 1 shares at $0.625. Average price at $1.778.
+AMZN is below the mean by 66.78%>=5.0% and significantly below last purchase price on 2001-02-23. Bought 1 shares at $0.591. Average price at $1.715.
+AMZN is below the mean by 70.3%>=5.0% and significantly below last purchase price on 2001-02-28. Bought 1 shares at $0.509. Average price at $1.655.
+AMZN is below the mean by 72.51%>=5.0% and significantly below last purchase price on 2001-04-02. Bought 1 shares at $0.455. Average price at $1.598.
+AMZN is below the mean by 73.0%>=5.0% and significantly below last purchase price on 2001-04-03. Bought 1 shares at $0.431. Average price at $1.545.
+AMZN is below the mean by 75.24%>=5.0% and significantly below last purchase price on 2001-09-05. Bought 1 shares at $0.382. Average price at $1.494.
+AMZN is below the mean by 76.28%>=5.0% and significantly below last purchase price on 2001-09-25. Bought 1 shares at $0.354. Average price at $1.447.
+AMZN is below the mean by 78.06%>=5.0% and significantly below last purchase price on 2001-09-26. Bought 1 shares at $0.317. Average price at $1.402.
+AMZN is below the mean by 78.7%>=5.0% and significantly below last purchase price on 2001-09-28. Bought 1 shares at $0.299. Average price at $1.359.
+Investment gained 6.57% on 2003-04-25. Span of 1170 days. Sold 26 shares at $1.45
+Annualized return: 2.05%
+
+AMZN dropped -6.11% on 2003-06-06. Bought 1 shares at $1.668. Average price at $1.668.
+Investment gained 5.55% on 2003-06-12. Span of 6 days. Sold 1 shares at $1.76
+Annualized return: 337.46%
+
+AMZN dropped -5.56% on 2003-07-10. Bought 1 shares at $1.913. Average price at $1.913.
+AMZN is below the mean by 5.05%>=5.0% and significantly below last purchase price on 2003-07-17. Bought 1 shares at $1.816. Average price at $1.864.
+Investment gained 7.58% on 2003-07-23. Span of 13 days. Sold 2 shares at $2.01
+Annualized return: 212.73%
+
+AMZN dropped -8.96% on 2003-10-22. Bought 1 shares at $2.701. Average price at $2.701.
+Investment gained 5.02% on 2003-11-03. Span of 12 days. Sold 1 shares at $2.84
+Annualized return: 152.56%
+
+AMZN dropped -6.78% on 2004-01-28. Bought 1 shares at $2.598. Average price at $2.598.
+AMZN is below the mean by 5.27%>=5.0% and significantly below last purchase price on 2004-01-29. Bought 1 shares at $2.461. Average price at $2.53.
+AMZN is below the mean by 11.17%>=5.0% and significantly below last purchase price on 2004-02-03. Bought 1 shares at $2.247. Average price at $2.435.
+AMZN is below the mean by 13.11%>=5.0% and significantly below last purchase price on 2004-02-24. Bought 1 shares at $2.116. Average price at $2.355.
+AMZN is below the mean by 15.88%>=5.0% and significantly below last purchase price on 2004-03-24. Bought 1 shares at $1.982. Average price at $2.281.
+Investment gained 5.45% on 2004-04-08. Span of 71 days. Sold 5 shares at $2.4
+Annualized return: 28.02%
+
+AMZN dropped -5.26% on 2004-04-23. Bought 1 shares at $2.315. Average price at $2.315.
+AMZN is below the mean by 5.81%>=5.0% and significantly below last purchase price on 2004-04-30. Bought 1 shares at $2.18. Average price at $2.247.
+AMZN is below the mean by 8.2%>=5.0% and significantly below last purchase price on 2004-05-10. Bought 1 shares at $2.063. Average price at $2.186.
+Investment gained 8.93% on 2004-05-27. Span of 34 days. Sold 3 shares at $2.38
+Annualized return: 95.85%
+
+AMZN dropped -12.75% on 2004-07-23. Bought 1 shares at $1.999. Average price at $1.999.
+AMZN is below the mean by 5.03%>=5.0% and significantly below last purchase price on 2004-07-28. Bought 1 shares at $1.898. Average price at $1.949.
+AMZN is below the mean by 8.63%>=5.0% and significantly below last purchase price on 2004-08-05. Bought 1 shares at $1.781. Average price at $1.893.
+Investment gained 6.46% on 2004-08-25. Span of 33 days. Sold 3 shares at $2.02
+Annualized return: 71.49%
+
+AMZN dropped -12.34% on 2004-10-22. Bought 1 shares at $1.73. Average price at $1.73.
+Investment gained 6.68% on 2004-11-04. Span of 13 days. Sold 1 shares at $1.85
+Annualized return: 187.45%
+
+AMZN dropped -5.35% on 2005-01-04. Bought 1 shares at $2.107. Average price at $2.107.
+Investment gained 5.72% on 2005-01-14. Span of 10 days. Sold 1 shares at $2.23
+Annualized return: 208.74%
+
+AMZN dropped -14.64% on 2005-02-03. Bought 1 shares at $1.788. Average price at $1.788.
+AMZN is below the mean by 5.26%>=5.0% and significantly below last purchase price on 2005-03-16. Bought 1 shares at $1.694. Average price at $1.741.
+AMZN is below the mean by 8.88%>=5.0% and significantly below last purchase price on 2005-04-27. Bought 1 shares at $1.586. Average price at $1.689.
+Investment gained 5.36% on 2005-05-19. Span of 105 days. Sold 3 shares at $1.78
+Annualized return: 18.63%
+
+AMZN dropped -13.91% on 2005-10-26. Bought 1 shares at $1.987. Average price at $1.987.
+Investment gained 5.53% on 2005-11-08. Span of 13 days. Sold 1 shares at $2.1
+Annualized return: 155.39%
+
+AMZN dropped -10.32% on 2006-02-03. Bought 1 shares at $1.916. Average price at $1.916.
+AMZN is below the mean by 5.77%>=5.0% and significantly below last purchase price on 2006-03-09. Bought 1 shares at $1.806. Average price at $1.861.
+AMZN is below the mean by 8.77%>=5.0% and significantly below last purchase price on 2006-05-03. Bought 1 shares at $1.698. Average price at $1.807.
+AMZN is below the mean by 12.53%>=5.0% and significantly below last purchase price on 2006-05-17. Bought 1 shares at $1.581. Average price at $1.75.
+Investment gained 5.04% on 2006-06-26. Span of 143 days. Sold 4 shares at $1.84
+Annualized return: 12.87%
+
+AMZN dropped -21.82% on 2006-07-26. Bought 1 shares at $1.313. Average price at $1.313.
+Investment gained 5.75% on 2006-08-15. Span of 20 days. Sold 1 shares at $1.39
+Annualized return: 104.94%
+
+AMZN dropped -5.92% on 2006-09-21. Bought 1 shares at $1.511. Average price at $1.511.
+Investment gained 5.2% on 2006-09-25. Span of 4 days. Sold 1 shares at $1.59
+Annualized return: 474.06%
+
+AMZN dropped -5.01% on 2007-02-27. Bought 1 shares at $1.941. Average price at $1.941.
+Investment gained 6.08% on 2007-04-03. Span of 35 days. Sold 1 shares at $2.06
+Annualized return: 63.38%
+
+AMZN dropped -5.03% on 2007-07-31. Bought 1 shares at $3.927. Average price at $3.927.
+AMZN is below the mean by 5.64%>=5.0% and significantly below last purchase price on 2007-08-09. Bought 1 shares at $3.705. Average price at $3.816.
+Investment gained 8.35% on 2007-09-04. Span of 35 days. Sold 2 shares at $4.14
+Annualized return: 87.1%
+
+AMZN dropped -5.62% on 2007-10-11. Bought 1 shares at $4.467. Average price at $4.467.
+Investment gained 12.85% on 2007-10-23. Span of 12 days. Sold 1 shares at $5.04
+Annualized return: 390.85%
+
+AMZN dropped -11.99% on 2007-10-24. Bought 1 shares at $4.437. Average price at $4.437.
+AMZN is below the mean by 5.8%>=5.0% and significantly below last purchase price on 2007-11-08. Bought 1 shares at $4.179. Average price at $4.308.
+AMZN is below the mean by 8.43%>=5.0% and significantly below last purchase price on 2007-11-09. Bought 1 shares at $3.944. Average price at $4.187.
+Investment gained 7.84% on 2007-11-28. Span of 35 days. Sold 3 shares at $4.51
+Annualized return: 81.78%
+
+AMZN dropped -6.74% on 2008-01-04. Bought 1 shares at $4.439. Average price at $4.439.
+AMZN is below the mean by 5.1%>=5.0% and significantly below last purchase price on 2008-01-10. Bought 1 shares at $4.213. Average price at $4.326.
+AMZN is below the mean by 7.82%>=5.0% and significantly below last purchase price on 2008-01-18. Bought 1 shares at $3.988. Average price at $4.213.
+AMZN is below the mean by 12.22%>=5.0% and significantly below last purchase price on 2008-01-23. Bought 1 shares at $3.698. Average price at $4.085.
+AMZN is below the mean by 16.16%>=5.0% and significantly below last purchase price on 2008-02-06. Bought 1 shares at $3.424. Average price at $3.953.
+AMZN is below the mean by 18.45%>=5.0% and significantly below last purchase price on 2008-02-29. Bought 1 shares at $3.224. Average price at $3.831.
+Investment gained 5.71% on 2008-04-23. Span of 110 days. Sold 6 shares at $4.05
+Annualized return: 18.95%
+
+AMZN dropped -5.23% on 2008-06-26. Bought 1 shares at $3.815. Average price at $3.815.
+AMZN is below the mean by 6.37%>=5.0% and significantly below last purchase price on 2008-07-02. Bought 1 shares at $3.572. Average price at $3.694.
+AMZN is below the mean by 10.27%>=5.0% and significantly below last purchase price on 2008-07-14. Bought 1 shares at $3.314. Average price at $3.567.
+Investment gained 10.34% on 2008-07-24. Span of 28 days. Sold 3 shares at $3.94
+Annualized return: 134.85%
+
+AMZN dropped -9.13% on 2008-09-17. Bought 1 shares at $3.577. Average price at $3.577.
+Investment gained 6.93% on 2008-09-18. Span of 1 days. Sold 1 shares at $3.83
+Annualized return: 2530.61%
+
+AMZN dropped -7.49% on 2008-09-22. Bought 1 shares at $3.747. Average price at $3.747.
+AMZN is below the mean by 6.63%>=5.0% and significantly below last purchase price on 2008-09-24. Bought 1 shares at $3.498. Average price at $3.622.
+AMZN is below the mean by 12.55%>=5.0% and significantly below last purchase price on 2008-09-29. Bought 1 shares at $3.168. Average price at $3.471.
+AMZN is below the mean by 15.69%>=5.0% and significantly below last purchase price on 2008-10-07. Bought 1 shares at $2.926. Average price at $3.335.
+AMZN is below the mean by 26.95%>=5.0% and significantly below last purchase price on 2008-10-15. Bought 1 shares at $2.436. Average price at $3.155.
+AMZN is below the mean by 34.13%>=5.0% and significantly below last purchase price on 2008-11-12. Bought 1 shares at $2.078. Average price at $2.975.
+AMZN is below the mean by 35.4%>=5.0% and significantly below last purchase price on 2008-11-18. Bought 1 shares at $1.922. Average price at $2.825.
+AMZN is below the mean by 36.56%>=5.0% and significantly below last purchase price on 2008-11-19. Bought 1 shares at $1.792. Average price at $2.696.
+Investment gained 6.39% on 2009-01-06. Span of 106 days. Sold 8 shares at $2.87
+Annualized return: 22.0%
+
+AMZN dropped -6.47% on 2009-01-12. Bought 1 shares at $2.596. Average price at $2.596.
+AMZN is below the mean by 6.61%>=5.0% and significantly below last purchase price on 2009-01-14. Bought 1 shares at $2.424. Average price at $2.51.
+Investment gained 17.16% on 2009-01-30. Span of 18 days. Sold 2 shares at $2.94
+Annualized return: 347.96%
+
+AMZN dropped -5.1% on 2009-02-10. Bought 1 shares at $3.165. Average price at $3.165.
+Investment gained 8.26% on 2009-03-11. Span of 29 days. Sold 1 shares at $3.43
+Annualized return: 103.97%
+
+AMZN dropped -7.86% on 2009-07-24. Bought 1 shares at $4.325. Average price at $4.325.
+AMZN is below the mean by 6.28%>=5.0% and significantly below last purchase price on 2009-08-17. Bought 1 shares at $4.053. Average price at $4.189.
+Investment gained 8.27% on 2009-09-16. Span of 54 days. Sold 2 shares at $4.53
+Annualized return: 55.87%
+
+AMZN dropped -5.21% on 2010-02-01. Bought 1 shares at $5.944. Average price at $5.944.
+Investment gained 5.6% on 2010-03-02. Span of 29 days. Sold 1 shares at $6.28
+Annualized return: 70.52%
+
+AMZN dropped -5.57% on 2010-05-04. Bought 1 shares at $6.491. Average price at $6.491.
+AMZN is below the mean by 7.79%>=5.0% and significantly below last purchase price on 2010-05-20. Bought 1 shares at $5.985. Average price at $6.238.
+AMZN is below the mean by 12.95%>=5.0% and significantly below last purchase price on 2010-06-29. Bought 1 shares at $5.431. Average price at $5.969.
+Investment gained 6.87% on 2010-08-04. Span of 92 days. Sold 3 shares at $6.38
+Annualized return: 27.24%
+
+AMZN dropped -7.22% on 2011-01-28. Bought 1 shares at $8.557. Average price at $8.557.
+Investment gained 6.97% on 2011-02-08. Span of 11 days. Sold 1 shares at $9.15
+Annualized return: 231.11%
+
+AMZN dropped -5.34% on 2011-08-10. Bought 1 shares at $9.707. Average price at $9.707.
+AMZN is below the mean by 5.98%>=5.0% and significantly below last purchase price on 2011-08-18. Bought 1 shares at $9.126. Average price at $9.416.
+Investment gained 5.81% on 2011-08-26. Span of 16 days. Sold 2 shares at $9.96
+Annualized return: 132.58%
+
+AMZN dropped -5.06% on 2011-10-19. Bought 1 shares at $11.576. Average price at $11.576.
+AMZN is below the mean by 14.31%>=5.0% and significantly below last purchase price on 2011-10-26. Bought 1 shares at $9.92. Average price at $10.748.
+AMZN is below the mean by 15.15%>=5.0% and significantly below last purchase price on 2011-11-25. Bought 1 shares at $9.12. Average price at $10.205.
+AMZN is below the mean by 15.19%>=5.0% and significantly below last purchase price on 2011-12-30. Bought 1 shares at $8.655. Average price at $9.818.
+Investment gained 15.53% on 2012-04-27. Span of 191 days. Sold 4 shares at $11.34
+Annualized return: 29.68%
+
+AMZN dropped -5.68% on 2013-01-29. Bought 1 shares at $13.017. Average price at $13.017.
+Investment gained 5.85% on 2013-03-05. Span of 35 days. Sold 1 shares at $13.78
+Annualized return: 61.05%
+
+AMZN dropped -7.24% on 2013-04-26. Bought 1 shares at $12.741. Average price at $12.741.
+Investment gained 5.31% on 2013-05-14. Span of 18 days. Sold 1 shares at $13.42
+Annualized return: 107.59%
+
+AMZN dropped -11.0% on 2014-01-31. Bought 1 shares at $17.934. Average price at $17.934.
+Investment gained 5.6% on 2014-03-18. Span of 46 days. Sold 1 shares at $18.94
+Annualized return: 44.42%
+
+AMZN dropped -9.88% on 2014-04-25. Bought 1 shares at $15.191. Average price at $15.191.
+AMZN is below the mean by 5.1%>=5.0% and significantly below last purchase price on 2014-05-08. Bought 1 shares at $14.416. Average price at $14.804.
+Investment gained 5.46% on 2014-05-23. Span of 28 days. Sold 2 shares at $15.61
+Annualized return: 71.17%
+
+AMZN dropped -9.65% on 2014-07-25. Bought 1 shares at $16.201. Average price at $16.201.
+AMZN is below the mean by 5.23%>=5.0% and significantly below last purchase price on 2014-08-01. Bought 1 shares at $15.353. Average price at $15.777.
+Investment gained 5.6% on 2014-08-14. Span of 20 days. Sold 2 shares at $16.66
+Annualized return: 102.23%
+
+AMZN dropped -8.34% on 2014-10-24. Bought 1 shares at $14.353. Average price at $14.353.
+Investment gained 6.41% on 2014-10-31. Span of 7 days. Sold 1 shares at $15.27
+Annualized return: 334.23%
+
+AMZN dropped -6.29% on 2015-08-24. Bought 1 shares at $23.169. Average price at $23.169.
+Investment gained 8.07% on 2015-08-26. Span of 2 days. Sold 1 shares at $25.04
+Annualized return: 1473.01%
+
+AMZN dropped -5.76% on 2016-01-04. Bought 1 shares at $31.85. Average price at $31.85.
+AMZN is below the mean by 8.66%>=5.0% and significantly below last purchase price on 2016-01-13. Bought 1 shares at $29.09. Average price at $30.47.
+AMZN is below the mean by 9.4%>=5.0% and significantly below last purchase price on 2016-02-02. Bought 1 shares at $27.605. Average price at $29.515.
+AMZN is below the mean by 14.94%>=5.0% and significantly below last purchase price on 2016-02-05. Bought 1 shares at $25.107. Average price at $28.413.
+Investment gained 5.36% on 2016-03-30. Span of 86 days. Sold 4 shares at $29.93
+Annualized return: 22.73%
+
+AMZN dropped -5.14% on 2016-10-28. Bought 1 shares at $38.816. Average price at $38.816.
+AMZN is below the mean by 7.37%>=5.0% and significantly below last purchase price on 2016-11-14. Bought 1 shares at $35.953. Average price at $37.385.
+Investment gained 5.03% on 2016-11-22. Span of 25 days. Sold 2 shares at $39.27
+Annualized return: 73.49%
+
+AMZN dropped -5.21% on 2018-04-02. Bought 1 shares at $68.6. Average price at $68.6.
+Investment gained 5.81% on 2018-04-05. Span of 3 days. Sold 1 shares at $72.59
+Annualized return: 707.3%
+
+AMZN dropped -6.15% on 2018-10-10. Bought 1 shares at $87.762. Average price at $87.762.
+AMZN is below the mean by 5.19%>=5.0% and significantly below last purchase price on 2018-10-24. Bought 1 shares at $83.21. Average price at $85.486.
+AMZN is below the mean by 9.99%>=5.0% and significantly below last purchase price on 2018-10-29. Bought 1 shares at $76.944. Average price at $82.639.
+Investment gained 6.21% on 2018-11-07. Span of 28 days. Sold 3 shares at $87.77
+Annualized return: 81.01%
+
+AMZN dropped -5.09% on 2018-11-19. Bought 1 shares at $75.615. Average price at $75.615.
+Investment gained 10.94% on 2018-11-28. Span of 9 days. Sold 1 shares at $83.89
+Annualized return: 443.72%
+
+AMZN dropped -5.87% on 2018-12-04. Bought 1 shares at $83.42. Average price at $83.42.
+AMZN is below the mean by 8.84%>=5.0% and significantly below last purchase price on 2018-12-17. Bought 1 shares at $76.046. Average price at $79.733.
+AMZN is below the mean by 13.62%>=5.0% and significantly below last purchase price on 2018-12-21. Bought 1 shares at $68.872. Average price at $76.113.
+Investment gained 7.05% on 2019-01-07. Span of 34 days. Sold 3 shares at $81.48
+Annualized return: 75.64%
+
+AMZN dropped -5.38% on 2019-02-01. Bought 1 shares at $81.312. Average price at $81.312.
+Investment gained 5.3% on 2019-03-15. Span of 42 days. Sold 1 shares at $85.62
+Annualized return: 46.03%
+
+AMZN dropped -5.29% on 2020-03-09. Bought 1 shares at $90.031. Average price at $90.031.
+Investment gained 5.07% on 2020-03-10. Span of 1 days. Sold 1 shares at $94.59
+Annualized return: 1848.91%
+
+AMZN dropped -7.92% on 2020-03-12. Bought 1 shares at $83.83. Average price at $83.83.
+Investment gained 6.46% on 2020-03-13. Span of 1 days. Sold 1 shares at $89.25
+Annualized return: 2359.66%
+
+AMZN dropped -5.37% on 2020-03-16. Bought 1 shares at $84.457. Average price at $84.457.
+Investment gained 7.03% on 2020-03-17. Span of 1 days. Sold 1 shares at $90.39
+Annualized return: 2564.71%
+
+AMZN dropped -7.6% on 2020-05-01. Bought 1 shares at $114.302. Average price at $114.302.
+Investment gained 5.38% on 2020-05-11. Span of 10 days. Sold 1 shares at $120.45
+Annualized return: 196.32%
+
+AMZN dropped -5.45% on 2020-10-30. Bought 1 shares at $151.807. Average price at $151.807.
+Investment gained 6.75% on 2020-11-04. Span of 5 days. Sold 1 shares at $162.06
+Annualized return: 492.92%
+
+AMZN dropped -5.06% on 2020-11-09. Bought 1 shares at $157.187. Average price at $157.187.
+Investment gained 5.67% on 2020-12-29. Span of 50 days. Sold 1 shares at $166.1
+Annualized return: 41.39%
+
+AMZN dropped -7.56% on 2021-07-30. Bought 1 shares at $166.38. Average price at $166.38.
+Investment gained 5.46% on 2021-09-07. Span of 39 days. Sold 1 shares at $175.46
+Annualized return: 51.1%
+
+AMZN dropped -5.95% on 2022-01-21. Bought 1 shares at $142.643. Average price at $142.643.
+Investment gained 5.99% on 2022-02-01. Span of 11 days. Sold 1 shares at $151.19
+Annualized return: 198.9%
+
+AMZN dropped -7.81% on 2022-02-03. Bought 1 shares at $138.846. Average price at $138.846.
+Investment gained 13.54% on 2022-02-04. Span of 1 days. Sold 1 shares at $157.64
+Annualized return: 4940.6%
+
+AMZN dropped -5.62% on 2022-03-07. Bought 1 shares at $137.453. Average price at $137.453.
+Investment gained 6.81% on 2022-03-10. Span of 3 days. Sold 1 shares at $146.82
+Annualized return: 828.9%
+
+AMZN dropped -14.05% on 2022-04-29. Bought 1 shares at $124.282. Average price at $124.282.
+AMZN is below the mean by 6.34%>=5.0% and significantly below last purchase price on 2022-05-05. Bought 1 shares at $116.407. Average price at $120.344.
+AMZN is below the mean by 9.6%>=5.0% and significantly below last purchase price on 2022-05-09. Bought 1 shares at $108.789. Average price at $116.493.
+Investment gained 7.74% on 2022-06-02. Span of 34 days. Sold 3 shares at $125.51
+Annualized return: 83.11%
+
+AMZN dropped -5.6% on 2022-06-10. Bought 1 shares at $109.65. Average price at $109.65.
+AMZN is below the mean by 5.45%>=5.0% and significantly below last purchase price on 2022-06-13. Bought 1 shares at $103.67. Average price at $106.66.
+Investment gained 5.42% on 2022-06-23. Span of 13 days. Sold 2 shares at $112.44
+Annualized return: 152.15%
+
+AMZN dropped -5.14% on 2022-06-28. Bought 1 shares at $107.4. Average price at $107.4.
+Investment gained 5.68% on 2022-07-05. Span of 7 days. Sold 1 shares at $113.5
+Annualized return: 296.16%
+
+AMZN dropped -5.23% on 2022-07-26. Bought 1 shares at $114.81. Average price at $114.81.
+Investment gained 5.37% on 2022-07-27. Span of 1 days. Sold 1 shares at $120.97
+Annualized return: 1958.37%
+
+AMZN dropped -7.06% on 2022-09-13. Bought 1 shares at $126.82. Average price at $126.82.
+AMZN is below the mean by 6.53%>=5.0% and significantly below last purchase price on 2022-09-21. Bought 1 shares at $118.54. Average price at $122.68.
+AMZN is below the mean by 8.53%>=5.0% and significantly below last purchase price on 2022-10-11. Bought 1 shares at $112.21. Average price at $119.19.
+AMZN is below the mean by 13.24%>=5.0% and significantly below last purchase price on 2022-10-28. Bought 1 shares at $103.41. Average price at $115.245.
+AMZN is below the mean by 16.01%>=5.0% and significantly below last purchase price on 2022-11-01. Bought 1 shares at $96.79. Average price at $111.554.
+AMZN is below the mean by 19.95%>=5.0% and significantly below last purchase price on 2022-11-03. Bought 1 shares at $89.3. Average price at $107.845.
+AMZN is below the mean by 22.31%>=5.0% and significantly below last purchase price on 2022-12-22. Bought 1 shares at $83.79. Average price at $104.409.
+Investment gained 8.14% on 2023-02-02. Span of 142 days. Sold 7 shares at $112.91
+Annualized return: 20.93%
+
+AMZN dropped -8.43% on 2023-02-03. Bought 1 shares at $103.39. Average price at $103.39.
+AMZN is below the mean by 5.59%>=5.0% and significantly below last purchase price on 2023-02-10. Bought 1 shares at $97.61. Average price at $100.5.
+AMZN is below the mean by 8.29%>=5.0% and significantly below last purchase price on 2023-03-01. Bought 1 shares at $92.17. Average price at $97.723.
+Investment gained 5.7% on 2023-03-31. Span of 56 days. Sold 3 shares at $103.29
+Annualized return: 37.13%
+
+AMZN dropped -5.58% on 2023-10-25. Bought 1 shares at $121.39. Average price at $121.39.
+Investment gained 5.23% on 2023-10-27. Span of 2 days. Sold 1 shares at $127.74
+Annualized return: 954.67%
+
+AMZN dropped -8.78% on 2024-08-02. Bought 1 shares at $167.9. Average price at $167.9.
+Investment gained 5.77% on 2024-08-15. Span of 13 days. Sold 1 shares at $177.59
+Annualized return: 162.04%
+

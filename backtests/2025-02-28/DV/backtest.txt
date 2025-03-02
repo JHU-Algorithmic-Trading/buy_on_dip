@@ -1,0 +1,99 @@
+05/10/2021: Dropped -9.45% | Bought 1 shares at $32.98 | Avg purchase price at $32.98
+05/13/2021: Dropped -11.39% | 9.915%>=5.0% below last purchase price | Bought 1 shares at $29.71 | Avg purchase price = $31.345
+05/19/2021: Dropped -4.77% | 8.011%>=5.0% below last purchase price | Bought 1 shares at $27.33 | Avg purchase price = $30.007
+05/21/2021: Gained 8.09% | Investment gained 7.31% | Span of 11 days | Sold 3 shares at $32.2
+Annualized return: 242.54%
+
+06/01/2021: Dropped -5.56% | Bought 1 shares at $34.84 | Avg purchase price at $34.84
+06/02/2021: Gained 5.2% | Investment gained 5.2% | Span of 1 days | Sold 1 shares at $36.65
+Annualized return: 1896.24%
+
+06/03/2021: Dropped -5.35% | Bought 1 shares at $34.69 | Avg purchase price at $34.69
+06/14/2021: Gained 4.14% | Investment gained 8.07% | Span of 11 days | Sold 1 shares at $37.49
+Annualized return: 267.83%
+
+06/15/2021: Dropped -5.87% | Bought 1 shares at $35.29 | Avg purchase price at $35.29
+06/18/2021: Gained 8.51% | Investment gained 9.52% | Span of 3 days | Sold 1 shares at $38.65
+Annualized return: 1158.4%
+
+06/30/2021: Dropped -10.03% | Bought 1 shares at $42.34 | Avg purchase price at $42.34
+07/02/2021: Dropped -4.78% | 6.755%>=5.0% below last purchase price | Bought 1 shares at $39.48 | Avg purchase price = $40.91
+07/14/2021: Dropped -4.9% | 8.536%>=5.0% below last purchase price | Bought 1 shares at $36.11 | Avg purchase price = $39.31
+07/27/2021: Dropped -5.39% | 9.582%>=5.0% below last purchase price | Bought 1 shares at $32.65 | Avg purchase price = $37.645
+10/12/2021: Dropped -2.09% | 5.145%>=5.0% below last purchase price | Bought 1 shares at $30.97 | Avg purchase price = $36.31
+10/26/2021: Gained 4.47% | Investment gained 5.48% | Span of 118 days | Sold 5 shares at $38.3
+Annualized return: 16.95%
+
+11/05/2021: Dropped -8.07% | Bought 1 shares at $33.17 | Avg purchase price at $33.17
+11/10/2021: Gained 1.93% | Investment gained 5.22% | Span of 5 days | Sold 1 shares at $34.9
+Annualized return: 380.74%
+
+12/16/2021: Dropped -5.04% | Bought 1 shares at $30.53 | Avg purchase price at $30.53
+12/22/2021: Gained 3.81% | Investment gained 5.34% | Span of 6 days | Sold 1 shares at $32.16
+Annualized return: 324.79%
+
+01/04/2022: Dropped -5.25% | Bought 1 shares at $31.06 | Avg purchase price at $31.06
+01/06/2022: Dropped -2.9% | 7.405%>=5.0% below last purchase price | Bought 1 shares at $28.76 | Avg purchase price = $29.91
+01/13/2022: Dropped -4.18% | 7.476%>=5.0% below last purchase price | Bought 1 shares at $26.61 | Avg purchase price = $28.81
+01/18/2022: Dropped -5.47% | 8.455%>=5.0% below last purchase price | Bought 1 shares at $24.36 | Avg purchase price = $27.698
+01/21/2022: Dropped -6.76% | 5.378%>=5.0% below last purchase price | Bought 1 shares at $23.05 | Avg purchase price = $26.768
+02/09/2022: Gained 3.98% | Investment gained 8.3% | Span of 36 days | Sold 5 shares at $28.99
+Annualized return: 84.16%
+
+02/23/2022: Dropped -10.77% | Bought 1 shares at $24.02 | Avg purchase price at $24.02
+02/24/2022: Gained 5.87% | Investment gained 5.87% | Span of 1 days | Sold 1 shares at $25.43
+Annualized return: 2142.59%
+
+03/07/2022: Dropped -5.46% | Bought 1 shares at $23.7 | Avg purchase price at $23.7
+03/11/2022: Dropped -4.3% | 7.89%>=5.0% below last purchase price | Bought 1 shares at $21.83 | Avg purchase price = $22.765
+03/14/2022: Dropped -5.82% | 5.818%>=5.0% below last purchase price | Bought 1 shares at $20.56 | Avg purchase price = $22.03
+03/16/2022: Gained 17.72% | Investment gained 12.8% | Span of 9 days | Sold 3 shares at $24.85
+Annualized return: 519.14%
+
+04/21/2022: Dropped -5.48% | Bought 1 shares at $22.59 | Avg purchase price at $22.59
+05/05/2022: Dropped -3.34% | 5.312%>=5.0% below last purchase price | Bought 1 shares at $21.39 | Avg purchase price = $21.99
+05/09/2022: Dropped -8.15% | 10.472%>=5.0% below last purchase price | Bought 1 shares at $19.15 | Avg purchase price = $21.043
+05/20/2022: Gained 1.59% | Investment gained 6.02% | Span of 29 days | Sold 3 shares at $22.31
+Annualized return: 75.76%
+
+05/24/2022: Dropped -6.8% | Bought 1 shares at $21.26 | Avg purchase price at $21.26
+05/26/2022: Gained 2.48% | Investment gained 6.96% | Span of 2 days | Sold 1 shares at $22.74
+Annualized return: 1270.46%
+
+06/16/2022: Dropped -5.97% | Bought 1 shares at $20.48 | Avg purchase price at $20.48
+06/21/2022: Gained 2.5% | Investment gained 6.1% | Span of 5 days | Sold 1 shares at $21.73
+Annualized return: 445.56%
+
+06/28/2022: Dropped -7.67% | Bought 1 shares at $22.27 | Avg purchase price at $22.27
+07/01/2022: Gained 4.19% | Investment gained 6.06% | Span of 3 days | Sold 1 shares at $23.62
+Annualized return: 737.54%
+
+11/02/2022: Dropped -10.28% | Bought 1 shares at $25.92 | Avg purchase price at $25.92
+11/04/2022: Dropped -4.62% | 7.523%>=5.0% below last purchase price | Bought 1 shares at $23.97 | Avg purchase price = $24.945
+11/10/2022: Gained 13.31% | Investment gained 12.25% | Span of 8 days | Sold 2 shares at $28.0
+Annualized return: 558.77%
+
+11/11/2022: Dropped -5.57% | Bought 1 shares at $26.44 | Avg purchase price at $26.44
+11/28/2022: Dropped -0.95% | 5.144%>=5.0% below last purchase price | Bought 1 shares at $25.08 | Avg purchase price = $25.76
+12/01/2022: Gained 3.66% | Investment gained 5.43% | Span of 20 days | Sold 2 shares at $27.16
+Annualized return: 99.18%
+
+05/02/2023: Dropped -5.85% | Bought 1 shares at $27.22 | Avg purchase price at $27.22
+05/11/2023: Gained 6.6% | Investment gained 9.22% | Span of 9 days | Sold 1 shares at $29.73
+Annualized return: 373.97%
+
+08/01/2023: Dropped -14.73% | Bought 1 shares at $35.9 | Avg purchase price at $35.9
+08/03/2023: Dropped -0.73% | 5.32%>=5.0% below last purchase price | Bought 1 shares at $33.99 | Avg purchase price = $34.945
+08/10/2023: Dropped -2.65% | 5.06%>=5.0% below last purchase price | Bought 1 shares at $32.27 | Avg purchase price = $34.053
+09/12/2023: Dropped -3.28% | 6.663%>=5.0% below last purchase price | Bought 1 shares at $30.12 | Avg purchase price = $33.07
+09/13/2023: Dropped -5.05% | 5.046%>=5.0% below last purchase price | Bought 1 shares at $28.6 | Avg purchase price = $32.176
+10/13/2023: Dropped -2.34% | 5.07%>=5.0% below last purchase price | Bought 1 shares at $27.15 | Avg purchase price = $31.338
+11/30/2023: Gained 0.97% | Investment gained 5.94% | Span of 121 days | Sold 6 shares at $33.2
+Annualized return: 17.92%
+
+02/28/2024: Dropped -5.56% | Bought 1 shares at $39.24 | Avg purchase price at $39.24
+02/29/2024: Dropped -21.28% | 21.279%>=5.0% below last purchase price | Bought 1 shares at $30.89 | Avg purchase price = $35.065
+04/30/2024: Dropped -4.25% | 5.147%>=5.0% below last purchase price | Bought 1 shares at $29.3 | Avg purchase price = $33.143
+05/08/2024: Dropped -38.57% | 35.904%>=5.0% below last purchase price | Bought 1 shares at $18.78 | Avg purchase price = $29.553
+06/04/2024: Dropped -2.28% | 6.337%>=5.0% below last purchase price | Bought 1 shares at $17.59 | Avg purchase price = $27.16
+10/09/2024: Dropped -1.72% | 5.969%>=5.0% below last purchase price | Bought 1 shares at $16.54 | Avg purchase price = $25.39

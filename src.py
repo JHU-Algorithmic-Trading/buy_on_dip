@@ -40,7 +40,7 @@ def main():
 				today_str,
 				MIN_DROP,
 				MIN_GAIN,
-				lambda prev_qty: prev_qty
+				lambda prev_qty: prev_qty*2
 			)
 			try:
 				strategy.run()

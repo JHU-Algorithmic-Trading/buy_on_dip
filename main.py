@@ -9,7 +9,7 @@ import yfinance as yf
 
 ticker = "AMZN"
 start_date = "1984-01-01"
-end_date = "2025-02-18"
+end_date = "2025-02-27"
 percent_drop_min = .05
 percent_gain_min = .05
 
