@@ -20,7 +20,8 @@ backtest_jsn_file_name = "backtest.json"
 metrics_jsn_file_name = "metrics.json"
 inputs_jsn_file_name = "inputs.json"
 
-MIN_DROP_STOCK_FILTER = .07
+NUM_STOCKS = 50
+MIN_DROP_STOCK_FILTER = .05
 MIN_DROP = .05
 MIN_GAIN = .05
 
@@ -28,10 +29,11 @@ MIN_GAIN = .05
 
 
 def main():
-	losers = get_top_losers(count=50)
+	losers = get_top_losers(count=NUM_STOCKS)
 	today_str = datetime.today().strftime("%Y-%m-%d")
 	for loser in losers:
 		change = loser["change"] / 100
+		# look at '52_week_range' too to filter for stocks near the 1-yr low
 		if change < 0 and abs(change) >= MIN_DROP_STOCK_FILTER:
 			
 			strategy = StockDropBacktest(

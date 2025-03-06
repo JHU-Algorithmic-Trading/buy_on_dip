@@ -6,11 +6,11 @@ Annualized return: 32.01%
 
 11/05/1984: Dropped -5.26% | Bought 1 shares at $0.374 | Avg purchase price at $0.374
 12/19/1984: Gained 4.11% | Investment gained 5.56% | Span of 44 days | Sold 1 shares at $0.395
-Annualized return: 46.09%
+Annualized return: 46.08%
 
 12/26/1984: Dropped -7.5% | Bought 1 shares at $0.385 | Avg purchase price at $0.385
 12/31/1984: Gained 6.49% | Investment gained 10.81% | Span of 5 days | Sold 1 shares at $0.426
-Annualized return: 789.18%
+Annualized return: 789.19%
 
 01/16/1985: Dropped -9.89% | Bought 1 shares at $0.426 | Avg purchase price at $0.426
 01/24/1985: Gained 8.24% | Investment gained 12.2% | Span of 8 days | Sold 1 shares at $0.478
@@ -23,11 +23,11 @@ Annualized return: 54.32%
 
 06/21/1985: Dropped -6.0% | Bought 1 shares at $0.489 | Avg purchase price at $0.489
 06/28/1985: Gained 6.12% | Investment gained 10.64% | Span of 7 days | Sold 1 shares at $0.54
-Annualized return: 554.71%
+Annualized return: 554.72%
 
 07/31/1985: Dropped -10.87% | Bought 1 shares at $0.426 | Avg purchase price at $0.426
 08/01/1985: Gained 7.32% | Investment gained 7.32% | Span of 1 days | Sold 1 shares at $0.457
-Annualized return: 2670.78%
+Annualized return: 2670.77%
 
 09/04/1985: Dropped -6.38% | Bought 1 shares at $0.457 | Avg purchase price at $0.457
 10/03/1985: Gained 2.17% | Investment gained 6.82% | Span of 29 days | Sold 1 shares at $0.489
@@ -35,11 +35,11 @@ Annualized return: 85.81%
 
 12/03/1985: Dropped -5.56% | Bought 1 shares at $0.53 | Avg purchase price at $0.53
 12/05/1985: Gained 5.77% | Investment gained 7.84% | Span of 2 days | Sold 1 shares at $0.572
-Annualized return: 1431.38%
+Annualized return: 1431.39%
 
 03/14/1986: Dropped -7.14% | Bought 1 shares at $0.811 | Avg purchase price at $0.811
 03/17/1986: Gained 7.69% | Investment gained 7.69% | Span of 3 days | Sold 1 shares at $0.873
-Annualized return: 935.91%
+Annualized return: 935.9%
 
 03/24/1986: Dropped -7.14% | Bought 1 shares at $0.811 | Avg purchase price at $0.811
 03/27/1986: Gained 5.13% | Investment gained 5.13% | Span of 3 days | Sold 1 shares at $0.852
@@ -47,11 +47,11 @@ Annualized return: 623.94%
 
 04/15/1986: Dropped -6.06% | Bought 1 shares at $0.967 | Avg purchase price at $0.967
 04/25/1986: Gained 7.81% | Investment gained 11.29% | Span of 10 days | Sold 1 shares at $1.076
-Annualized return: 412.09%
+Annualized return: 412.1%
 
 04/28/1986: Dropped -5.8% | Bought 1 shares at $1.013 | Avg purchase price at $1.013
 04/29/1986: Gained 6.15% | Investment gained 6.15% | Span of 1 days | Sold 1 shares at $1.076
-Annualized return: 2246.14%
+Annualized return: 2246.13%
 
 07/08/1986: Dropped -6.29% | Bought 1 shares at $1.045 | Avg purchase price at $1.045
 07/30/1986: Dropped -3.88% | 7.464%>=5.0% below last purchase price | Bought 2 shares at $0.967 | Avg purchase price = $0.993
@@ -103,7 +103,7 @@ Annualized return: 66.38%
 
 03/28/1990: Dropped -5.26% | Bought 1 shares at $0.577 | Avg purchase price at $0.577
 04/05/1990: Gained 4.11% | Investment gained 5.56% | Span of 8 days | Sold 1 shares at $0.609
-Annualized return: 253.48%
+Annualized return: 253.47%
 
 05/03/1990: Dropped -5.13% | Bought 1 shares at $0.593 | Avg purchase price at $0.593
 08/07/1990: Dropped -2.82% | 6.408%>=5.0% below last purchase price | Bought 2 shares at $0.555 | Avg purchase price = $0.568
@@ -124,11 +124,11 @@ Annualized return: 647.16%
 
 01/09/1992: Dropped -6.47% | Bought 1 shares at $1.301 | Avg purchase price at $1.301
 01/14/1992: Gained 6.21% | Investment gained 7.55% | Span of 5 days | Sold 1 shares at $1.399
-Annualized return: 550.94%
+Annualized return: 550.95%
 
 02/25/1992: Dropped -5.26% | Bought 1 shares at $1.767 | Avg purchase price at $1.767
 03/02/1992: Gained 3.64% | Investment gained 5.56% | Span of 6 days | Sold 1 shares at $1.865
-Annualized return: 337.96%
+Annualized return: 337.97%
 
 03/25/1992: Dropped -5.07% | Bought 1 shares at $1.687 | Avg purchase price at $1.687
 03/27/1992: Dropped -6.86% | 7.765%>=5.0% below last purchase price | Bought 2 shares at $1.556 | Avg purchase price = $1.6
@@ -149,28 +149,22 @@ Annualized return: 204.67%
 01/08/1993: Dropped -5.0% | Bought 1 shares at $2.347 | Avg purchase price at $2.347
 01/11/1993: Dropped -6.84% | 6.86%>=5.0% below last purchase price | Bought 2 shares at $2.186 | Avg purchase price = $2.24
 01/14/1993: Gained 6.91% | Investment gained 10.85% | Span of 6 days | Sold 3 shares at $2.483
-Annualized return: 659.78%
+Annualized return: 659.77%
 
 02/24/1993: Dropped -7.55% | Bought 1 shares at $2.421 | Avg purchase price at $2.421
 03/04/1993: Gained 3.47% | Investment gained 6.63% | Span of 8 days | Sold 1 shares at $2.582
-Annualized return: 302.62%
+Annualized return: 302.61%
 
 03/16/1993: Dropped -5.91% | Bought 1 shares at $2.51 | Avg purchase price at $2.51
 03/25/1993: Dropped -2.04% | 5.418%>=5.0% below last purchase price | Bought 2 shares at $2.374 | Avg purchase price = $2.42
 03/30/1993: Dropped -6.52% | 10.404%>=5.0% below last purchase price | Bought 4 shares at $2.127 | Avg purchase price = $2.252
 04/06/1993: Dropped -6.98% | 6.958%>=5.0% below last purchase price | Bought 8 shares at $1.979 | Avg purchase price = $2.106
-04/07/1993: Dropped -5.0% | 5.003%>=5.0% below last purchase price | Bought 16 shares at $1.88 | Avg purchase price = $1.989
-04/13/1993: Dropped -14.29% | 5.266%>=5.0% below last purchase price | Bought 32 shares at $1.781 | Avg purchase price = $1.883
-04/16/1993: Gained 1.27% | Investment gained 5.05% | Span of 31 days | Sold 63 shares at $1.979
-Annualized return: 59.52%
-
-05/21/1993: Dropped -6.29% | Bought 1 shares at $1.657 | Avg purchase price at $1.657
-05/24/1993: Gained 6.72% | Investment gained 6.72% | Span of 3 days | Sold 1 shares at $1.768
-Annualized return: 817.16%
-
-06/29/1993: Dropped -6.02% | Bought 1 shares at $1.548 | Avg purchase price at $1.548
-07/01/1993: Gained 2.29% | Investment gained 7.2% | Span of 2 days | Sold 1 shares at $1.66
-Annualized return: 1314.0%
+04/08/1993: Dropped -0.66% | 5.659%>=5.0% below last purchase price | Bought 16 shares at $1.867 | Avg purchase price = $1.983
+05/20/1993: Dropped -3.38% | 5.303%>=5.0% below last purchase price | Bought 32 shares at $1.768 | Avg purchase price = $1.874
+05/21/1993: Dropped -6.29% | 6.278%>=5.0% below last purchase price | Bought 64 shares at $1.657 | Avg purchase price = $1.765
+06/08/1993: Dropped -4.55% | 5.975%>=5.0% below last purchase price | Bought 128 shares at $1.558 | Avg purchase price = $1.661
+07/07/1993: Gained 3.6% | Investment gained 7.4% | Span of 113 days | Sold 255 shares at $1.784
+Annualized return: 23.9%
 
 03/30/1994: Dropped -5.63% | Bought 1 shares at $2.499 | Avg purchase price at $2.499
 04/07/1994: Gained 8.0% | Investment gained 7.46% | Span of 8 days | Sold 1 shares at $2.686
@@ -214,7 +208,7 @@ Annualized return: 104.39%
 
 02/03/1998: Dropped -5.81% | Bought 1 shares at $3.084 | Avg purchase price at $3.084
 02/06/1998: Gained 3.36% | Investment gained 7.61% | Span of 3 days | Sold 1 shares at $3.319
-Annualized return: 926.27%
+Annualized return: 926.26%
 
 05/05/1998: Dropped -6.44% | Bought 1 shares at $3.734 | Avg purchase price at $3.734
 05/11/1998: Gained 1.97% | Investment gained 5.61% | Span of 6 days | Sold 1 shares at $3.944
@@ -231,7 +225,7 @@ Annualized return: 73.06%
 
 12/14/1998: Dropped -8.29% | Bought 1 shares at $3.168 | Avg purchase price at $3.168
 12/16/1998: Gained 5.29% | Investment gained 7.83% | Span of 2 days | Sold 1 shares at $3.416
-Annualized return: 1429.22%
+Annualized return: 1429.21%
 
 02/04/1999: Dropped -6.17% | Bought 1 shares at $4.068 | Avg purchase price at $4.068
 02/08/1999: Dropped -1.23% | 5.383%>=5.0% below last purchase price | Bought 2 shares at $3.849 | Avg purchase price = $3.922
@@ -260,7 +254,7 @@ Annualized return: 32.29%
 
 04/14/2000: Dropped -5.1% | Bought 1 shares at $3.748 | Avg purchase price at $3.748
 04/17/2000: Gained 7.42% | Investment gained 7.42% | Span of 3 days | Sold 1 shares at $4.026
-Annualized return: 902.39%
+Annualized return: 902.38%
 
 01/23/2001: Dropped -7.33% | Bought 1 shares at $3.644 | Avg purchase price at $3.644
 01/31/2001: Gained 5.93% | Investment gained 5.54% | Span of 8 days | Sold 1 shares at $3.846
@@ -268,7 +262,7 @@ Annualized return: 252.8%
 
 03/29/2001: Dropped -6.68% | Bought 1 shares at $3.117 | Avg purchase price at $3.117
 03/30/2001: Gained 7.41% | Investment gained 7.41% | Span of 1 days | Sold 1 shares at $3.348
-Annualized return: 2703.71%
+Annualized return: 2703.73%
 
 05/23/2001: Dropped -5.32% | Bought 1 shares at $4.081 | Avg purchase price at $4.081
 06/05/2001: Gained 5.54% | Investment gained 5.62% | Span of 13 days | Sold 1 shares at $4.311
@@ -276,12 +270,12 @@ Annualized return: 157.81%
 
 09/04/2001: Dropped -6.62% | Bought 1 shares at $4.56 | Avg purchase price at $4.56
 09/06/2001: Gained 2.95% | Investment gained 6.08% | Span of 2 days | Sold 1 shares at $4.838
-Annualized return: 1109.81%
+Annualized return: 1109.79%
 
 09/17/2001: Dropped -11.26% | Bought 1 shares at $3.959 | Avg purchase price at $3.959
 09/20/2001: Dropped -5.65% | 8.942%>=5.0% below last purchase price | Bought 2 shares at $3.605 | Avg purchase price = $3.723
 09/28/2001: Gained 7.78% | Investment gained 13.06% | Span of 11 days | Sold 3 shares at $4.209
-Annualized return: 433.21%
+Annualized return: 433.2%
 
 03/20/2002: Dropped -7.6% | Bought 1 shares at $7.022 | Avg purchase price at $7.022
 04/03/2002: Gained 1.33% | Investment gained 5.45% | Span of 14 days | Sold 1 shares at $7.405
@@ -289,7 +283,7 @@ Annualized return: 142.1%
 
 06/12/2002: Dropped -5.97% | Bought 1 shares at $10.034 | Avg purchase price at $10.034
 06/14/2002: Gained 6.21% | Investment gained 8.09% | Span of 2 days | Sold 1 shares at $10.846
-Annualized return: 1476.85%
+Annualized return: 1476.84%
 
 07/16/2002: Dropped -7.54% | Bought 1 shares at $9.849 | Avg purchase price at $9.849
 07/17/2002: Dropped -5.99% | 5.99%>=5.0% below last purchase price | Bought 2 shares at $9.259 | Avg purchase price = $9.456
@@ -300,7 +294,7 @@ Annualized return: 391.93%
 
 07/31/2002: Dropped -5.42% | Bought 1 shares at $9.327 | Avg purchase price at $9.327
 08/01/2002: Gained 6.45% | Investment gained 6.45% | Span of 1 days | Sold 1 shares at $9.929
-Annualized return: 2356.0%
+Annualized return: 2356.01%
 
 08/02/2002: Dropped -11.94% | Bought 1 shares at $8.744 | Avg purchase price at $8.744
 08/06/2002: Gained 6.3% | Investment gained 9.07% | Span of 4 days | Sold 1 shares at $9.537
@@ -312,7 +306,7 @@ Annualized return: 388.65%
 
 10/07/2002: Dropped -6.84% | Bought 1 shares at $8.873 | Avg purchase price at $8.873
 10/10/2002: Gained 3.99% | Investment gained 7.97% | Span of 3 days | Sold 1 shares at $9.58
-Annualized return: 969.78%
+Annualized return: 969.77%
 
 11/07/2002: Dropped -6.28% | Bought 1 shares at $10.275 | Avg purchase price at $10.275
 11/13/2002: Gained 1.01% | Investment gained 5.11% | Span of 6 days | Sold 1 shares at $10.8
@@ -370,9 +364,9 @@ Annualized return: 35.38%
 
 07/13/2006: Dropped -8.23% | Bought 1 shares at $28.331 | Avg purchase price at $28.331
 07/21/2006: Dropped -1.07% | 5.164%>=5.0% below last purchase price | Bought 2 shares at $26.868 | Avg purchase price = $27.356
-08/23/2006: Dropped -1.38% | 6.312%>=5.0% below last purchase price | Bought 4 shares at $25.172 | Avg purchase price = $26.108
-10/05/2006: Gained 4.99% | Investment gained 8.07% | Span of 84 days | Sold 7 shares at $28.216
-Annualized return: 35.09%
+08/22/2006: Dropped -1.08% | 4.999%>=5.0% below last purchase price | Bought 4 shares at $25.525 | Avg purchase price = $26.31
+10/05/2006: Gained 4.99% | Investment gained 7.25% | Span of 84 days | Sold 7 shares at $28.216
+Annualized return: 31.48%
 
 10/17/2006: Dropped -5.5% | Bought 1 shares at $28.941 | Avg purchase price at $28.941
 11/01/2006: Dropped -3.93% | 5.774%>=5.0% below last purchase price | Bought 2 shares at $27.27 | Avg purchase price = $27.827
@@ -419,7 +413,7 @@ Annualized return: 57.73%
 
 07/21/2008: Dropped -6.36% | Bought 1 shares at $14.179 | Avg purchase price at $14.179
 07/22/2008: Gained 5.83% | Investment gained 5.83% | Span of 1 days | Sold 1 shares at $15.004
-Annualized return: 2126.22%
+Annualized return: 2126.21%
 
 07/28/2008: Dropped -5.73% | Bought 1 shares at $14.392 | Avg purchase price at $14.392
 07/31/2008: Dropped -3.96% | 6.17%>=5.0% below last purchase price | Bought 2 shares at $13.504 | Avg purchase price = $13.8
@@ -451,7 +445,7 @@ Annualized return: 503.69%
 
 11/25/2008: Dropped -11.02% | Bought 1 shares at $10.043 | Avg purchase price at $10.043
 11/26/2008: Gained 8.12% | Investment gained 8.12% | Span of 1 days | Sold 1 shares at $10.858
-Annualized return: 2962.18%
+Annualized return: 2962.17%
 
 12/01/2008: Dropped -11.32% | Bought 1 shares at $9.58 | Avg purchase price at $9.58
 12/18/2008: Dropped -5.7% | 8.142%>=5.0% below last purchase price | Bought 2 shares at $8.8 | Avg purchase price = $9.06
@@ -497,7 +491,7 @@ Annualized return: 71.89%
 
 05/07/2010: Dropped -6.58% | Bought 1 shares at $22.689 | Avg purchase price at $22.689
 05/10/2010: Gained 6.44% | Investment gained 6.44% | Span of 3 days | Sold 1 shares at $24.15
-Annualized return: 783.7%
+Annualized return: 783.71%
 
 05/20/2010: Dropped -7.85% | Bought 1 shares at $21.951 | Avg purchase price at $21.951
 05/25/2010: Dropped -2.72% | 6.788%>=5.0% below last purchase price | Bought 2 shares at $20.461 | Avg purchase price = $20.957
@@ -533,7 +527,7 @@ Annualized return: 215.37%
 
 09/21/2011: Dropped -6.19% | Bought 1 shares at $14.111 | Avg purchase price at $14.111
 09/26/2011: Gained 5.53% | Investment gained 10.15% | Span of 5 days | Sold 1 shares at $15.544
-Annualized return: 741.28%
+Annualized return: 741.29%
 
 09/30/2011: Dropped -9.96% | Bought 1 shares at $16.224 | Avg purchase price at $16.224
 10/04/2011: Gained 8.6% | Investment gained 7.22% | Span of 4 days | Sold 1 shares at $17.396
@@ -546,7 +540,7 @@ Annualized return: 348.26%
 
 11/09/2011: Dropped -5.46% | Bought 1 shares at $18.502 | Avg purchase price at $18.502
 11/15/2011: Gained 2.79% | Investment gained 5.19% | Span of 6 days | Sold 1 shares at $19.462
-Annualized return: 315.49%
+Annualized return: 315.48%
 
 03/22/2012: Dropped -8.33% | Bought 1 shares at $22.443 | Avg purchase price at $22.443
 03/27/2012: Gained 2.62% | Investment gained 6.63% | Span of 5 days | Sold 1 shares at $23.931
@@ -578,7 +572,7 @@ Annualized return: 66.98%
 
 08/05/2014: Dropped -5.13% | Bought 1 shares at $41.422 | Avg purchase price at $41.422
 08/18/2014: Gained 2.6% | Investment gained 5.78% | Span of 13 days | Sold 1 shares at $43.814
-Annualized return: 162.2%
+Annualized return: 162.19%
 
 12/04/2014: Dropped -5.68% | Bought 1 shares at $44.827 | Avg purchase price at $44.827
 01/07/2015: Gained 1.68% | Investment gained 5.53% | Span of 34 days | Sold 1 shares at $47.305
@@ -631,11 +625,11 @@ Annualized return: 61.02%
 
 03/22/2019: Dropped -5.9% | Bought 1 shares at $51.117 | Avg purchase price at $51.117
 03/27/2019: Gained 3.07% | Investment gained 5.44% | Span of 5 days | Sold 1 shares at $53.9
-Annualized return: 397.42%
+Annualized return: 397.43%
 
 05/31/2019: Dropped -6.16% | Bought 1 shares at $45.915 | Avg purchase price at $45.915
 06/04/2019: Gained 4.04% | Investment gained 7.22% | Span of 4 days | Sold 1 shares at $49.232
-Annualized return: 659.1%
+Annualized return: 659.11%
 
 08/14/2019: Dropped -8.39% | Bought 1 shares at $40.272 | Avg purchase price at $40.272
 08/15/2019: Dropped -5.05% | 5.046%>=5.0% below last purchase price | Bought 2 shares at $38.24 | Avg purchase price = $38.918
@@ -648,12 +642,12 @@ Annualized return: 732.89%
 
 12/09/2019: Dropped -5.15% | Bought 1 shares at $57.919 | Avg purchase price at $57.919
 12/10/2019: Gained 5.86% | Investment gained 5.86% | Span of 1 days | Sold 1 shares at $61.316
-Annualized return: 2140.72%
+Annualized return: 2140.71%
 
 02/24/2020: Dropped -5.68% | Bought 1 shares at $73.459 | Avg purchase price at $73.459
-02/27/2020: Dropped -6.82% | 6.856%>=5.0% below last purchase price | Bought 2 shares at $68.423 | Avg purchase price = $70.101
-03/05/2020: Dropped -11.32% | 7.559%>=5.0% below last purchase price | Bought 4 shares at $63.251 | Avg purchase price = $66.187
-03/09/2020: Dropped -26.8% | 26.58%>=5.0% below last purchase price | Bought 8 shares at $46.439 | Avg purchase price = $55.655
+02/27/2020: Dropped -6.82% | 6.857%>=5.0% below last purchase price | Bought 2 shares at $68.422 | Avg purchase price = $70.101
+03/05/2020: Dropped -11.32% | 7.559%>=5.0% below last purchase price | Bought 4 shares at $63.25 | Avg purchase price = $66.187
+03/09/2020: Dropped -26.8% | 26.579%>=5.0% below last purchase price | Bought 8 shares at $46.439 | Avg purchase price = $55.655
 03/12/2020: Dropped -12.84% | 10.728%>=5.0% below last purchase price | Bought 16 shares at $41.457 | Avg purchase price = $48.327
 03/16/2020: Dropped -19.75% | 12.562%>=5.0% below last purchase price | Bought 32 shares at $36.249 | Avg purchase price = $42.192
 03/18/2020: Dropped -14.23% | 13.518%>=5.0% below last purchase price | Bought 64 shares at $31.349 | Avg purchase price = $36.728
@@ -667,11 +661,11 @@ Annualized return: 244.87%
 
 04/13/2020: Dropped -9.41% | Bought 1 shares at $42.531 | Avg purchase price at $42.531
 04/14/2020: Gained 10.3% | Investment gained 10.3% | Span of 1 days | Sold 1 shares at $46.911
-Annualized return: 3759.09%
+Annualized return: 3759.08%
 
 04/15/2020: Dropped -7.88% | Bought 1 shares at $43.217 | Avg purchase price at $43.217
 04/17/2020: Gained 7.36% | Investment gained 12.72% | Span of 2 days | Sold 1 shares at $48.713
-Annualized return: 2320.83%
+Annualized return: 2320.84%
 
 04/30/2020: Dropped -5.82% | Bought 1 shares at $60.537 | Avg purchase price at $60.537
 05/04/2020: Dropped -2.99% | 7.765%>=5.0% below last purchase price | Bought 2 shares at $55.836 | Avg purchase price = $57.403
@@ -681,11 +675,11 @@ Annualized return: 334.98%
 05/12/2020: Dropped -5.68% | Bought 1 shares at $66.7 | Avg purchase price at $66.7
 05/13/2020: Dropped -6.68% | 6.676%>=5.0% below last purchase price | Bought 2 shares at $62.247 | Avg purchase price = $63.731
 05/18/2020: Gained 8.16% | Investment gained 11.01% | Span of 6 days | Sold 3 shares at $70.751
-Annualized return: 670.07%
+Annualized return: 670.08%
 
 06/11/2020: Dropped -7.94% | Bought 1 shares at $92.561 | Avg purchase price at $92.561
 06/12/2020: Gained 5.56% | Investment gained 5.56% | Span of 1 days | Sold 1 shares at $97.709
-Annualized return: 2030.18%
+Annualized return: 2030.17%
 
 08/06/2020: Dropped -6.3% | Bought 1 shares at $101.465 | Avg purchase price at $101.465
 08/25/2020: Dropped -5.23% | 9.553%>=5.0% below last purchase price | Bought 2 shares at $91.772 | Avg purchase price = $95.003
