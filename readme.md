@@ -1,27 +1,12 @@
-First time setup...
-```
-: Create virtual environment
-python -m venv venv
-: If on Windows...
-venv\Scripts\activate 
-: If on Mac or Linux
-source venv/bin/activate
-: Install dependencies
-pip install -r requirements.txt
-```
+```commandline
+pip install lean
 
-
-Follow the steps below to run the script...
-```
-: Activate virtual environment
-: If on Windows...
-venv\Scripts\activate 
-: If on Mac or Linux
-source venv/bin/activate
-
-: Make edits to the input section of main.py, and run with
-python main.py > ticker_backtest.txt
-
-: Alternatively, run backtests and collect metrics on each of the top however many daily losers via
-python src.py
+lean init
+lean login
+lean create-project "ProjectName"
+lean cloud pull
+# Modify the algorithm
+lean cloud push
+lean cloud push --project ProjDir/
+lean cloud backtest MyFirstAlgo --open
 ```
