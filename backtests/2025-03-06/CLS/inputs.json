@@ -1,0 +1,6 @@
+{
+    "num_stocks": 25,
+    "min_drop_stock_filter": 0.05,
+    "min_drop": 0.05,
+    "min_gain": 0.05
+}

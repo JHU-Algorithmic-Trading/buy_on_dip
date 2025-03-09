@@ -16,7 +16,7 @@ def get_top_losers(count=50):
             'name': stock.get('shortName', 'N/A'),
             'price': stock.get('regularMarketPrice', 'N/A'),
             'change': stock.get('regularMarketChangePercent', 'N/A'),
-            'sector': ticker_data.get(stock['symbol'], {}).get('sector', 'N/A'),
+            # 'sector': ticker_data.get(stock['symbol'], {}).get('sector', 'N/A'),
             'market_cap': stock.get('marketCap', 'N/A'),
 						'52_week_range': [float(elem) for elem in stock.get('fiftyTwoWeekRange', 'N/A').split(" - ")]
 		} for stock in losers] 

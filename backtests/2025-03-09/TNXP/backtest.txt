@@ -1,0 +1,414 @@
+05/16/2012: Dropped -12.0% | Bought 1 shares at $16896000000.0 | Avg purchase price at $16896000000.0
+05/17/2012: Dropped -23.48% | 23.485%>=5.0% below last purchase price | Bought 2 shares at $12928000000.0 | Avg purchase price = $14250666666.667
+05/25/2012: Dropped -5.0% | 5.941%>=5.0% below last purchase price | Bought 3 shares at $12160000000.0 | Avg purchase price = $13205333333.333
+06/01/2012: Dropped -11.58% | 11.579%>=5.0% below last purchase price | Bought 4 shares at $10752000000.0 | Avg purchase price = $12224000000.0
+06/25/2012: Gained 22.89% | Investment gained 6.81% | Span of 40 days | Sold 10 shares at $13056000000.0
+Annualized return: 62.11%
+
+07/18/2012: Dropped -6.25% | Bought 1 shares at $11520000000.0 | Avg purchase price at $11520000000.0
+07/23/2012: Dropped -5.56% | 5.556%>=5.0% below last purchase price | Bought 2 shares at $10880000000.0 | Avg purchase price = $11093333333.333
+07/24/2012: Gained 10.59% | Investment gained 8.46% | Span of 6 days | Sold 3 shares at $12032000000.0
+Annualized return: 514.74%
+
+08/10/2012: Dropped -6.59% | Bought 1 shares at $10880000000.0 | Avg purchase price at $10880000000.0
+08/28/2012: Dropped -5.88% | 5.882%>=5.0% below last purchase price | Bought 2 shares at $10240000000.0 | Avg purchase price = $10453333333.333
+09/13/2012: Dropped -5.06% | 6.25%>=5.0% below last purchase price | Bought 3 shares at $9600000000.0 | Avg purchase price = $10026666666.667
+10/03/2012: Dropped -5.41% | 6.667%>=5.0% below last purchase price | Bought 4 shares at $8960000000.0 | Avg purchase price = $9600000000.0
+10/25/2012: Gained 14.29% | Investment gained 6.67% | Span of 76 days | Sold 10 shares at $10240000000.0
+Annualized return: 32.02%
+
+10/26/2012: Dropped -18.75% | Bought 1 shares at $8320000000.0 | Avg purchase price at $8320000000.0
+11/05/2012: Gained 2.94% | Investment gained 7.69% | Span of 10 days | Sold 1 shares at $8960000000.0
+Annualized return: 280.77%
+
+11/12/2012: Dropped -14.29% | Bought 1 shares at $7680000000.0 | Avg purchase price at $7680000000.0
+11/13/2012: Dropped -15.0% | 15.0%>=5.0% below last purchase price | Bought 2 shares at $6528000000.0 | Avg purchase price = $6912000000.0
+11/30/2012: Gained 9.09% | Investment gained 11.11% | Span of 18 days | Sold 3 shares at $7680000000.0
+Annualized return: 225.31%
+
+12/05/2012: Dropped -16.67% | Bought 1 shares at $6400000000.0 | Avg purchase price at $6400000000.0
+12/17/2012: Dropped -8.0% | 8.0%>=5.0% below last purchase price | Bought 2 shares at $5888000000.0 | Avg purchase price = $6058666666.667
+12/31/2012: Gained 19.57% | Investment gained 16.2% | Span of 26 days | Sold 3 shares at $7040000000.0
+Annualized return: 227.38%
+
+01/07/2013: Dropped -20.0% | Bought 1 shares at $5632000000.0 | Avg purchase price at $5632000000.0
+01/08/2013: Gained 25.0% | Investment gained 25.0% | Span of 1 days | Sold 1 shares at $7040000000.0
+Annualized return: 9125.0%
+
+01/11/2013: Dropped -7.69% | Bought 1 shares at $7680000000.0 | Avg purchase price at $7680000000.0
+01/14/2013: Gained 8.33% | Investment gained 8.33% | Span of 3 days | Sold 1 shares at $8320000000.0
+Annualized return: 1013.89%
+
+01/15/2013: Dropped -15.38% | Bought 1 shares at $7040000000.0 | Avg purchase price at $7040000000.0
+01/23/2013: Dropped -9.09% | 9.091%>=5.0% below last purchase price | Bought 2 shares at $6400000000.0 | Avg purchase price = $6613333333.333
+02/04/2013: Gained 38.0% | Investment gained 33.55% | Span of 20 days | Sold 3 shares at $8832000000.0
+Annualized return: 612.26%
+
+02/07/2013: Dropped -49.28% | Bought 1 shares at $4480000000.0 | Avg purchase price at $4480000000.0
+02/08/2013: Gained 77.14% | Investment gained 77.14% | Span of 1 days | Sold 1 shares at $7936000000.0
+Annualized return: 28157.14%
+
+02/11/2013: Dropped -11.29% | Bought 1 shares at $7040000000.0 | Avg purchase price at $7040000000.0
+02/12/2013: Dropped -27.27% | 27.273%>=5.0% below last purchase price | Bought 2 shares at $5120000000.0 | Avg purchase price = $5760000000.0
+02/15/2013: Dropped -25.0% | 25.0%>=5.0% below last purchase price | Bought 3 shares at $3840000000.0 | Avg purchase price = $4800000000.0
+02/20/2013: Dropped -25.0% | 20.0%>=5.0% below last purchase price | Bought 4 shares at $3072000000.0 | Avg purchase price = $4108800000.0
+03/01/2013: Gained 31.25% | Investment gained 30.84% | Span of 18 days | Sold 10 shares at $5376000000.0
+Annualized return: 625.39%
+
+03/04/2013: Dropped -23.81% | Bought 1 shares at $4096000000.0 | Avg purchase price at $4096000000.0
+03/05/2013: Gained 21.88% | Investment gained 21.88% | Span of 1 days | Sold 1 shares at $4992000000.0
+Annualized return: 7984.38%
+
+03/08/2013: Dropped -15.38% | Bought 1 shares at $4224000000.0 | Avg purchase price at $4224000000.0
+03/11/2013: Dropped -9.09% | 9.091%>=5.0% below last purchase price | Bought 2 shares at $3840000000.0 | Avg purchase price = $3968000000.0
+03/19/2013: Gained 20.0% | Investment gained 16.13% | Span of 11 days | Sold 3 shares at $4608000000.0
+Annualized return: 535.19%
+
+03/20/2013: Dropped -16.67% | Bought 1 shares at $3840000000.0 | Avg purchase price at $3840000000.0
+03/21/2013: Gained 16.67% | Investment gained 16.67% | Span of 1 days | Sold 1 shares at $4480000000.0
+Annualized return: 6083.33%
+
+03/22/2013: Dropped -14.29% | Bought 1 shares at $3840000000.0 | Avg purchase price at $3840000000.0
+03/26/2013: Dropped -6.67% | 6.667%>=5.0% below last purchase price | Bought 2 shares at $3584000000.0 | Avg purchase price = $3669333333.333
+03/28/2013: Gained 24.14% | Investment gained 25.58% | Span of 6 days | Sold 3 shares at $4608000000.0
+Annualized return: 1556.2%
+
+04/02/2013: Dropped -5.71% | Bought 1 shares at $4224000000.0 | Avg purchase price at $4224000000.0
+04/04/2013: Gained 18.18% | Investment gained 18.18% | Span of 2 days | Sold 1 shares at $4992000000.0
+Annualized return: 3318.18%
+
+04/05/2013: Dropped -5.13% | Bought 1 shares at $4736000000.0 | Avg purchase price at $4736000000.0
+04/09/2013: Dropped -5.41% | 5.405%>=5.0% below last purchase price | Bought 2 shares at $4480000000.0 | Avg purchase price = $4565333333.333
+04/10/2013: Dropped -5.71% | 5.714%>=5.0% below last purchase price | Bought 3 shares at $4224000000.0 | Avg purchase price = $4394666666.667
+04/11/2013: Gained 12.12% | Investment gained 7.77% | Span of 6 days | Sold 6 shares at $4736000000.0
+Annualized return: 472.49%
+
+04/15/2013: Dropped -18.92% | Bought 1 shares at $3840000000.0 | Avg purchase price at $3840000000.0
+04/16/2013: Gained 16.67% | Investment gained 16.67% | Span of 1 days | Sold 1 shares at $4480000000.0
+Annualized return: 6083.33%
+
+04/19/2013: Dropped -14.29% | Bought 1 shares at $3840000000.0 | Avg purchase price at $3840000000.0
+04/24/2013: Gained 16.67% | Investment gained 16.67% | Span of 5 days | Sold 1 shares at $4480000000.0
+Annualized return: 1216.67%
+
+05/15/2013: Dropped -7.14% | Bought 1 shares at $5824000000.0 | Avg purchase price at $5824000000.0
+05/16/2013: Dropped -28.57% | 28.571%>=5.0% below last purchase price | Bought 2 shares at $4160000000.0 | Avg purchase price = $4714666666.667
+05/20/2013: Gained 19.23% | Investment gained 5.2% | Span of 5 days | Sold 3 shares at $4960000000.0
+Annualized return: 379.86%
+
+05/23/2013: Dropped -13.1% | Bought 1 shares at $4160000000.0 | Avg purchase price at $4160000000.0
+05/24/2013: Gained 15.23% | Investment gained 15.23% | Span of 1 days | Sold 1 shares at $4793600000.0
+Annualized return: 5559.23%
+
+05/30/2013: Dropped -10.34% | Bought 1 shares at $4160000000.0 | Avg purchase price at $4160000000.0
+05/31/2013: Gained 6.92% | Investment gained 6.92% | Span of 1 days | Sold 1 shares at $4448000000.0
+Annualized return: 2526.92%
+
+06/03/2013: Dropped -13.67% | Bought 1 shares at $3840000000.0 | Avg purchase price at $3840000000.0
+06/10/2013: Gained 7.5% | Investment gained 7.5% | Span of 7 days | Sold 1 shares at $4128000000.0
+Annualized return: 391.07%
+
+06/20/2013: Dropped -10.83% | Bought 1 shares at $3424000000.0 | Avg purchase price at $3424000000.0
+06/21/2013: Gained 30.65% | Investment gained 30.65% | Span of 1 days | Sold 1 shares at $4473600000.0
+Annualized return: 11188.79%
+
+07/02/2013: Dropped -22.11% | Bought 1 shares at $3360000000.0 | Avg purchase price at $3360000000.0
+07/03/2013: Dropped -23.81% | 23.81%>=5.0% below last purchase price | Bought 2 shares at $2560000000.0 | Avg purchase price = $2826666666.667
+07/05/2013: Gained 53.0% | Investment gained 38.57% | Span of 3 days | Sold 3 shares at $3916800000.0
+Annualized return: 4692.2%
+
+07/22/2013: Dropped -18.65% | Bought 1 shares at $4160000000.0 | Avg purchase price at $4160000000.0
+08/01/2013: Dropped -15.06% | 18.462%>=5.0% below last purchase price | Bought 2 shares at $3392000000.0 | Avg purchase price = $3648000000.0
+08/09/2013: Dropped -30.18% | 27.547%>=5.0% below last purchase price | Bought 3 shares at $2457600000.0 | Avg purchase price = $3052800000.0
+08/20/2013: Dropped -0.55% | 5.469%>=5.0% below last purchase price | Bought 4 shares at $2323200000.0 | Avg purchase price = $2760960000.0
+08/23/2013: Dropped -4.72% | 5.51%>=5.0% below last purchase price | Bought 5 shares at $2195200000.0 | Avg purchase price = $2572373333.333
+09/03/2013: Dropped -6.06% | 9.621%>=5.0% below last purchase price | Bought 6 shares at $1984000000.0 | Avg purchase price = $2404266666.667
+09/13/2013: Gained 5.29% | Investment gained 5.94% | Span of 53 days | Sold 21 shares at $2547200000.0
+Annualized return: 40.94%
+
+09/16/2013: Dropped -6.28% | Bought 1 shares at $2387200000.0 | Avg purchase price at $2387200000.0
+10/04/2013: Gained 1.28% | Investment gained 5.9% | Span of 18 days | Sold 1 shares at $2528000000.0
+Annualized return: 119.6%
+
+10/18/2013: Dropped -5.13% | Bought 1 shares at $2368000000.0 | Avg purchase price at $2368000000.0
+10/30/2013: Gained 3.13% | Investment gained 6.76% | Span of 12 days | Sold 1 shares at $2528000000.0
+Annualized return: 205.52%
+
+12/05/2013: Dropped -8.94% | Bought 1 shares at $4435200000.0 | Avg purchase price at $4435200000.0
+12/06/2013: Gained 30.59% | Investment gained 30.59% | Span of 1 days | Sold 1 shares at $5792000000.0
+Annualized return: 11165.95%
+
+12/11/2013: Dropped -9.41% | Bought 1 shares at $5235200000.0 | Avg purchase price at $5235200000.0
+12/12/2013: Dropped -8.31% | 8.313%>=5.0% below last purchase price | Bought 2 shares at $4800000000.0 | Avg purchase price = $4945066666.667
+12/13/2013: Gained 14.53% | Investment gained 11.17% | Span of 2 days | Sold 3 shares at $5497600000.0
+Annualized return: 2039.15%
+
+01/14/2014: Dropped -10.77% | Bought 1 shares at $10662400000.0 | Avg purchase price at $10662400000.0
+01/17/2014: Dropped -4.04% | 7.263%>=5.0% below last purchase price | Bought 2 shares at $9888000000.0 | Avg purchase price = $10146133333.333
+01/21/2014: Gained 18.06% | Investment gained 15.05% | Span of 7 days | Sold 3 shares at $11673600000.0
+Annualized return: 784.99%
+
+01/23/2014: Dropped -8.17% | Bought 1 shares at $10496000000.0 | Avg purchase price at $10496000000.0
+01/27/2014: Dropped -5.61% | 9.756%>=5.0% below last purchase price | Bought 2 shares at $9472000000.0 | Avg purchase price = $9813333333.333
+01/31/2014: Dropped -5.09% | 5.541%>=5.0% below last purchase price | Bought 3 shares at $8947200000.0 | Avg purchase price = $9380266666.667
+02/03/2014: Dropped -6.22% | 6.223%>=5.0% below last purchase price | Bought 4 shares at $8390400000.0 | Avg purchase price = $8984320000.0
+02/07/2014: Gained 9.1% | Investment gained 5.93% | Span of 15 days | Sold 10 shares at $9516800000.0
+Annualized return: 144.22%
+
+02/12/2014: Dropped -6.8% | Bought 1 shares at $8774400000.0 | Avg purchase price at $8774400000.0
+02/20/2014: Gained 6.01% | Investment gained 6.71% | Span of 8 days | Sold 1 shares at $9363200000.0
+Annualized return: 306.16%
+
+03/11/2014: Dropped -5.14% | Bought 1 shares at $8038400000.0 | Avg purchase price at $8038400000.0
+03/12/2014: Dropped -5.81% | 5.812%>=5.0% below last purchase price | Bought 2 shares at $7571200000.0 | Avg purchase price = $7726933333.333
+03/24/2014: Dropped -2.62% | 5.917%>=5.0% below last purchase price | Bought 3 shares at $7123200000.0 | Avg purchase price = $7425066666.667
+03/25/2014: Dropped -7.28% | 7.278%>=5.0% below last purchase price | Bought 4 shares at $6604800000.0 | Avg purchase price = $7096960000.0
+04/02/2014: Gained 1.21% | Investment gained 5.51% | Span of 22 days | Sold 10 shares at $7488000000.0
+Annualized return: 91.42%
+
+04/10/2014: Dropped -6.38% | Bought 1 shares at $6668800000.0 | Avg purchase price at $6668800000.0
+04/14/2014: Dropped -3.72% | 8.157%>=5.0% below last purchase price | Bought 2 shares at $6124800000.0 | Avg purchase price = $6306133333.333
+05/08/2014: Dropped -6.37% | 10.972%>=5.0% below last purchase price | Bought 3 shares at $5452800000.0 | Avg purchase price = $5879466666.667
+05/28/2014: Gained 6.64% | Investment gained 8.42% | Span of 48 days | Sold 6 shares at $6374400000.0
+Annualized return: 64.01%
+
+07/08/2014: Dropped -5.94% | Bought 1 shares at $8211200000.0 | Avg purchase price at $8211200000.0
+07/11/2014: Dropped -4.95% | 7.249%>=5.0% below last purchase price | Bought 2 shares at $7616000000.0 | Avg purchase price = $7814400000.0
+07/17/2014: Dropped -4.78% | 6.303%>=5.0% below last purchase price | Bought 3 shares at $7136000000.0 | Avg purchase price = $7475200000.0
+08/08/2014: Gained 9.34% | Investment gained 13.27% | Span of 31 days | Sold 6 shares at $8467200000.0
+Annualized return: 156.25%
+
+09/22/2014: Dropped -6.18% | Bought 1 shares at $7776000000.0 | Avg purchase price at $7776000000.0
+09/26/2014: Gained 12.85% | Investment gained 14.9% | Span of 4 days | Sold 1 shares at $8934400000.0
+Annualized return: 1359.36%
+
+09/29/2014: Dropped -50.21% | Bought 1 shares at $4448000000.0 | Avg purchase price at $4448000000.0
+10/01/2014: Dropped -4.82% | 6.187%>=5.0% below last purchase price | Bought 2 shares at $4172800000.0 | Avg purchase price = $4264533333.333
+10/14/2014: Dropped -3.32% | 6.288%>=5.0% below last purchase price | Bought 3 shares at $3910400000.0 | Avg purchase price = $4087466666.667
+10/16/2014: Dropped -3.03% | 5.565%>=5.0% below last purchase price | Bought 4 shares at $3692800000.0 | Avg purchase price = $3929600000.0
+10/20/2014: Dropped -2.7% | 6.239%>=5.0% below last purchase price | Bought 5 shares at $3462400000.0 | Avg purchase price = $3773866666.667
+10/22/2014: Gained 8.33% | Investment gained 5.82% | Span of 23 days | Sold 15 shares at $3993600000.0
+Annualized return: 92.4%
+
+10/31/2014: Dropped -5.38% | Bought 1 shares at $4844800000.0 | Avg purchase price at $4844800000.0
+11/03/2014: Dropped -6.87% | 6.869%>=5.0% below last purchase price | Bought 2 shares at $4512000000.0 | Avg purchase price = $4622933333.333
+11/05/2014: Dropped -3.1% | 6.95%>=5.0% below last purchase price | Bought 3 shares at $4198400000.0 | Avg purchase price = $4410666666.667
+11/07/2014: Gained 12.35% | Investment gained 10.86% | Span of 7 days | Sold 6 shares at $4889600000.0
+Annualized return: 566.19%
+
+12/12/2014: Dropped -5.41% | Bought 1 shares at $4032000000.0 | Avg purchase price at $4032000000.0
+12/19/2014: Dropped -1.81% | 5.238%>=5.0% below last purchase price | Bought 2 shares at $3820800000.0 | Avg purchase price = $3891200000.0
+12/22/2014: Gained 8.88% | Investment gained 6.91% | Span of 10 days | Sold 3 shares at $4160000000.0
+Annualized return: 252.14%
+
+12/30/2014: Dropped -5.62% | Bought 1 shares at $3865600000.0 | Avg purchase price at $3865600000.0
+01/06/2015: Gained 26.5% | Investment gained 22.52% | Span of 7 days | Sold 1 shares at $4736000000.0
+Annualized return: 1174.08%
+
+01/14/2015: Dropped -6.79% | Bought 1 shares at $4652800000.0 | Avg purchase price at $4652800000.0
+01/16/2015: Dropped -0.43% | 5.365%>=5.0% below last purchase price | Bought 2 shares at $4403200000.0 | Avg purchase price = $4486400000.0
+01/22/2015: Dropped -3.92% | 7.267%>=5.0% below last purchase price | Bought 3 shares at $4083200000.0 | Avg purchase price = $4284800000.0
+01/30/2015: Dropped -3.37% | 5.486%>=5.0% below last purchase price | Bought 4 shares at $3859200000.0 | Avg purchase price = $4114560000.0
+03/09/2015: Gained 8.42% | Investment gained 8.1% | Span of 54 days | Sold 10 shares at $4448000000.0
+Annualized return: 54.78%
+
+03/25/2015: Dropped -5.86% | Bought 1 shares at $4012800000.0 | Avg purchase price at $4012800000.0
+04/22/2015: Gained 3.22% | Investment gained 7.34% | Span of 28 days | Sold 1 shares at $4307200000.0
+Annualized return: 95.64%
+
+04/27/2015: Dropped -5.37% | Bought 1 shares at $3948800000.0 | Avg purchase price at $3948800000.0
+05/22/2015: Gained 2.95% | Investment gained 7.62% | Span of 25 days | Sold 1 shares at $4249600000.0
+Annualized return: 111.22%
+
+06/29/2015: Dropped -8.99% | Bought 1 shares at $5440000000.0 | Avg purchase price at $5440000000.0
+06/30/2015: Gained 5.53% | Investment gained 5.53% | Span of 1 days | Sold 1 shares at $5740800000.0
+Annualized return: 2018.24%
+
+07/14/2015: Dropped -9.34% | Bought 1 shares at $4780800000.0 | Avg purchase price at $4780800000.0
+07/16/2015: Gained 2.43% | Investment gained 7.1% | Span of 2 days | Sold 1 shares at $5120000000.0
+Annualized return: 1294.85%
+
+07/24/2015: Dropped -5.57% | Bought 1 shares at $5209600000.0 | Avg purchase price at $5209600000.0
+08/07/2015: Dropped -3.33% | 7.248%>=5.0% below last purchase price | Bought 2 shares at $4832000000.0 | Avg purchase price = $4957866666.667
+08/14/2015: Dropped -3.2% | 7.947%>=5.0% below last purchase price | Bought 3 shares at $4448000000.0 | Avg purchase price = $4702933333.333
+08/21/2015: Dropped -1.5% | 5.612%>=5.0% below last purchase price | Bought 4 shares at $4198400000.0 | Avg purchase price = $4501120000.0
+08/24/2015: Dropped -5.49% | 5.488%>=5.0% below last purchase price | Bought 5 shares at $3968000000.0 | Avg purchase price = $4323413333.333
+08/31/2015: Gained 8.26% | Investment gained 6.73% | Span of 38 days | Sold 15 shares at $4614400000.0
+Annualized return: 64.65%
+
+09/22/2015: Dropped -6.5% | Bought 1 shares at $4416000000.0 | Avg purchase price at $4416000000.0
+09/23/2015: Dropped -5.8% | 5.797%>=5.0% below last purchase price | Bought 2 shares at $4160000000.0 | Avg purchase price = $4245333333.333
+09/28/2015: Dropped -6.46% | 10.923%>=5.0% below last purchase price | Bought 3 shares at $3705600000.0 | Avg purchase price = $3975466666.667
+09/29/2015: Dropped -6.04% | 6.045%>=5.0% below last purchase price | Bought 4 shares at $3481600000.0 | Avg purchase price = $3777920000.0
+10/05/2015: Gained 7.91% | Investment gained 8.59% | Span of 13 days | Sold 10 shares at $4102400000.0
+Annualized return: 241.15%
+
+10/13/2015: Dropped -10.41% | Bought 1 shares at $4076800000.0 | Avg purchase price at $4076800000.0
+10/14/2015: Gained 6.12% | Investment gained 6.12% | Span of 1 days | Sold 1 shares at $4326400000.0
+Annualized return: 2234.69%
+
+11/05/2015: Dropped -5.26% | Bought 1 shares at $4377600000.0 | Avg purchase price at $4377600000.0
+11/11/2015: Dropped -3.32% | 6.433%>=5.0% below last purchase price | Bought 2 shares at $4096000000.0 | Avg purchase price = $4189866666.667
+11/25/2015: Gained 5.37% | Investment gained 7.99% | Span of 20 days | Sold 3 shares at $4524800000.0
+Annualized return: 145.89%
+
+01/07/2016: Dropped -9.19% | Bought 1 shares at $4300800000.0 | Avg purchase price at $4300800000.0
+01/11/2016: Dropped -9.92% | 10.863%>=5.0% below last purchase price | Bought 2 shares at $3833600000.0 | Avg purchase price = $3989333333.333
+01/13/2016: Dropped -15.58% | 15.86%>=5.0% below last purchase price | Bought 3 shares at $3225600000.0 | Avg purchase price = $3607466666.667
+01/19/2016: Dropped -7.2% | 7.937%>=5.0% below last purchase price | Bought 4 shares at $2969600000.0 | Avg purchase price = $3352320000.0
+02/08/2016: Dropped -11.09% | 15.302%>=5.0% below last purchase price | Bought 5 shares at $2515200000.0 | Avg purchase price = $3073280000.0
+02/16/2016: Dropped -36.39% | 34.606%>=5.0% below last purchase price | Bought 6 shares at $1644800000.0 | Avg purchase price = $2665142857.143
+03/01/2016: Dropped -5.65% | 8.949%>=5.0% below last purchase price | Bought 7 shares at $1497600000.0 | Avg purchase price = $2373257142.857
+05/06/2016: Dropped -16.02% | 17.094%>=5.0% below last purchase price | Bought 8 shares at $1241600000.0 | Avg purchase price = $2121777777.778
+09/06/2016: Dropped -57.8% | 52.577%>=5.0% below last purchase price | Bought 9 shares at $588800000.0 | Avg purchase price = $1815182222.222
+09/07/2016: Dropped -5.43% | 5.435%>=5.0% below last purchase price | Bought 10 shares at $556800000.0 | Avg purchase price = $1586385454.545
+09/08/2016: Dropped -9.2% | 9.195%>=5.0% below last purchase price | Bought 11 shares at $505600000.0 | Avg purchase price = $1406254545.455
+09/15/2016: Dropped -5.06% | 5.063%>=5.0% below last purchase price | Bought 12 shares at $480000000.0 | Avg purchase price = $1263753846.154
+09/19/2016: Dropped -4.05% | 5.333%>=5.0% below last purchase price | Bought 13 shares at $454400000.0 | Avg purchase price = $1148131868.132
+10/07/2016: Dropped -4.35% | 7.042%>=5.0% below last purchase price | Bought 14 shares at $422400000.0 | Avg purchase price = $1051367619.048
+10/10/2016: Dropped -6.06% | 6.061%>=5.0% below last purchase price | Bought 15 shares at $396800000.0 | Avg purchase price = $969546666.667
+10/26/2016: Dropped -25.81% | 25.806%>=5.0% below last purchase price | Bought 16 shares at $294400000.0 | Avg purchase price = $890117647.059
+11/01/2016: Dropped -4.44% | 6.522%>=5.0% below last purchase price | Bought 17 shares at $275200000.0 | Avg purchase price = $821793464.052
+11/21/2016: Dropped -4.76% | 6.977%>=5.0% below last purchase price | Bought 18 shares at $256000000.0 | Avg purchase price = $762236257.31
+11/22/2016: Dropped -5.0% | 5.0%>=5.0% below last purchase price | Bought 19 shares at $243200000.0 | Avg purchase price = $710332631.579
+03/22/2017: Dropped -5.93% | 8.158%>=5.0% below last purchase price | Bought 20 shares at $223360000.0 | Avg purchase price = $663954285.714
+08/10/2017: Dropped -3.52% | 5.731%>=5.0% below last purchase price | Bought 21 shares at $210560000.0 | Avg purchase price = $622736623.377
+08/15/2017: Dropped -8.95% | 13.374%>=5.0% below last purchase price | Bought 22 shares at $182400000.0 | Avg purchase price = $584446482.213
+07/27/2018: Dropped -65.82% | 52.632%>=5.0% below last purchase price | Bought 23 shares at $86400000.0 | Avg purchase price = $542942608.696
+07/30/2018: Dropped -11.11% | 11.111%>=5.0% below last purchase price | Bought 24 shares at $76800000.0 | Avg purchase price = $505651200.0
+08/01/2018: Dropped -5.08% | 6.667%>=5.0% below last purchase price | Bought 25 shares at $71680000.0 | Avg purchase price = $472268800.0
+08/10/2018: Dropped -8.7% | 6.25%>=5.0% below last purchase price | Bought 26 shares at $67200000.0 | Avg purchase price = $442263703.704
+09/10/2018: Dropped -19.61% | 21.905%>=5.0% below last purchase price | Bought 27 shares at $52480000.0 | Avg purchase price = $414422010.582
+09/13/2018: Dropped -10.84% | 9.756%>=5.0% below last purchase price | Bought 28 shares at $47360000.0 | Avg purchase price = $389107389.163
+09/17/2018: Dropped -12.68% | 16.216%>=5.0% below last purchase price | Bought 29 shares at $39680000.0 | Avg purchase price = $365812229.885
+10/10/2018: Dropped -3.33% | 6.452%>=5.0% below last purchase price | Bought 30 shares at $37120000.0 | Avg purchase price = $344606279.57
+10/11/2018: Dropped -5.17% | 5.172%>=5.0% below last purchase price | Bought 31 shares at $35200000.0 | Avg purchase price = $325268387.097
+11/15/2018: Dropped -3.77% | 7.273%>=5.0% below last purchase price | Bought 32 shares at $32640000.0 | Avg purchase price = $307533333.333
+11/20/2018: Dropped -4.0% | 5.882%>=5.0% below last purchase price | Bought 33 shares at $30720000.0 | Avg purchase price = $291250196.078
+11/23/2018: Dropped -2.17% | 6.25%>=5.0% below last purchase price | Bought 34 shares at $28800000.0 | Avg purchase price = $276253042.017
+11/27/2018: Dropped -6.67% | 6.667%>=5.0% below last purchase price | Bought 35 shares at $26880000.0 | Avg purchase price = $262398984.127
+11/28/2018: Dropped -9.52% | 9.524%>=5.0% below last purchase price | Bought 36 shares at $24320000.0 | Avg purchase price = $249529849.85
+12/06/2018: Dropped -25.36% | 17.105%>=5.0% below last purchase price | Bought 37 shares at $20160000.0 | Avg purchase price = $237457752.489
+12/07/2018: Dropped -6.67% | 6.667%>=5.0% below last purchase price | Bought 38 shares at $18816000.0 | Avg purchase price = $226245354.926
+12/10/2018: Dropped -7.48% | 7.483%>=5.0% below last purchase price | Bought 39 shares at $17408000.0 | Avg purchase price = $215803487.179
+12/17/2018: Dropped -9.96% | 6.985%>=5.0% below last purchase price | Bought 40 shares at $16192000.0 | Avg purchase price = $206066341.463
+12/19/2018: Dropped -0.41% | 5.138%>=5.0% below last purchase price | Bought 41 shares at $15360000.0 | Avg purchase price = $196985087.108
+12/20/2018: Dropped -10.42% | 10.417%>=5.0% below last purchase price | Bought 42 shares at $13760000.0 | Avg purchase price = $188462990.033
+12/24/2018: Dropped -11.17% | 14.884%>=5.0% below last purchase price | Bought 43 shares at $11712000.0 | Avg purchase price = $180428854.123
+05/16/2019: Dropped -6.67% | 8.197%>=5.0% below last purchase price | Bought 44 shares at $10752000.0 | Avg purchase price = $172887660.606
+05/20/2019: Dropped -4.88% | 7.143%>=5.0% below last purchase price | Bought 45 shares at $9984000.0 | Avg purchase price = $165804892.754
+06/21/2019: Dropped -7.19% | 8.974%>=5.0% below last purchase price | Bought 46 shares at $9088000.0 | Avg purchase price = $159136088.807
+06/24/2019: Dropped -7.04% | 7.042%>=5.0% below last purchase price | Bought 47 shares at $8448000.0 | Avg purchase price = $152857418.44
+07/08/2019: Dropped -3.97% | 8.333%>=5.0% below last purchase price | Bought 48 shares at $7744000.0 | Avg purchase price = $146934421.769
+07/09/2019: Dropped -6.61% | 6.612%>=5.0% below last purchase price | Bought 49 shares at $7232000.0 | Avg purchase price = $141346324.898
+07/15/2019: Dropped -15.04% | 15.044%>=5.0% below last purchase price | Bought 50 shares at $6144000.0 | Avg purchase price = $136044272.941
+07/16/2019: Dropped -40.62% | 40.625%>=5.0% below last purchase price | Bought 51 shares at $3648000.0 | Avg purchase price = $130952108.597
+07/26/2019: Dropped -3.57% | 5.263%>=5.0% below last purchase price | Bought 52 shares at $3456000.0 | Avg purchase price = $126140934.688
+07/29/2019: Dropped -5.56% | 5.556%>=5.0% below last purchase price | Bought 53 shares at $3264000.0 | Avg purchase price = $121589937.107
+08/05/2019: Dropped -5.88% | 5.882%>=5.0% below last purchase price | Bought 54 shares at $3072000.0 | Avg purchase price = $117280193.939
+08/07/2019: Dropped -4.35% | 8.333%>=5.0% below last purchase price | Bought 55 shares at $2816000.0 | Avg purchase price = $113192187.013
+08/28/2019: Dropped -2.38% | 6.818%>=5.0% below last purchase price | Bought 56 shares at $2624000.0 | Avg purchase price = $109312601.504
+10/01/2019: Dropped -5.0% | 7.317%>=5.0% below last purchase price | Bought 57 shares at $2432000.0 | Avg purchase price = $105627063.521
+10/28/2019: Dropped -15.0% | 10.526%>=5.0% below last purchase price | Bought 58 shares at $2176000.0 | Avg purchase price = $102120247.808
+10/31/2019: Dropped -17.14% | 14.706%>=5.0% below last purchase price | Bought 59 shares at $1856000.0 | Avg purchase price = $98778106.215
+11/07/2019: Dropped -19.88% | 9.655%>=5.0% below last purchase price | Bought 60 shares at $1676800.0 | Avg purchase price = $95594456.831
+11/14/2019: Dropped -16.29% | 15.649%>=5.0% below last purchase price | Bought 61 shares at $1414400.0 | Avg purchase price = $92556390.481
+11/15/2019: Dropped -25.34% | 25.339%>=5.0% below last purchase price | Bought 62 shares at $1056000.0 | Avg purchase price = $89651616.18
+11/18/2019: Dropped -7.27% | 7.273%>=5.0% below last purchase price | Bought 63 shares at $979200.0 | Avg purchase price = $86880603.175
+11/21/2019: Dropped -13.7% | 17.647%>=5.0% below last purchase price | Bought 64 shares at $806400.0 | Avg purchase price = $84232166.154
+11/26/2019: Dropped -16.0% | 16.667%>=5.0% below last purchase price | Bought 65 shares at $672000.0 | Avg purchase price = $81700039.907
+12/09/2019: Dropped -8.49% | 7.619%>=5.0% below last purchase price | Bought 66 shares at $620800.0 | Avg purchase price = $79279764.089
+12/10/2019: Dropped -7.22% | 7.216%>=5.0% below last purchase price | Bought 67 shares at $576000.0 | Avg purchase price = $76964947.498
+02/07/2020: Dropped -39.08% | 41.111%>=5.0% below last purchase price | Bought 68 shares at $339200.0 | Avg purchase price = $74743911.338
+02/10/2020: Dropped -5.66% | 5.66%>=5.0% below last purchase price | Bought 69 shares at $320000.0 | Avg purchase price = $72617513.872
+02/11/2020: Dropped -6.0% | 6.0%>=5.0% below last purchase price | Bought 70 shares at $300800.0 | Avg purchase price = $70580423.34
+02/14/2020: Dropped -6.38% | 6.383%>=5.0% below last purchase price | Bought 71 shares at $281600.0 | Avg purchase price = $68627678.247
+02/25/2020: Dropped -6.98% | 9.091%>=5.0% below last purchase price | Bought 72 shares at $256000.0 | Avg purchase price = $66754481.583
+12/10/2021: Dropped -5.0% | 5.0%>=5.0% below last purchase price | Bought 73 shares at $243200.0 | Avg purchase price = $64956879.378
+12/29/2021: Dropped -7.69% | 5.263%>=5.0% below last purchase price | Bought 74 shares at $230400.0 | Avg purchase price = $63230839.928
+01/06/2022: Dropped -2.86% | 5.556%>=5.0% below last purchase price | Bought 75 shares at $217600.0 | Avg purchase price = $61572596.772
+01/10/2022: Dropped -5.88% | 5.882%>=5.0% below last purchase price | Bought 76 shares at $204800.0 | Avg purchase price = $59978628.025
+01/13/2022: Dropped -6.45% | 9.375%>=5.0% below last purchase price | Bought 77 shares at $185600.0 | Avg purchase price = $58445473.46
+01/19/2022: Dropped -3.57% | 6.897%>=5.0% below last purchase price | Bought 78 shares at $172800.0 | Avg purchase price = $56970215.904
+01/20/2022: Dropped -7.41% | 7.407%>=5.0% below last purchase price | Bought 79 shares at $160000.0 | Avg purchase price = $55549960.506
+01/21/2022: Dropped -8.0% | 8.0%>=5.0% below last purchase price | Bought 80 shares at $147200.0 | Avg purchase price = $54181991.111
+02/03/2022: Dropped -8.7% | 8.696%>=5.0% below last purchase price | Bought 81 shares at $134400.0 | Avg purchase price = $52863757.182
+02/18/2022: Dropped -10.0% | 14.286%>=5.0% below last purchase price | Bought 82 shares at $115200.0 | Avg purchase price = $51592707.611
+02/23/2022: Dropped -5.56% | 5.556%>=5.0% below last purchase price | Bought 83 shares at $108800.0 | Avg purchase price = $50366900.287
+04/22/2022: Dropped -5.88% | 5.882%>=5.0% below last purchase price | Bought 84 shares at $102400.0 | Avg purchase price = $49184206.162
+04/26/2022: Dropped -6.25% | 6.25%>=5.0% below last purchase price | Bought 85 shares at $96000.0 | Avg purchase price = $48042619.973
+05/05/2022: Dropped -6.67% | 6.667%>=5.0% below last purchase price | Bought 86 shares at $89600.0 | Avg purchase price = $46940251.697
+05/09/2022: Dropped -7.14% | 7.143%>=5.0% below last purchase price | Bought 87 shares at $83200.0 | Avg purchase price = $45875318.704
+05/11/2022: Dropped -21.43% | 15.385%>=5.0% below last purchase price | Bought 88 shares at $70400.0 | Avg purchase price = $44845994.688
+05/16/2022: Dropped -30.77% | 18.182%>=5.0% below last purchase price | Bought 89 shares at $57600.0 | Avg purchase price = $43850697.029
+05/17/2022: Dropped -23.26% | 23.264%>=5.0% below last purchase price | Bought 90 shares at $44200.0 | Avg purchase price = $42887916.874
+05/18/2022: Dropped -13.12% | 13.122%>=5.0% below last purchase price | Bought 91 shares at $38400.0 | Avg purchase price = $41956405.638
+06/13/2022: Dropped -8.29% | 7.812%>=5.0% below last purchase price | Bought 92 shares at $35400.0 | Avg purchase price = $41054878.635
+06/29/2022: Dropped -1.78% | 6.215%>=5.0% below last purchase price | Bought 93 shares at $33200.0 | Avg purchase price = $40182076.962
+07/11/2022: Dropped -8.98% | 8.434%>=5.0% below last purchase price | Bought 94 shares at $30400.0 | Avg purchase price = $39336778.499
+07/12/2022: Dropped -7.89% | 7.895%>=5.0% below last purchase price | Bought 95 shares at $28000.0 | Avg purchase price = $38517845.614
+07/14/2022: Dropped -5.19% | 8.571%>=5.0% below last purchase price | Bought 96 shares at $25600.0 | Avg purchase price = $37724191.065
+07/22/2022: Dropped -9.16% | 7.031%>=5.0% below last purchase price | Bought 97 shares at $23800.0 | Avg purchase price = $36954795.329
+08/26/2022: Dropped -7.5% | 6.723%>=5.0% below last purchase price | Bought 98 shares at $22200.0 | Avg purchase price = $36208682.292
+08/29/2022: Dropped -8.11% | 8.108%>=5.0% below last purchase price | Bought 99 shares at $20400.0 | Avg purchase price = $35484916.646
+09/06/2022: Dropped -8.08% | 10.784%>=5.0% below last purchase price | Bought 100 shares at $18200.0 | Avg purchase price = $34782605.426
+09/15/2022: Dropped -4.44% | 5.495%>=5.0% below last purchase price | Bought 101 shares at $17200.0 | Avg purchase price = $34100930.81
+09/16/2022: Dropped -8.14% | 8.14%>=5.0% below last purchase price | Bought 102 shares at $15800.0 | Avg purchase price = $33439083.609
+09/19/2022: Dropped -10.13% | 10.127%>=5.0% below last purchase price | Bought 103 shares at $14200.0 | Avg purchase price = $32796297.386
+09/20/2022: Dropped -8.45% | 8.451%>=5.0% below last purchase price | Bought 104 shares at $13000.0 | Avg purchase price = $32171853.626
+09/22/2022: Dropped -10.94% | 12.308%>=5.0% below last purchase price | Bought 105 shares at $11400.0 | Avg purchase price = $31565052.615
+09/26/2022: Dropped -3.64% | 7.018%>=5.0% below last purchase price | Bought 106 shares at $10600.0 | Avg purchase price = $30975249.762
+10/10/2022: Dropped -1.96% | 5.66%>=5.0% below last purchase price | Bought 107 shares at $10000.0 | Avg purchase price = $30401819.211
+10/27/2022: Dropped -6.12% | 8.0%>=5.0% below last purchase price | Bought 108 shares at $9200.0 | Avg purchase price = $29844156.473
+11/18/2022: Dropped -6.67% | 8.696%>=5.0% below last purchase price | Bought 109 shares at $8400.0 | Avg purchase price = $29301688.173
+11/21/2022: Dropped -7.14% | 7.143%>=5.0% below last purchase price | Bought 110 shares at $7800.0 | Avg purchase price = $28773870.369
+12/07/2022: Dropped -5.13% | 5.128%>=5.0% below last purchase price | Bought 111 shares at $7400.0 | Avg purchase price = $28260183.398
+12/14/2022: Dropped -8.11% | 8.108%>=5.0% below last purchase price | Bought 112 shares at $6800.0 | Avg purchase price = $27760123.515
+12/16/2022: Dropped -3.03% | 5.882%>=5.0% below last purchase price | Bought 113 shares at $6400.0 | Avg purchase price = $27273216.084
+12/19/2022: Dropped -9.38% | 9.375%>=5.0% below last purchase price | Bought 114 shares at $5800.0 | Avg purchase price = $26799000.153
+05/25/2023: Dropped -4.49% | 6.207%>=5.0% below last purchase price | Bought 115 shares at $5440.0 | Avg purchase price = $26337042.219
+06/23/2023: Dropped -3.61% | 5.882%>=5.0% below last purchase price | Bought 116 shares at $5120.0 | Avg purchase price = $25886923.89
+06/26/2023: Dropped -10.62% | 10.625%>=5.0% below last purchase price | Bought 117 shares at $4576.0 | Avg purchase price = $25448240.028
+07/28/2023: Dropped -39.89% | 25.175%>=5.0% below last purchase price | Bought 118 shares at $3424.0 | Avg purchase price = $25020596.061
+08/02/2023: Dropped -1.94% | 5.607%>=5.0% below last purchase price | Bought 119 shares at $3232.0 | Avg purchase price = $24603639.993
+08/08/2023: Dropped -7.84% | 6.931%>=5.0% below last purchase price | Bought 120 shares at $3008.0 | Avg purchase price = $24197017.977
+09/11/2023: Dropped -2.2% | 5.319%>=5.0% below last purchase price | Bought 121 shares at $2848.0 | Avg purchase price = $23800392.24
+09/21/2023: Dropped -6.98% | 10.112%>=5.0% below last purchase price | Bought 122 shares at $2560.0 | Avg purchase price = $23413435.618
+09/27/2023: Dropped -6.33% | 7.5%>=5.0% below last purchase price | Bought 123 shares at $2368.0 | Avg purchase price = $23035837.753
+09/28/2023: Dropped -5.41% | 5.405%>=5.0% below last purchase price | Bought 124 shares at $2240.0 | Avg purchase price = $22667300.189
+09/29/2023: Dropped -21.43% | 21.429%>=5.0% below last purchase price | Bought 125 shares at $1760.0 | Avg purchase price = $22307529.71
+11/01/2023: Dropped -16.95% | 10.909%>=5.0% below last purchase price | Bought 126 shares at $1568.0 | Avg purchase price = $21956254.722
+11/14/2023: Dropped -2.13% | 6.122%>=5.0% below last purchase price | Bought 127 shares at $1472.0 | Avg purchase price = $21613211.242
+12/07/2023: Dropped -17.39% | 17.391%>=5.0% below last purchase price | Bought 128 shares at $1216.0 | Avg purchase price = $21278141.548
+01/08/2024: Dropped -2.7% | 5.263%>=5.0% below last purchase price | Bought 129 shares at $1152.0 | Avg purchase price = $20950803.248
+01/09/2024: Dropped -11.11% | 11.111%>=5.0% below last purchase price | Bought 130 shares at $1024.0 | Avg purchase price = $20630959.29
+01/11/2024: Dropped -9.68% | 12.5%>=5.0% below last purchase price | Bought 131 shares at $896.0 | Avg purchase price = $20318382.573
+03/28/2024: Dropped -42.42% | 32.143%>=5.0% below last purchase price | Bought 132 shares at $608.0 | Avg purchase price = $20012852.129
+04/05/2024: Dropped -10.53% | 10.526%>=5.0% below last purchase price | Bought 133 shares at $544.0 | Avg purchase price = $19714160.962
+04/12/2024: Dropped -5.88% | 5.882%>=5.0% below last purchase price | Bought 134 shares at $512.0 | Avg purchase price = $19422106.904
+04/15/2024: Dropped -6.25% | 6.25%>=5.0% below last purchase price | Bought 135 shares at $480.0 | Avg purchase price = $19136494.743
+06/06/2024: Dropped -26.67% | 26.667%>=5.0% below last purchase price | Bought 136 shares at $352.0 | Avg purchase price = $18857134.995
+06/07/2024: Dropped -9.09% | 9.091%>=5.0% below last purchase price | Bought 137 shares at $320.0 | Avg purchase price = $18583847.821
+06/10/2024: Dropped -30.94% | 30.938%>=5.0% below last purchase price | Bought 138 shares at $221.0 | Avg purchase price = $18316457.507
+06/12/2024: Dropped -47.89% | 49.774%>=5.0% below last purchase price | Bought 139 shares at $111.0 | Avg purchase price = $18054795.414
+06/27/2024: Dropped -38.94% | 37.838%>=5.0% below last purchase price | Bought 140 shares at $69.0 | Avg purchase price = $17798700.004
+07/09/2024: Dropped -15.49% | 13.043%>=5.0% below last purchase price | Bought 141 shares at $60.0 | Avg purchase price = $17548014.934
+07/18/2024: Dropped -5.0% | 5.0%>=5.0% below last purchase price | Bought 142 shares at $57.0 | Avg purchase price = $17302588.949
+07/24/2024: Dropped -7.02% | 7.018%>=5.0% below last purchase price | Bought 143 shares at $53.0 | Avg purchase price = $17062275.949
+07/31/2024: Dropped -12.28% | 5.66%>=5.0% below last purchase price | Bought 144 shares at $50.0 | Avg purchase price = $16826934.902
+08/05/2024: Dropped -6.25% | 10.0%>=5.0% below last purchase price | Bought 145 shares at $45.0 | Avg purchase price = $16596429.561
+08/20/2024: Dropped -15.56% | 15.556%>=5.0% below last purchase price | Bought 146 shares at $38.0 | Avg purchase price = $16370628.315
+08/21/2024: Dropped -5.26% | 5.263%>=5.0% below last purchase price | Bought 147 shares at $36.0 | Avg purchase price = $16149404.095
+08/22/2024: Dropped -8.33% | 8.333%>=5.0% below last purchase price | Bought 148 shares at $33.0 | Avg purchase price = $15932634.013
+08/28/2024: Dropped -16.67% | 9.091%>=5.0% below last purchase price | Bought 149 shares at $30.0 | Avg purchase price = $15720199.293
+08/29/2024: Dropped -13.33% | 13.333%>=5.0% below last purchase price | Bought 150 shares at $26.0 | Avg purchase price = $15511985.077
+08/30/2024: Dropped -11.54% | 11.538%>=5.0% below last purchase price | Bought 151 shares at $23.0 | Avg purchase price = $15307880.313
+09/03/2024: Dropped -26.09% | 26.087%>=5.0% below last purchase price | Bought 152 shares at $17.0 | Avg purchase price = $15107777.524
+09/04/2024: Dropped -5.88% | 5.882%>=5.0% below last purchase price | Bought 153 shares at $16.0 | Avg purchase price = $14911572.829
+09/06/2024: Dropped -12.5% | 12.5%>=5.0% below last purchase price | Bought 154 shares at $14.0 | Avg purchase price = $14719165.618
+09/23/2024: Dropped -13.33% | 7.143%>=5.0% below last purchase price | Bought 155 shares at $13.0 | Avg purchase price = $14530458.534
+02/06/2025: Dropped -24.97% | 13.538%>=5.0% below last purchase price | Bought 156 shares at $11.24 | Avg purchase price = $14345357.294
+02/19/2025: Dropped -8.68% | 11.032%>=5.0% below last purchase price | Bought 157 shares at $10.0 | Avg purchase price = $14163770.62
+02/21/2025: Dropped -5.17% | 8.3%>=5.0% below last purchase price | Bought 158 shares at $9.17 | Avg purchase price = $13985610.098
+02/25/2025: Dropped -8.21% | 12.214%>=5.0% below last purchase price | Bought 159 shares at $8.05 | Avg purchase price = $13810790.073
+03/03/2025: Dropped -6.11% | 8.323%>=5.0% below last purchase price | Bought 160 shares at $7.38 | Avg purchase price = $13639227.555
