@@ -3,7 +3,7 @@ from AlgorithmImports import *
 # endregion
 
 from Selection.FundamentalUniverseSelectionModel import FundamentalUniverseSelectionModel
-
+ 
 class RevisedBuyOnDip(QCAlgorithm):
     def initialize(self):
         self.set_start_date(2000, 1, 1)
