@@ -6,6 +6,7 @@ from Selection.FundamentalUniverseSelectionModel import FundamentalUniverseSelec
  
 class RevisedBuyOnDip(QCAlgorithm):
     def initialize(self):
+        # dummy comment
         self.set_start_date(2000, 1, 1)
         self.set_end_date(2025, 1, 1)
         self.set_cash(100_000)
