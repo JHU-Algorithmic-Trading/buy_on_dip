@@ -1,0 +1,25 @@
+{
+    "num_occurrences": 58,
+    "currently_in_drop": true,
+    "percent_gain": {
+        "mean": 9.872,
+        "median": 8.038,
+        "min": 5.069,
+        "max": 24.74,
+        "std": 4.419
+    },
+    "time_period": {
+        "mean": 25.345,
+        "median": 7.5,
+        "min": 1.0,
+        "max": 521.0,
+        "std": 71.005
+    },
+    "num_buys_per_investment": {
+        "mean": 2.741,
+        "median": 1.0,
+        "min": 1.0,
+        "max": 26.0,
+        "std": 3.813
+    }
+}

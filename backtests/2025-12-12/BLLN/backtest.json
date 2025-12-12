@@ -1,0 +1,75 @@
+[
+    {
+        "entries": [
+            {
+                "day_change_pct": -8.18,
+                "num_shares": 1,
+                "buy_price": 100.03,
+                "avg_purchase_price": 100.03,
+                "date": "11/07/2025"
+            },
+            {
+                "day_change_pct": -12.03,
+                "num_shares": 2,
+                "buy_price": 89.55,
+                "avg_purchase_price": 93.043,
+                "date": "11/13/2025"
+            }
+        ],
+        "exit": {
+            "date": "11/18/2025",
+            "day_change_pct": 6.41,
+            "investment_gain_pct": 6.72,
+            "day_duration": 11,
+            "num_shares": 3,
+            "sell_price": 99.3,
+            "annualized_return_pct": 223.13
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -13.17,
+                "num_shares": 1,
+                "buy_price": 113.04,
+                "avg_purchase_price": 113.04,
+                "date": "12/01/2025"
+            },
+            {
+                "day_change_pct": -10.58,
+                "num_shares": 2,
+                "buy_price": 102.76,
+                "avg_purchase_price": 106.187,
+                "date": "12/03/2025"
+            }
+        ],
+        "exit": {
+            "date": "12/05/2025",
+            "day_change_pct": 7.33,
+            "investment_gain_pct": 5.14,
+            "day_duration": 4,
+            "num_shares": 3,
+            "sell_price": 111.64,
+            "annualized_return_pct": 468.62
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -6.25,
+                "num_shares": 1,
+                "buy_price": 104.66,
+                "avg_purchase_price": 104.66,
+                "date": "12/08/2025"
+            },
+            {
+                "day_change_pct": -6.04,
+                "num_shares": 2,
+                "buy_price": 97.44,
+                "avg_purchase_price": 99.847,
+                "date": "12/11/2025"
+            }
+        ],
+        "exit": false
+    }
+]

@@ -1,0 +1,4597 @@
+[
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.26,
+                "num_shares": 1,
+                "buy_price": 0.067,
+                "avg_purchase_price": 0.067,
+                "date": "04/22/1986"
+            },
+            {
+                "day_change_pct": -8.26,
+                "num_shares": 2,
+                "buy_price": 0.062,
+                "avg_purchase_price": 0.064,
+                "date": "04/30/1986"
+            }
+        ],
+        "exit": {
+            "date": "05/13/1986",
+            "day_change_pct": 2.86,
+            "investment_gain_pct": 5.19,
+            "day_duration": 21,
+            "num_shares": 3,
+            "sell_price": 0.067,
+            "annualized_return_pct": 90.29
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.55,
+                "num_shares": 1,
+                "buy_price": 0.063,
+                "avg_purchase_price": 0.063,
+                "date": "05/19/1986"
+            },
+            {
+                "day_change_pct": -4.04,
+                "num_shares": 2,
+                "buy_price": 0.059,
+                "avg_purchase_price": 0.06,
+                "date": "05/29/1986"
+            },
+            {
+                "day_change_pct": -11.34,
+                "num_shares": 3,
+                "buy_price": 0.053,
+                "avg_purchase_price": 0.057,
+                "date": "07/15/1986"
+            },
+            {
+                "day_change_pct": -17.44,
+                "num_shares": 4,
+                "buy_price": 0.044,
+                "avg_purchase_price": 0.052,
+                "date": "07/16/1986"
+            },
+            {
+                "day_change_pct": -5.63,
+                "num_shares": 5,
+                "buy_price": 0.041,
+                "avg_purchase_price": 0.048,
+                "date": "07/24/1986"
+            },
+            {
+                "day_change_pct": -2.31,
+                "num_shares": 6,
+                "buy_price": 0.039,
+                "avg_purchase_price": 0.046,
+                "date": "07/29/1986"
+            },
+            {
+                "day_change_pct": -4.84,
+                "num_shares": 7,
+                "buy_price": 0.036,
+                "avg_purchase_price": 0.043,
+                "date": "08/04/1986"
+            },
+            {
+                "day_change_pct": -11.47,
+                "num_shares": 8,
+                "buy_price": 0.033,
+                "avg_purchase_price": 0.041,
+                "date": "09/11/1986"
+            }
+        ],
+        "exit": {
+            "date": "10/09/1986",
+            "day_change_pct": 5.8,
+            "investment_gain_pct": 9.73,
+            "day_duration": 143,
+            "num_shares": 36,
+            "sell_price": 0.045,
+            "annualized_return_pct": 24.83
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.08,
+                "num_shares": 1,
+                "buy_price": 0.069,
+                "avg_purchase_price": 0.069,
+                "date": "01/23/1987"
+            },
+            {
+                "day_change_pct": -4.55,
+                "num_shares": 2,
+                "buy_price": 0.065,
+                "avg_purchase_price": 0.066,
+                "date": "01/28/1987"
+            }
+        ],
+        "exit": {
+            "date": "02/02/1987",
+            "day_change_pct": 9.26,
+            "investment_gain_pct": 9.94,
+            "day_duration": 10,
+            "num_shares": 3,
+            "sell_price": 0.073,
+            "annualized_return_pct": 362.7
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.95,
+                "num_shares": 1,
+                "buy_price": 0.098,
+                "avg_purchase_price": 0.098,
+                "date": "03/09/1987"
+            }
+        ],
+        "exit": {
+            "date": "03/19/1987",
+            "day_change_pct": 4.35,
+            "investment_gain_pct": 6.33,
+            "day_duration": 10,
+            "num_shares": 1,
+            "sell_price": 0.104,
+            "annualized_return_pct": 231.01
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -6.67,
+                "num_shares": 1,
+                "buy_price": 0.104,
+                "avg_purchase_price": 0.104,
+                "date": "03/30/1987"
+            }
+        ],
+        "exit": {
+            "date": "04/02/1987",
+            "day_change_pct": 7.39,
+            "investment_gain_pct": 12.5,
+            "day_duration": 3,
+            "num_shares": 1,
+            "sell_price": 0.117,
+            "annualized_return_pct": 1520.76
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.71,
+                "num_shares": 1,
+                "buy_price": 0.122,
+                "avg_purchase_price": 0.122,
+                "date": "04/07/1987"
+            },
+            {
+                "day_change_pct": -5.21,
+                "num_shares": 2,
+                "buy_price": 0.113,
+                "avg_purchase_price": 0.116,
+                "date": "04/13/1987"
+            },
+            {
+                "day_change_pct": -6.59,
+                "num_shares": 3,
+                "buy_price": 0.105,
+                "avg_purchase_price": 0.111,
+                "date": "04/14/1987"
+            }
+        ],
+        "exit": {
+            "date": "04/16/1987",
+            "day_change_pct": 2.15,
+            "investment_gain_pct": 6.34,
+            "day_duration": 9,
+            "num_shares": 6,
+            "sell_price": 0.118,
+            "annualized_return_pct": 257.25
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -6.25,
+                "num_shares": 1,
+                "buy_price": 0.111,
+                "avg_purchase_price": 0.111,
+                "date": "04/27/1987"
+            }
+        ],
+        "exit": {
+            "date": "04/28/1987",
+            "day_change_pct": 5.56,
+            "investment_gain_pct": 5.56,
+            "day_duration": 1,
+            "num_shares": 1,
+            "sell_price": 0.118,
+            "annualized_return_pct": 2027.76
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -8.11,
+                "num_shares": 1,
+                "buy_price": 0.126,
+                "avg_purchase_price": 0.126,
+                "date": "05/18/1987"
+            },
+            {
+                "day_change_pct": -7.84,
+                "num_shares": 2,
+                "buy_price": 0.116,
+                "avg_purchase_price": 0.12,
+                "date": "05/19/1987"
+            }
+        ],
+        "exit": {
+            "date": "05/28/1987",
+            "day_change_pct": 3.0,
+            "investment_gain_pct": 6.55,
+            "day_duration": 10,
+            "num_shares": 3,
+            "sell_price": 0.127,
+            "annualized_return_pct": 239.15
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -7.69,
+                "num_shares": 1,
+                "buy_price": 0.119,
+                "avg_purchase_price": 0.119,
+                "date": "06/11/1987"
+            },
+            {
+                "day_change_pct": -2.17,
+                "num_shares": 2,
+                "buy_price": 0.111,
+                "avg_purchase_price": 0.114,
+                "date": "06/15/1987"
+            }
+        ],
+        "exit": {
+            "date": "06/16/1987",
+            "day_change_pct": 10.0,
+            "investment_gain_pct": 7.61,
+            "day_duration": 5,
+            "num_shares": 3,
+            "sell_price": 0.122,
+            "annualized_return_pct": 555.44
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -6.38,
+                "num_shares": 1,
+                "buy_price": 0.109,
+                "avg_purchase_price": 0.109,
+                "date": "06/26/1987"
+            },
+            {
+                "day_change_pct": -3.49,
+                "num_shares": 2,
+                "buy_price": 0.103,
+                "avg_purchase_price": 0.105,
+                "date": "07/10/1987"
+            }
+        ],
+        "exit": {
+            "date": "07/14/1987",
+            "day_change_pct": 11.9,
+            "investment_gain_pct": 11.02,
+            "day_duration": 18,
+            "num_shares": 3,
+            "sell_price": 0.116,
+            "annualized_return_pct": 223.55
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.43,
+                "num_shares": 1,
+                "buy_price": 0.108,
+                "avg_purchase_price": 0.108,
+                "date": "07/20/1987"
+            },
+            {
+                "day_change_pct": -4.65,
+                "num_shares": 2,
+                "buy_price": 0.101,
+                "avg_purchase_price": 0.104,
+                "date": "07/23/1987"
+            }
+        ],
+        "exit": {
+            "date": "07/31/1987",
+            "day_change_pct": 7.06,
+            "investment_gain_pct": 8.77,
+            "day_duration": 11,
+            "num_shares": 3,
+            "sell_price": 0.113,
+            "annualized_return_pct": 290.84
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.83,
+                "num_shares": 1,
+                "buy_price": 0.12,
+                "avg_purchase_price": 0.12,
+                "date": "08/18/1987"
+            }
+        ],
+        "exit": {
+            "date": "08/21/1987",
+            "day_change_pct": 2.97,
+            "investment_gain_pct": 7.22,
+            "day_duration": 3,
+            "num_shares": 1,
+            "sell_price": 0.129,
+            "annualized_return_pct": 878.06
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -6.86,
+                "num_shares": 1,
+                "buy_price": 0.118,
+                "avg_purchase_price": 0.118,
+                "date": "09/08/1987"
+            }
+        ],
+        "exit": {
+            "date": "09/09/1987",
+            "day_change_pct": 6.84,
+            "investment_gain_pct": 6.84,
+            "day_duration": 1,
+            "num_shares": 1,
+            "sell_price": 0.126,
+            "annualized_return_pct": 2497.4
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -8.72,
+                "num_shares": 1,
+                "buy_price": 0.168,
+                "avg_purchase_price": 0.168,
+                "date": "10/06/1987"
+            },
+            {
+                "day_change_pct": -3.08,
+                "num_shares": 2,
+                "buy_price": 0.156,
+                "avg_purchase_price": 0.16,
+                "date": "10/13/1987"
+            },
+            {
+                "day_change_pct": -14.05,
+                "num_shares": 3,
+                "buy_price": 0.129,
+                "avg_purchase_price": 0.144,
+                "date": "10/19/1987"
+            },
+            {
+                "day_change_pct": -6.73,
+                "num_shares": 4,
+                "buy_price": 0.12,
+                "avg_purchase_price": 0.135,
+                "date": "10/20/1987"
+            },
+            {
+                "day_change_pct": -11.46,
+                "num_shares": 5,
+                "buy_price": 0.105,
+                "avg_purchase_price": 0.125,
+                "date": "10/23/1987"
+            },
+            {
+                "day_change_pct": -21.18,
+                "num_shares": 6,
+                "buy_price": 0.083,
+                "avg_purchase_price": 0.113,
+                "date": "10/26/1987"
+            }
+        ],
+        "exit": {
+            "date": "10/30/1987",
+            "day_change_pct": 5.26,
+            "investment_gain_pct": 9.66,
+            "day_duration": 24,
+            "num_shares": 21,
+            "sell_price": 0.124,
+            "annualized_return_pct": 146.92
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.94,
+                "num_shares": 1,
+                "buy_price": 0.118,
+                "avg_purchase_price": 0.118,
+                "date": "11/03/1987"
+            },
+            {
+                "day_change_pct": -7.29,
+                "num_shares": 2,
+                "buy_price": 0.11,
+                "avg_purchase_price": 0.113,
+                "date": "11/06/1987"
+            },
+            {
+                "day_change_pct": -8.89,
+                "num_shares": 3,
+                "buy_price": 0.101,
+                "avg_purchase_price": 0.107,
+                "date": "11/17/1987"
+            }
+        ],
+        "exit": {
+            "date": "11/27/1987",
+            "day_change_pct": 5.56,
+            "investment_gain_pct": 9.83,
+            "day_duration": 24,
+            "num_shares": 6,
+            "sell_price": 0.118,
+            "annualized_return_pct": 149.45
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -8.42,
+                "num_shares": 1,
+                "buy_price": 0.108,
+                "avg_purchase_price": 0.108,
+                "date": "11/30/1987"
+            },
+            {
+                "day_change_pct": -2.96,
+                "num_shares": 2,
+                "buy_price": 0.101,
+                "avg_purchase_price": 0.104,
+                "date": "12/03/1987"
+            }
+        ],
+        "exit": {
+            "date": "12/08/1987",
+            "day_change_pct": 13.25,
+            "investment_gain_pct": 12.35,
+            "day_duration": 8,
+            "num_shares": 3,
+            "sell_price": 0.116,
+            "annualized_return_pct": 563.51
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -12.9,
+                "num_shares": 1,
+                "buy_price": 0.134,
+                "avg_purchase_price": 0.134,
+                "date": "01/08/1988"
+            },
+            {
+                "day_change_pct": -3.77,
+                "num_shares": 2,
+                "buy_price": 0.126,
+                "avg_purchase_price": 0.129,
+                "date": "01/14/1988"
+            },
+            {
+                "day_change_pct": -6.0,
+                "num_shares": 3,
+                "buy_price": 0.116,
+                "avg_purchase_price": 0.122,
+                "date": "01/20/1988"
+            }
+        ],
+        "exit": {
+            "date": "01/25/1988",
+            "day_change_pct": 3.88,
+            "investment_gain_pct": 8.08,
+            "day_duration": 17,
+            "num_shares": 6,
+            "sell_price": 0.132,
+            "annualized_return_pct": 173.49
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -7.55,
+                "num_shares": 1,
+                "buy_price": 0.121,
+                "avg_purchase_price": 0.121,
+                "date": "02/03/1988"
+            }
+        ],
+        "exit": {
+            "date": "02/09/1988",
+            "day_change_pct": 4.0,
+            "investment_gain_pct": 6.12,
+            "day_duration": 6,
+            "num_shares": 1,
+            "sell_price": 0.129,
+            "annualized_return_pct": 372.44
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.8,
+                "num_shares": 1,
+                "buy_price": 0.161,
+                "avg_purchase_price": 0.161,
+                "date": "03/22/1988"
+            },
+            {
+                "day_change_pct": -3.23,
+                "num_shares": 2,
+                "buy_price": 0.148,
+                "avg_purchase_price": 0.153,
+                "date": "04/21/1988"
+            }
+        ],
+        "exit": {
+            "date": "04/28/1988",
+            "day_change_pct": 3.17,
+            "investment_gain_pct": 5.41,
+            "day_duration": 37,
+            "num_shares": 3,
+            "sell_price": 0.161,
+            "annualized_return_pct": 53.32
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.26,
+                "num_shares": 1,
+                "buy_price": 0.178,
+                "avg_purchase_price": 0.178,
+                "date": "07/27/1988"
+            }
+        ],
+        "exit": {
+            "date": "07/28/1988",
+            "day_change_pct": 5.56,
+            "investment_gain_pct": 5.56,
+            "day_duration": 1,
+            "num_shares": 1,
+            "sell_price": 0.188,
+            "annualized_return_pct": 2027.84
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.96,
+                "num_shares": 1,
+                "buy_price": 0.176,
+                "avg_purchase_price": 0.176,
+                "date": "08/10/1988"
+            }
+        ],
+        "exit": {
+            "date": "08/26/1988",
+            "day_change_pct": 5.41,
+            "investment_gain_pct": 9.86,
+            "day_duration": 16,
+            "num_shares": 1,
+            "sell_price": 0.193,
+            "annualized_return_pct": 224.91
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.13,
+                "num_shares": 1,
+                "buy_price": 0.183,
+                "avg_purchase_price": 0.183,
+                "date": "08/31/1988"
+            }
+        ],
+        "exit": {
+            "date": "09/09/1988",
+            "day_change_pct": 5.26,
+            "investment_gain_pct": 8.11,
+            "day_duration": 9,
+            "num_shares": 1,
+            "sell_price": 0.198,
+            "annualized_return_pct": 328.84
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -7.41,
+                "num_shares": 1,
+                "buy_price": 0.186,
+                "avg_purchase_price": 0.186,
+                "date": "09/15/1988"
+            }
+        ],
+        "exit": {
+            "date": "09/21/1988",
+            "day_change_pct": 8.11,
+            "investment_gain_pct": 6.67,
+            "day_duration": 6,
+            "num_shares": 1,
+            "sell_price": 0.198,
+            "annualized_return_pct": 405.58
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.0,
+                "num_shares": 1,
+                "buy_price": 0.188,
+                "avg_purchase_price": 0.188,
+                "date": "09/26/1988"
+            }
+        ],
+        "exit": {
+            "date": "09/30/1988",
+            "day_change_pct": 2.55,
+            "investment_gain_pct": 5.92,
+            "day_duration": 4,
+            "num_shares": 1,
+            "sell_price": 0.199,
+            "annualized_return_pct": 540.3
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.71,
+                "num_shares": 1,
+                "buy_price": 0.163,
+                "avg_purchase_price": 0.163,
+                "date": "10/24/1988"
+            },
+            {
+                "day_change_pct": -4.69,
+                "num_shares": 2,
+                "buy_price": 0.151,
+                "avg_purchase_price": 0.155,
+                "date": "10/27/1988"
+            }
+        ],
+        "exit": {
+            "date": "11/08/1988",
+            "day_change_pct": 4.76,
+            "investment_gain_pct": 5.32,
+            "day_duration": 15,
+            "num_shares": 3,
+            "sell_price": 0.163,
+            "annualized_return_pct": 129.43
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -6.97,
+                "num_shares": 1,
+                "buy_price": 0.463,
+                "avg_purchase_price": 0.463,
+                "date": "10/13/1989"
+            }
+        ],
+        "exit": {
+            "date": "10/17/1989",
+            "day_change_pct": 3.61,
+            "investment_gain_pct": 7.49,
+            "day_duration": 4,
+            "num_shares": 1,
+            "sell_price": 0.497,
+            "annualized_return_pct": 683.16
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -6.6,
+                "num_shares": 1,
+                "buy_price": 0.455,
+                "avg_purchase_price": 0.455,
+                "date": "10/27/1989"
+            },
+            {
+                "day_change_pct": -5.43,
+                "num_shares": 2,
+                "buy_price": 0.431,
+                "avg_purchase_price": 0.439,
+                "date": "10/30/1989"
+            }
+        ],
+        "exit": {
+            "date": "11/01/1989",
+            "day_change_pct": 3.23,
+            "investment_gain_pct": 8.27,
+            "day_duration": 5,
+            "num_shares": 3,
+            "sell_price": 0.475,
+            "annualized_return_pct": 603.76
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.21,
+                "num_shares": 1,
+                "buy_price": 0.45,
+                "avg_purchase_price": 0.45,
+                "date": "11/02/1989"
+            }
+        ],
+        "exit": {
+            "date": "11/15/1989",
+            "day_change_pct": 4.71,
+            "investment_gain_pct": 9.89,
+            "day_duration": 13,
+            "num_shares": 1,
+            "sell_price": 0.495,
+            "annualized_return_pct": 277.69
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -10.88,
+                "num_shares": 1,
+                "buy_price": 0.426,
+                "avg_purchase_price": 0.426,
+                "date": "01/03/1990"
+            },
+            {
+                "day_change_pct": -5.45,
+                "num_shares": 2,
+                "buy_price": 0.386,
+                "avg_purchase_price": 0.399,
+                "date": "01/10/1990"
+            },
+            {
+                "day_change_pct": -2.65,
+                "num_shares": 3,
+                "buy_price": 0.364,
+                "avg_purchase_price": 0.381,
+                "date": "01/15/1990"
+            }
+        ],
+        "exit": {
+            "date": "01/17/1990",
+            "day_change_pct": 2.53,
+            "investment_gain_pct": 5.08,
+            "day_duration": 14,
+            "num_shares": 6,
+            "sell_price": 0.401,
+            "annualized_return_pct": 132.47
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.71,
+                "num_shares": 1,
+                "buy_price": 0.49,
+                "avg_purchase_price": 0.49,
+                "date": "03/22/1990"
+            },
+            {
+                "day_change_pct": -31.03,
+                "num_shares": 2,
+                "buy_price": 0.346,
+                "avg_purchase_price": 0.394,
+                "date": "03/28/1990"
+            },
+            {
+                "day_change_pct": -8.51,
+                "num_shares": 3,
+                "buy_price": 0.319,
+                "avg_purchase_price": 0.357,
+                "date": "04/06/1990"
+            },
+            {
+                "day_change_pct": -7.09,
+                "num_shares": 4,
+                "buy_price": 0.292,
+                "avg_purchase_price": 0.331,
+                "date": "05/01/1990"
+            }
+        ],
+        "exit": {
+            "date": "05/04/1990",
+            "day_change_pct": 4.35,
+            "investment_gain_pct": 7.7,
+            "day_duration": 43,
+            "num_shares": 10,
+            "sell_price": 0.356,
+            "annualized_return_pct": 65.39
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -11.17,
+                "num_shares": 1,
+                "buy_price": 0.393,
+                "avg_purchase_price": 0.393,
+                "date": "07/11/1990"
+            },
+            {
+                "day_change_pct": -1.32,
+                "num_shares": 2,
+                "buy_price": 0.371,
+                "avg_purchase_price": 0.379,
+                "date": "07/13/1990"
+            },
+            {
+                "day_change_pct": -4.76,
+                "num_shares": 3,
+                "buy_price": 0.346,
+                "avg_purchase_price": 0.362,
+                "date": "07/17/1990"
+            },
+            {
+                "day_change_pct": -2.92,
+                "num_shares": 4,
+                "buy_price": 0.329,
+                "avg_purchase_price": 0.349,
+                "date": "08/02/1990"
+            },
+            {
+                "day_change_pct": -9.16,
+                "num_shares": 5,
+                "buy_price": 0.294,
+                "avg_purchase_price": 0.331,
+                "date": "08/06/1990"
+            },
+            {
+                "day_change_pct": -10.0,
+                "num_shares": 6,
+                "buy_price": 0.267,
+                "avg_purchase_price": 0.313,
+                "date": "08/20/1990"
+            },
+            {
+                "day_change_pct": -4.67,
+                "num_shares": 7,
+                "buy_price": 0.252,
+                "avg_purchase_price": 0.298,
+                "date": "08/23/1990"
+            },
+            {
+                "day_change_pct": -6.06,
+                "num_shares": 8,
+                "buy_price": 0.23,
+                "avg_purchase_price": 0.283,
+                "date": "08/29/1990"
+            },
+            {
+                "day_change_pct": -7.53,
+                "num_shares": 9,
+                "buy_price": 0.213,
+                "avg_purchase_price": 0.269,
+                "date": "08/30/1990"
+            },
+            {
+                "day_change_pct": -7.06,
+                "num_shares": 10,
+                "buy_price": 0.195,
+                "avg_purchase_price": 0.255,
+                "date": "09/06/1990"
+            },
+            {
+                "day_change_pct": -17.72,
+                "num_shares": 11,
+                "buy_price": 0.161,
+                "avg_purchase_price": 0.24,
+                "date": "09/07/1990"
+            },
+            {
+                "day_change_pct": -4.76,
+                "num_shares": 12,
+                "buy_price": 0.148,
+                "avg_purchase_price": 0.226,
+                "date": "09/14/1990"
+            },
+            {
+                "day_change_pct": -8.33,
+                "num_shares": 13,
+                "buy_price": 0.136,
+                "avg_purchase_price": 0.213,
+                "date": "09/17/1990"
+            },
+            {
+                "day_change_pct": -15.25,
+                "num_shares": 14,
+                "buy_price": 0.124,
+                "avg_purchase_price": 0.201,
+                "date": "09/26/1990"
+            },
+            {
+                "day_change_pct": -10.0,
+                "num_shares": 15,
+                "buy_price": 0.111,
+                "avg_purchase_price": 0.19,
+                "date": "09/27/1990"
+            }
+        ],
+        "exit": {
+            "date": "02/06/1991",
+            "day_change_pct": 8.0,
+            "investment_gain_pct": 5.64,
+            "day_duration": 210,
+            "num_shares": 120,
+            "sell_price": 0.2,
+            "annualized_return_pct": 9.8
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.06,
+                "num_shares": 1,
+                "buy_price": 0.186,
+                "avg_purchase_price": 0.186,
+                "date": "02/12/1991"
+            },
+            {
+                "day_change_pct": -6.94,
+                "num_shares": 2,
+                "buy_price": 0.166,
+                "avg_purchase_price": 0.172,
+                "date": "02/22/1991"
+            }
+        ],
+        "exit": {
+            "date": "02/26/1991",
+            "day_change_pct": 4.17,
+            "investment_gain_pct": 7.66,
+            "day_duration": 14,
+            "num_shares": 3,
+            "sell_price": 0.186,
+            "annualized_return_pct": 199.59
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.26,
+                "num_shares": 1,
+                "buy_price": 0.178,
+                "avg_purchase_price": 0.178,
+                "date": "02/28/1991"
+            }
+        ],
+        "exit": {
+            "date": "03/06/1991",
+            "day_change_pct": 1.33,
+            "investment_gain_pct": 5.56,
+            "day_duration": 6,
+            "num_shares": 1,
+            "sell_price": 0.188,
+            "annualized_return_pct": 337.97
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.06,
+                "num_shares": 1,
+                "buy_price": 0.186,
+                "avg_purchase_price": 0.186,
+                "date": "05/03/1991"
+            },
+            {
+                "day_change_pct": -2.74,
+                "num_shares": 2,
+                "buy_price": 0.176,
+                "avg_purchase_price": 0.179,
+                "date": "05/07/1991"
+            },
+            {
+                "day_change_pct": -4.41,
+                "num_shares": 3,
+                "buy_price": 0.161,
+                "avg_purchase_price": 0.17,
+                "date": "05/16/1991"
+            },
+            {
+                "day_change_pct": -9.38,
+                "num_shares": 4,
+                "buy_price": 0.144,
+                "avg_purchase_price": 0.159,
+                "date": "05/20/1991"
+            }
+        ],
+        "exit": {
+            "date": "05/24/1991",
+            "day_change_pct": 4.62,
+            "investment_gain_pct": 5.59,
+            "day_duration": 21,
+            "num_shares": 10,
+            "sell_price": 0.168,
+            "annualized_return_pct": 97.17
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.13,
+                "num_shares": 1,
+                "buy_price": 0.183,
+                "avg_purchase_price": 0.183,
+                "date": "06/07/1991"
+            },
+            {
+                "day_change_pct": -4.23,
+                "num_shares": 2,
+                "buy_price": 0.168,
+                "avg_purchase_price": 0.173,
+                "date": "06/19/1991"
+            }
+        ],
+        "exit": {
+            "date": "07/26/1991",
+            "day_change_pct": 2.78,
+            "investment_gain_pct": 5.71,
+            "day_duration": 49,
+            "num_shares": 3,
+            "sell_price": 0.183,
+            "annualized_return_pct": 42.56
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -6.33,
+                "num_shares": 1,
+                "buy_price": 0.183,
+                "avg_purchase_price": 0.183,
+                "date": "08/19/1991"
+            }
+        ],
+        "exit": {
+            "date": "08/21/1991",
+            "day_change_pct": 9.33,
+            "investment_gain_pct": 10.81,
+            "day_duration": 2,
+            "num_shares": 1,
+            "sell_price": 0.203,
+            "annualized_return_pct": 1972.94
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -7.78,
+                "num_shares": 1,
+                "buy_price": 0.205,
+                "avg_purchase_price": 0.205,
+                "date": "09/03/1991"
+            }
+        ],
+        "exit": {
+            "date": "09/05/1991",
+            "day_change_pct": 3.53,
+            "investment_gain_pct": 6.02,
+            "day_duration": 2,
+            "num_shares": 1,
+            "sell_price": 0.218,
+            "annualized_return_pct": 1099.39
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -6.59,
+                "num_shares": 1,
+                "buy_price": 0.21,
+                "avg_purchase_price": 0.21,
+                "date": "09/13/1991"
+            }
+        ],
+        "exit": {
+            "date": "09/24/1991",
+            "day_change_pct": 4.55,
+            "investment_gain_pct": 8.24,
+            "day_duration": 11,
+            "num_shares": 1,
+            "sell_price": 0.228,
+            "annualized_return_pct": 273.26
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.04,
+                "num_shares": 1,
+                "buy_price": 0.28,
+                "avg_purchase_price": 0.28,
+                "date": "10/03/1991"
+            },
+            {
+                "day_change_pct": -2.73,
+                "num_shares": 2,
+                "buy_price": 0.265,
+                "avg_purchase_price": 0.27,
+                "date": "10/07/1991"
+            }
+        ],
+        "exit": {
+            "date": "10/16/1991",
+            "day_change_pct": 2.66,
+            "investment_gain_pct": 6.42,
+            "day_duration": 13,
+            "num_shares": 3,
+            "sell_price": 0.287,
+            "annualized_return_pct": 180.31
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -9.09,
+                "num_shares": 1,
+                "buy_price": 0.272,
+                "avg_purchase_price": 0.272,
+                "date": "11/15/1991"
+            }
+        ],
+        "exit": {
+            "date": "11/18/1991",
+            "day_change_pct": 10.91,
+            "investment_gain_pct": 10.91,
+            "day_duration": 3,
+            "num_shares": 1,
+            "sell_price": 0.302,
+            "annualized_return_pct": 1327.27
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.22,
+                "num_shares": 1,
+                "buy_price": 0.27,
+                "avg_purchase_price": 0.27,
+                "date": "11/25/1991"
+            }
+        ],
+        "exit": {
+            "date": "12/02/1991",
+            "day_change_pct": 6.48,
+            "investment_gain_pct": 5.5,
+            "day_duration": 7,
+            "num_shares": 1,
+            "sell_price": 0.285,
+            "annualized_return_pct": 287.02
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -10.43,
+                "num_shares": 1,
+                "buy_price": 0.255,
+                "avg_purchase_price": 0.255,
+                "date": "12/03/1991"
+            },
+            {
+                "day_change_pct": -2.02,
+                "num_shares": 2,
+                "buy_price": 0.24,
+                "avg_purchase_price": 0.245,
+                "date": "12/05/1991"
+            }
+        ],
+        "exit": {
+            "date": "12/13/1991",
+            "day_change_pct": 4.0,
+            "investment_gain_pct": 5.05,
+            "day_duration": 10,
+            "num_shares": 3,
+            "sell_price": 0.257,
+            "annualized_return_pct": 184.35
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.1,
+                "num_shares": 1,
+                "buy_price": 0.369,
+                "avg_purchase_price": 0.369,
+                "date": "01/23/1992"
+            }
+        ],
+        "exit": {
+            "date": "02/04/1992",
+            "day_change_pct": 5.26,
+            "investment_gain_pct": 7.38,
+            "day_duration": 12,
+            "num_shares": 1,
+            "sell_price": 0.396,
+            "annualized_return_pct": 224.55
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -10.26,
+                "num_shares": 1,
+                "buy_price": 0.346,
+                "avg_purchase_price": 0.346,
+                "date": "03/09/1992"
+            },
+            {
+                "day_change_pct": -5.88,
+                "num_shares": 2,
+                "buy_price": 0.317,
+                "avg_purchase_price": 0.327,
+                "date": "03/19/1992"
+            },
+            {
+                "day_change_pct": -13.04,
+                "num_shares": 3,
+                "buy_price": 0.297,
+                "avg_purchase_price": 0.312,
+                "date": "03/25/1992"
+            },
+            {
+                "day_change_pct": -5.13,
+                "num_shares": 4,
+                "buy_price": 0.275,
+                "avg_purchase_price": 0.297,
+                "date": "03/27/1992"
+            },
+            {
+                "day_change_pct": -6.25,
+                "num_shares": 5,
+                "buy_price": 0.26,
+                "avg_purchase_price": 0.285,
+                "date": "04/07/1992"
+            }
+        ],
+        "exit": {
+            "date": "05/05/1992",
+            "day_change_pct": 8.4,
+            "investment_gain_pct": 12.17,
+            "day_duration": 57,
+            "num_shares": 15,
+            "sell_price": 0.319,
+            "annualized_return_pct": 77.96
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -6.43,
+                "num_shares": 1,
+                "buy_price": 0.324,
+                "avg_purchase_price": 0.324,
+                "date": "08/24/1992"
+            }
+        ],
+        "exit": {
+            "date": "08/27/1992",
+            "day_change_pct": 2.21,
+            "investment_gain_pct": 6.11,
+            "day_duration": 3,
+            "num_shares": 1,
+            "sell_price": 0.344,
+            "annualized_return_pct": 742.99
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.59,
+                "num_shares": 1,
+                "buy_price": 0.376,
+                "avg_purchase_price": 0.376,
+                "date": "09/25/1992"
+            }
+        ],
+        "exit": {
+            "date": "09/29/1992",
+            "day_change_pct": 5.16,
+            "investment_gain_pct": 7.24,
+            "day_duration": 4,
+            "num_shares": 1,
+            "sell_price": 0.403,
+            "annualized_return_pct": 660.34
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -6.45,
+                "num_shares": 1,
+                "buy_price": 0.431,
+                "avg_purchase_price": 0.431,
+                "date": "11/16/1992"
+            },
+            {
+                "day_change_pct": -5.75,
+                "num_shares": 2,
+                "buy_price": 0.406,
+                "avg_purchase_price": 0.414,
+                "date": "11/17/1992"
+            }
+        ],
+        "exit": {
+            "date": "11/19/1992",
+            "day_change_pct": 3.45,
+            "investment_gain_pct": 7.57,
+            "day_duration": 3,
+            "num_shares": 3,
+            "sell_price": 0.445,
+            "annualized_return_pct": 920.99
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.08,
+                "num_shares": 1,
+                "buy_price": 0.416,
+                "avg_purchase_price": 0.416,
+                "date": "11/23/1992"
+            }
+        ],
+        "exit": {
+            "date": "11/30/1992",
+            "day_change_pct": 6.59,
+            "investment_gain_pct": 5.95,
+            "day_duration": 7,
+            "num_shares": 1,
+            "sell_price": 0.44,
+            "annualized_return_pct": 310.37
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.33,
+                "num_shares": 1,
+                "buy_price": 0.396,
+                "avg_purchase_price": 0.396,
+                "date": "12/15/1992"
+            }
+        ],
+        "exit": {
+            "date": "12/16/1992",
+            "day_change_pct": 5.0,
+            "investment_gain_pct": 5.0,
+            "day_duration": 1,
+            "num_shares": 1,
+            "sell_price": 0.416,
+            "annualized_return_pct": 1825.05
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.34,
+                "num_shares": 1,
+                "buy_price": 0.658,
+                "avg_purchase_price": 0.658,
+                "date": "01/27/1993"
+            },
+            {
+                "day_change_pct": -1.95,
+                "num_shares": 2,
+                "buy_price": 0.621,
+                "avg_purchase_price": 0.633,
+                "date": "02/08/1993"
+            },
+            {
+                "day_change_pct": -2.46,
+                "num_shares": 3,
+                "buy_price": 0.589,
+                "avg_purchase_price": 0.611,
+                "date": "02/12/1993"
+            },
+            {
+                "day_change_pct": -5.04,
+                "num_shares": 4,
+                "buy_price": 0.559,
+                "avg_purchase_price": 0.59,
+                "date": "02/16/1993"
+            }
+        ],
+        "exit": {
+            "date": "02/24/1993",
+            "day_change_pct": 6.75,
+            "investment_gain_pct": 6.04,
+            "day_duration": 28,
+            "num_shares": 10,
+            "sell_price": 0.626,
+            "annualized_return_pct": 78.67
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.76,
+                "num_shares": 1,
+                "buy_price": 0.688,
+                "avg_purchase_price": 0.688,
+                "date": "04/02/1993"
+            },
+            {
+                "day_change_pct": -1.51,
+                "num_shares": 2,
+                "buy_price": 0.646,
+                "avg_purchase_price": 0.66,
+                "date": "04/19/1993"
+            }
+        ],
+        "exit": {
+            "date": "04/30/1993",
+            "day_change_pct": 2.15,
+            "investment_gain_pct": 6.87,
+            "day_duration": 28,
+            "num_shares": 3,
+            "sell_price": 0.705,
+            "annualized_return_pct": 89.62
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.68,
+                "num_shares": 1,
+                "buy_price": 0.821,
+                "avg_purchase_price": 0.821,
+                "date": "06/07/1993"
+            }
+        ],
+        "exit": {
+            "date": "06/14/1993",
+            "day_change_pct": 3.8,
+            "investment_gain_pct": 6.93,
+            "day_duration": 7,
+            "num_shares": 1,
+            "sell_price": 0.878,
+            "annualized_return_pct": 361.23
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -6.33,
+                "num_shares": 1,
+                "buy_price": 0.915,
+                "avg_purchase_price": 0.915,
+                "date": "07/16/1993"
+            }
+        ],
+        "exit": {
+            "date": "07/20/1993",
+            "day_change_pct": 5.09,
+            "investment_gain_pct": 5.95,
+            "day_duration": 4,
+            "num_shares": 1,
+            "sell_price": 0.97,
+            "annualized_return_pct": 542.57
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -7.99,
+                "num_shares": 1,
+                "buy_price": 0.997,
+                "avg_purchase_price": 0.997,
+                "date": "08/26/1993"
+            }
+        ],
+        "exit": {
+            "date": "09/01/1993",
+            "day_change_pct": 3.16,
+            "investment_gain_pct": 5.46,
+            "day_duration": 6,
+            "num_shares": 1,
+            "sell_price": 1.052,
+            "annualized_return_pct": 332.09
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.72,
+                "num_shares": 1,
+                "buy_price": 1.101,
+                "avg_purchase_price": 1.101,
+                "date": "11/04/1993"
+            }
+        ],
+        "exit": {
+            "date": "11/05/1993",
+            "day_change_pct": 5.62,
+            "investment_gain_pct": 5.62,
+            "day_duration": 1,
+            "num_shares": 1,
+            "sell_price": 1.163,
+            "annualized_return_pct": 2050.54
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -12.28,
+                "num_shares": 1,
+                "buy_price": 1.237,
+                "avg_purchase_price": 1.237,
+                "date": "12/22/1993"
+            },
+            {
+                "day_change_pct": -2.93,
+                "num_shares": 2,
+                "buy_price": 1.148,
+                "avg_purchase_price": 1.178,
+                "date": "12/28/1993"
+            }
+        ],
+        "exit": {
+            "date": "01/05/1994",
+            "day_change_pct": 3.73,
+            "investment_gain_pct": 5.04,
+            "day_duration": 14,
+            "num_shares": 3,
+            "sell_price": 1.237,
+            "annualized_return_pct": 131.45
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -7.86,
+                "num_shares": 1,
+                "buy_price": 1.277,
+                "avg_purchase_price": 1.277,
+                "date": "01/13/1994"
+            }
+        ],
+        "exit": {
+            "date": "01/17/1994",
+            "day_change_pct": 2.26,
+            "investment_gain_pct": 5.04,
+            "day_duration": 4,
+            "num_shares": 1,
+            "sell_price": 1.341,
+            "annualized_return_pct": 459.79
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.93,
+                "num_shares": 1,
+                "buy_price": 1.257,
+                "avg_purchase_price": 1.257,
+                "date": "04/12/1994"
+            },
+            {
+                "day_change_pct": -6.3,
+                "num_shares": 2,
+                "buy_price": 1.178,
+                "avg_purchase_price": 1.204,
+                "date": "04/13/1994"
+            },
+            {
+                "day_change_pct": -5.91,
+                "num_shares": 3,
+                "buy_price": 1.104,
+                "avg_purchase_price": 1.154,
+                "date": "04/19/1994"
+            }
+        ],
+        "exit": {
+            "date": "04/25/1994",
+            "day_change_pct": 2.07,
+            "investment_gain_pct": 5.93,
+            "day_duration": 13,
+            "num_shares": 6,
+            "sell_price": 1.222,
+            "annualized_return_pct": 166.57
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.3,
+                "num_shares": 1,
+                "buy_price": 1.371,
+                "avg_purchase_price": 1.371,
+                "date": "06/23/1994"
+            }
+        ],
+        "exit": {
+            "date": "06/24/1994",
+            "day_change_pct": 5.78,
+            "investment_gain_pct": 5.78,
+            "day_duration": 1,
+            "num_shares": 1,
+            "sell_price": 1.45,
+            "annualized_return_pct": 2108.29
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.64,
+                "num_shares": 1,
+                "buy_price": 1.574,
+                "avg_purchase_price": 1.574,
+                "date": "11/22/1994"
+            }
+        ],
+        "exit": {
+            "date": "11/29/1994",
+            "day_change_pct": 3.96,
+            "investment_gain_pct": 7.23,
+            "day_duration": 7,
+            "num_shares": 1,
+            "sell_price": 1.687,
+            "annualized_return_pct": 377.14
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -6.0,
+                "num_shares": 1,
+                "buy_price": 1.744,
+                "avg_purchase_price": 1.744,
+                "date": "04/06/1995"
+            }
+        ],
+        "exit": {
+            "date": "04/11/1995",
+            "day_change_pct": 1.63,
+            "investment_gain_pct": 5.96,
+            "day_duration": 5,
+            "num_shares": 1,
+            "sell_price": 1.848,
+            "annualized_return_pct": 434.9
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.19,
+                "num_shares": 1,
+                "buy_price": 2.034,
+                "avg_purchase_price": 2.034,
+                "date": "05/30/1995"
+            }
+        ],
+        "exit": {
+            "date": "06/02/1995",
+            "day_change_pct": 1.05,
+            "investment_gain_pct": 5.11,
+            "day_duration": 3,
+            "num_shares": 1,
+            "sell_price": 2.138,
+            "annualized_return_pct": 621.66
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.03,
+                "num_shares": 1,
+                "buy_price": 2.383,
+                "avg_purchase_price": 2.383,
+                "date": "07/18/1995"
+            }
+        ],
+        "exit": {
+            "date": "07/26/1995",
+            "day_change_pct": 4.97,
+            "investment_gain_pct": 5.3,
+            "day_duration": 8,
+            "num_shares": 1,
+            "sell_price": 2.509,
+            "annualized_return_pct": 241.63
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -16.16,
+                "num_shares": 1,
+                "buy_price": 2.234,
+                "avg_purchase_price": 2.234,
+                "date": "09/15/1995"
+            }
+        ],
+        "exit": {
+            "date": "09/18/1995",
+            "day_change_pct": 5.65,
+            "investment_gain_pct": 5.65,
+            "day_duration": 3,
+            "num_shares": 1,
+            "sell_price": 2.36,
+            "annualized_return_pct": 687.15
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.45,
+                "num_shares": 1,
+                "buy_price": 2.702,
+                "avg_purchase_price": 2.702,
+                "date": "11/20/1995"
+            },
+            {
+                "day_change_pct": -3.18,
+                "num_shares": 2,
+                "buy_price": 2.487,
+                "avg_purchase_price": 2.558,
+                "date": "12/14/1995"
+            }
+        ],
+        "exit": {
+            "date": "01/19/1996",
+            "day_change_pct": 2.25,
+            "investment_gain_pct": 5.61,
+            "day_duration": 60,
+            "num_shares": 3,
+            "sell_price": 2.702,
+            "annualized_return_pct": 34.12
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.53,
+                "num_shares": 1,
+                "buy_price": 2.917,
+                "avg_purchase_price": 2.917,
+                "date": "03/01/1996"
+            }
+        ],
+        "exit": {
+            "date": "03/05/1996",
+            "day_change_pct": 6.98,
+            "investment_gain_pct": 5.34,
+            "day_duration": 4,
+            "num_shares": 1,
+            "sell_price": 3.073,
+            "annualized_return_pct": 487.59
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.53,
+                "num_shares": 1,
+                "buy_price": 2.791,
+                "avg_purchase_price": 2.791,
+                "date": "03/08/1996"
+            }
+        ],
+        "exit": {
+            "date": "03/11/1996",
+            "day_change_pct": 6.12,
+            "investment_gain_pct": 6.12,
+            "day_duration": 3,
+            "num_shares": 1,
+            "sell_price": 2.962,
+            "annualized_return_pct": 744.23
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -6.03,
+                "num_shares": 1,
+                "buy_price": 4.164,
+                "avg_purchase_price": 4.164,
+                "date": "12/04/1996"
+            }
+        ],
+        "exit": {
+            "date": "12/10/1996",
+            "day_change_pct": 1.28,
+            "investment_gain_pct": 5.62,
+            "day_duration": 6,
+            "num_shares": 1,
+            "sell_price": 4.398,
+            "annualized_return_pct": 341.58
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -6.88,
+                "num_shares": 1,
+                "buy_price": 3.919,
+                "avg_purchase_price": 3.919,
+                "date": "12/13/1996"
+            },
+            {
+                "day_change_pct": -2.77,
+                "num_shares": 2,
+                "buy_price": 3.713,
+                "avg_purchase_price": 3.782,
+                "date": "12/30/1996"
+            }
+        ],
+        "exit": {
+            "date": "01/03/1997",
+            "day_change_pct": 6.25,
+            "investment_gain_pct": 5.1,
+            "day_duration": 21,
+            "num_shares": 3,
+            "sell_price": 3.975,
+            "annualized_return_pct": 88.7
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -8.02,
+                "num_shares": 1,
+                "buy_price": 3.257,
+                "avg_purchase_price": 3.257,
+                "date": "03/06/1997"
+            },
+            {
+                "day_change_pct": -4.55,
+                "num_shares": 2,
+                "buy_price": 3.04,
+                "avg_purchase_price": 3.112,
+                "date": "03/12/1997"
+            }
+        ],
+        "exit": {
+            "date": "03/14/1997",
+            "day_change_pct": 13.49,
+            "investment_gain_pct": 17.35,
+            "day_duration": 8,
+            "num_shares": 3,
+            "sell_price": 3.652,
+            "annualized_return_pct": 791.7
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.1,
+                "num_shares": 1,
+                "buy_price": 4.142,
+                "avg_purchase_price": 4.142,
+                "date": "06/03/1997"
+            }
+        ],
+        "exit": {
+            "date": "06/06/1997",
+            "day_change_pct": 3.16,
+            "investment_gain_pct": 5.38,
+            "day_duration": 3,
+            "num_shares": 1,
+            "sell_price": 4.365,
+            "annualized_return_pct": 654.11
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.52,
+                "num_shares": 1,
+                "buy_price": 4.481,
+                "avg_purchase_price": 4.481,
+                "date": "06/18/1997"
+            }
+        ],
+        "exit": {
+            "date": "07/14/1997",
+            "day_change_pct": 2.75,
+            "investment_gain_pct": 6.83,
+            "day_duration": 26,
+            "num_shares": 1,
+            "sell_price": 4.788,
+            "annualized_return_pct": 95.91
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.37,
+                "num_shares": 1,
+                "buy_price": 4.852,
+                "avg_purchase_price": 4.852,
+                "date": "08/28/1997"
+            }
+        ],
+        "exit": {
+            "date": "09/02/1997",
+            "day_change_pct": 1.97,
+            "investment_gain_pct": 7.06,
+            "day_duration": 5,
+            "num_shares": 1,
+            "sell_price": 5.194,
+            "annualized_return_pct": 515.15
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -8.85,
+                "num_shares": 1,
+                "buy_price": 4.818,
+                "avg_purchase_price": 4.818,
+                "date": "09/17/1997"
+            }
+        ],
+        "exit": {
+            "date": "09/24/1997",
+            "day_change_pct": 1.5,
+            "investment_gain_pct": 5.2,
+            "day_duration": 7,
+            "num_shares": 1,
+            "sell_price": 5.069,
+            "annualized_return_pct": 271.11
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -7.92,
+                "num_shares": 1,
+                "buy_price": 4.175,
+                "avg_purchase_price": 4.175,
+                "date": "10/27/1997"
+            }
+        ],
+        "exit": {
+            "date": "10/28/1997",
+            "day_change_pct": 11.2,
+            "investment_gain_pct": 11.2,
+            "day_duration": 1,
+            "num_shares": 1,
+            "sell_price": 4.643,
+            "annualized_return_pct": 4088.02
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -6.98,
+                "num_shares": 1,
+                "buy_price": 4.342,
+                "avg_purchase_price": 4.342,
+                "date": "11/12/1997"
+            }
+        ],
+        "exit": {
+            "date": "11/14/1997",
+            "day_change_pct": 3.18,
+            "investment_gain_pct": 5.96,
+            "day_duration": 2,
+            "num_shares": 1,
+            "sell_price": 4.601,
+            "annualized_return_pct": 1087.98
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -7.14,
+                "num_shares": 1,
+                "buy_price": 4.342,
+                "avg_purchase_price": 4.342,
+                "date": "11/24/1997"
+            },
+            {
+                "day_change_pct": -4.71,
+                "num_shares": 2,
+                "buy_price": 4.058,
+                "avg_purchase_price": 4.153,
+                "date": "12/02/1997"
+            },
+            {
+                "day_change_pct": -29.15,
+                "num_shares": 3,
+                "buy_price": 3.065,
+                "avg_purchase_price": 3.609,
+                "date": "12/09/1997"
+            },
+            {
+                "day_change_pct": -1.7,
+                "num_shares": 4,
+                "buy_price": 2.889,
+                "avg_purchase_price": 3.321,
+                "date": "12/19/1997"
+            },
+            {
+                "day_change_pct": -3.85,
+                "num_shares": 5,
+                "buy_price": 2.714,
+                "avg_purchase_price": 3.119,
+                "date": "01/08/1998"
+            },
+            {
+                "day_change_pct": -7.69,
+                "num_shares": 6,
+                "buy_price": 2.505,
+                "avg_purchase_price": 2.943,
+                "date": "01/09/1998"
+            }
+        ],
+        "exit": {
+            "date": "01/30/1998",
+            "day_change_pct": 4.06,
+            "investment_gain_pct": 5.54,
+            "day_duration": 67,
+            "num_shares": 21,
+            "sell_price": 3.106,
+            "annualized_return_pct": 30.18
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -6.64,
+                "num_shares": 1,
+                "buy_price": 3.758,
+                "avg_purchase_price": 3.758,
+                "date": "04/03/1998"
+            },
+            {
+                "day_change_pct": -5.23,
+                "num_shares": 2,
+                "buy_price": 3.482,
+                "avg_purchase_price": 3.574,
+                "date": "04/23/1998"
+            },
+            {
+                "day_change_pct": -1.99,
+                "num_shares": 3,
+                "buy_price": 3.29,
+                "avg_purchase_price": 3.432,
+                "date": "05/21/1998"
+            },
+            {
+                "day_change_pct": -3.44,
+                "num_shares": 4,
+                "buy_price": 3.048,
+                "avg_purchase_price": 3.278,
+                "date": "06/01/1998"
+            }
+        ],
+        "exit": {
+            "date": "06/05/1998",
+            "day_change_pct": 4.53,
+            "investment_gain_pct": 5.71,
+            "day_duration": 63,
+            "num_shares": 10,
+            "sell_price": 3.465,
+            "annualized_return_pct": 33.06
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -6.53,
+                "num_shares": 1,
+                "buy_price": 3.465,
+                "avg_purchase_price": 3.465,
+                "date": "07/22/1998"
+            },
+            {
+                "day_change_pct": -1.99,
+                "num_shares": 2,
+                "buy_price": 3.29,
+                "avg_purchase_price": 3.349,
+                "date": "07/24/1998"
+            }
+        ],
+        "exit": {
+            "date": "07/27/1998",
+            "day_change_pct": 8.38,
+            "investment_gain_pct": 6.48,
+            "day_duration": 5,
+            "num_shares": 3,
+            "sell_price": 3.566,
+            "annualized_return_pct": 473.32
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.8,
+                "num_shares": 1,
+                "buy_price": 2.848,
+                "avg_purchase_price": 2.848,
+                "date": "08/28/1998"
+            },
+            {
+                "day_change_pct": -6.45,
+                "num_shares": 2,
+                "buy_price": 2.664,
+                "avg_purchase_price": 2.725,
+                "date": "08/31/1998"
+            }
+        ],
+        "exit": {
+            "date": "09/08/1998",
+            "day_change_pct": 4.53,
+            "investment_gain_pct": 6.03,
+            "day_duration": 11,
+            "num_shares": 3,
+            "sell_price": 2.889,
+            "annualized_return_pct": 199.97
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -7.3,
+                "num_shares": 1,
+                "buy_price": 3.607,
+                "avg_purchase_price": 3.607,
+                "date": "10/01/1998"
+            },
+            {
+                "day_change_pct": -8.65,
+                "num_shares": 2,
+                "buy_price": 3.173,
+                "avg_purchase_price": 3.318,
+                "date": "10/05/1998"
+            }
+        ],
+        "exit": {
+            "date": "10/15/1998",
+            "day_change_pct": 4.14,
+            "investment_gain_pct": 7.72,
+            "day_duration": 14,
+            "num_shares": 3,
+            "sell_price": 3.574,
+            "annualized_return_pct": 201.22
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -6.05,
+                "num_shares": 1,
+                "buy_price": 3.499,
+                "avg_purchase_price": 3.499,
+                "date": "10/20/1998"
+            }
+        ],
+        "exit": {
+            "date": "10/26/1998",
+            "day_change_pct": 1.96,
+            "investment_gain_pct": 5.49,
+            "day_duration": 6,
+            "num_shares": 1,
+            "sell_price": 3.691,
+            "annualized_return_pct": 333.93
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.08,
+                "num_shares": 1,
+                "buy_price": 4.676,
+                "avg_purchase_price": 4.676,
+                "date": "11/24/1998"
+            }
+        ],
+        "exit": {
+            "date": "12/01/1998",
+            "day_change_pct": 7.85,
+            "investment_gain_pct": 5.54,
+            "day_duration": 7,
+            "num_shares": 1,
+            "sell_price": 4.935,
+            "annualized_return_pct": 288.65
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.73,
+                "num_shares": 1,
+                "buy_price": 7.14,
+                "avg_purchase_price": 7.14,
+                "date": "02/16/1999"
+            }
+        ],
+        "exit": {
+            "date": "02/23/1999",
+            "day_change_pct": 7.22,
+            "investment_gain_pct": 9.47,
+            "day_duration": 7,
+            "num_shares": 1,
+            "sell_price": 7.816,
+            "annualized_return_pct": 493.98
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -22.54,
+                "num_shares": 1,
+                "buy_price": 5.724,
+                "avg_purchase_price": 5.724,
+                "date": "03/12/1999"
+            }
+        ],
+        "exit": {
+            "date": "03/15/1999",
+            "day_change_pct": 5.03,
+            "investment_gain_pct": 5.03,
+            "day_duration": 3,
+            "num_shares": 1,
+            "sell_price": 6.012,
+            "annualized_return_pct": 612.33
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -7.16,
+                "num_shares": 1,
+                "buy_price": 5.524,
+                "avg_purchase_price": 5.524,
+                "date": "03/19/1999"
+            },
+            {
+                "day_change_pct": -4.14,
+                "num_shares": 2,
+                "buy_price": 5.223,
+                "avg_purchase_price": 5.323,
+                "date": "03/23/1999"
+            }
+        ],
+        "exit": {
+            "date": "03/29/1999",
+            "day_change_pct": 3.64,
+            "investment_gain_pct": 7.29,
+            "day_duration": 10,
+            "num_shares": 3,
+            "sell_price": 5.712,
+            "annualized_return_pct": 266.24
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.7,
+                "num_shares": 1,
+                "buy_price": 5.386,
+                "avg_purchase_price": 5.386,
+                "date": "03/30/1999"
+            },
+            {
+                "day_change_pct": -1.94,
+                "num_shares": 2,
+                "buy_price": 5.073,
+                "avg_purchase_price": 5.177,
+                "date": "04/05/1999"
+            },
+            {
+                "day_change_pct": -6.42,
+                "num_shares": 3,
+                "buy_price": 4.747,
+                "avg_purchase_price": 4.962,
+                "date": "04/06/1999"
+            },
+            {
+                "day_change_pct": -9.5,
+                "num_shares": 4,
+                "buy_price": 4.296,
+                "avg_purchase_price": 4.696,
+                "date": "04/07/1999"
+            }
+        ],
+        "exit": {
+            "date": "04/09/1999",
+            "day_change_pct": 10.99,
+            "investment_gain_pct": 10.43,
+            "day_duration": 10,
+            "num_shares": 10,
+            "sell_price": 5.186,
+            "annualized_return_pct": 380.67
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.5,
+                "num_shares": 1,
+                "buy_price": 4.735,
+                "avg_purchase_price": 4.735,
+                "date": "04/13/1999"
+            }
+        ],
+        "exit": {
+            "date": "04/15/1999",
+            "day_change_pct": 3.11,
+            "investment_gain_pct": 5.29,
+            "day_duration": 2,
+            "num_shares": 1,
+            "sell_price": 4.985,
+            "annualized_return_pct": 965.6
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -9.14,
+                "num_shares": 1,
+                "buy_price": 4.61,
+                "avg_purchase_price": 4.61,
+                "date": "05/13/1999"
+            }
+        ],
+        "exit": {
+            "date": "05/17/1999",
+            "day_change_pct": 2.62,
+            "investment_gain_pct": 6.52,
+            "day_duration": 4,
+            "num_shares": 1,
+            "sell_price": 4.91,
+            "annualized_return_pct": 595.11
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.06,
+                "num_shares": 1,
+                "buy_price": 7.515,
+                "avg_purchase_price": 7.515,
+                "date": "07/20/1999"
+            },
+            {
+                "day_change_pct": -3.28,
+                "num_shares": 2,
+                "buy_price": 7.014,
+                "avg_purchase_price": 7.181,
+                "date": "07/26/1999"
+            }
+        ],
+        "exit": {
+            "date": "07/28/1999",
+            "day_change_pct": 1.69,
+            "investment_gain_pct": 5.17,
+            "day_duration": 8,
+            "num_shares": 3,
+            "sell_price": 7.553,
+            "annualized_return_pct": 236.08
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.09,
+                "num_shares": 1,
+                "buy_price": 7.478,
+                "avg_purchase_price": 7.478,
+                "date": "08/17/1999"
+            },
+            {
+                "day_change_pct": -5.03,
+                "num_shares": 2,
+                "buy_price": 7.102,
+                "avg_purchase_price": 7.227,
+                "date": "08/18/1999"
+            }
+        ],
+        "exit": {
+            "date": "09/02/1999",
+            "day_change_pct": 1.99,
+            "investment_gain_pct": 6.59,
+            "day_duration": 16,
+            "num_shares": 3,
+            "sell_price": 7.703,
+            "annualized_return_pct": 150.24
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -6.05,
+                "num_shares": 1,
+                "buy_price": 8.555,
+                "avg_purchase_price": 8.555,
+                "date": "09/15/1999"
+            }
+        ],
+        "exit": {
+            "date": "09/20/1999",
+            "day_change_pct": 3.59,
+            "investment_gain_pct": 5.71,
+            "day_duration": 5,
+            "num_shares": 1,
+            "sell_price": 9.044,
+            "annualized_return_pct": 416.84
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.08,
+                "num_shares": 1,
+                "buy_price": 14.73,
+                "avg_purchase_price": 14.73,
+                "date": "11/23/1999"
+            },
+            {
+                "day_change_pct": -6.55,
+                "num_shares": 2,
+                "buy_price": 13.591,
+                "avg_purchase_price": 13.97,
+                "date": "11/30/1999"
+            }
+        ],
+        "exit": {
+            "date": "12/02/1999",
+            "day_change_pct": 7.43,
+            "investment_gain_pct": 8.94,
+            "day_duration": 9,
+            "num_shares": 3,
+            "sell_price": 15.219,
+            "annualized_return_pct": 362.41
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.69,
+                "num_shares": 1,
+                "buy_price": 15.995,
+                "avg_purchase_price": 15.995,
+                "date": "12/13/1999"
+            }
+        ],
+        "exit": {
+            "date": "12/15/1999",
+            "day_change_pct": 17.47,
+            "investment_gain_pct": 13.23,
+            "day_duration": 2,
+            "num_shares": 1,
+            "sell_price": 18.112,
+            "annualized_return_pct": 2415.22
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -8.84,
+                "num_shares": 1,
+                "buy_price": 21.582,
+                "avg_purchase_price": 21.582,
+                "date": "01/04/2000"
+            },
+            {
+                "day_change_pct": -5.28,
+                "num_shares": 2,
+                "buy_price": 20.442,
+                "avg_purchase_price": 20.822,
+                "date": "01/05/2000"
+            },
+            {
+                "day_change_pct": -5.88,
+                "num_shares": 3,
+                "buy_price": 19.24,
+                "avg_purchase_price": 20.031,
+                "date": "01/06/2000"
+            }
+        ],
+        "exit": {
+            "date": "01/10/2000",
+            "day_change_pct": 11.97,
+            "investment_gain_pct": 15.81,
+            "day_duration": 6,
+            "num_shares": 6,
+            "sell_price": 23.198,
+            "annualized_return_pct": 961.79
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -6.01,
+                "num_shares": 1,
+                "buy_price": 21.169,
+                "avg_purchase_price": 21.169,
+                "date": "01/12/2000"
+            }
+        ],
+        "exit": {
+            "date": "01/18/2000",
+            "day_change_pct": 4.15,
+            "investment_gain_pct": 5.33,
+            "day_duration": 6,
+            "num_shares": 1,
+            "sell_price": 22.296,
+            "annualized_return_pct": 323.96
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -9.21,
+                "num_shares": 1,
+                "buy_price": 21.72,
+                "avg_purchase_price": 21.72,
+                "date": "01/24/2000"
+            },
+            {
+                "day_change_pct": -8.56,
+                "num_shares": 2,
+                "buy_price": 18.989,
+                "avg_purchase_price": 19.899,
+                "date": "01/28/2000"
+            }
+        ],
+        "exit": {
+            "date": "02/01/2000",
+            "day_change_pct": 8.1,
+            "investment_gain_pct": 8.77,
+            "day_duration": 8,
+            "num_shares": 3,
+            "sell_price": 21.645,
+            "annualized_return_pct": 400.15
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.31,
+                "num_shares": 1,
+                "buy_price": 33.068,
+                "avg_purchase_price": 33.068,
+                "date": "04/10/2000"
+            },
+            {
+                "day_change_pct": -6.21,
+                "num_shares": 2,
+                "buy_price": 31.014,
+                "avg_purchase_price": 31.699,
+                "date": "04/11/2000"
+            },
+            {
+                "day_change_pct": -5.49,
+                "num_shares": 3,
+                "buy_price": 29.31,
+                "avg_purchase_price": 30.505,
+                "date": "04/12/2000"
+            },
+            {
+                "day_change_pct": -13.12,
+                "num_shares": 4,
+                "buy_price": 25.052,
+                "avg_purchase_price": 28.323,
+                "date": "04/14/2000"
+            }
+        ],
+        "exit": {
+            "date": "04/17/2000",
+            "day_change_pct": 19.7,
+            "investment_gain_pct": 5.87,
+            "day_duration": 7,
+            "num_shares": 10,
+            "sell_price": 29.987,
+            "annualized_return_pct": 306.23
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.54,
+                "num_shares": 1,
+                "buy_price": 29.887,
+                "avg_purchase_price": 29.887,
+                "date": "04/19/2000"
+            },
+            {
+                "day_change_pct": -5.03,
+                "num_shares": 2,
+                "buy_price": 28.384,
+                "avg_purchase_price": 28.885,
+                "date": "04/20/2000"
+            }
+        ],
+        "exit": {
+            "date": "04/27/2000",
+            "day_change_pct": 7.1,
+            "investment_gain_pct": 7.29,
+            "day_duration": 8,
+            "num_shares": 3,
+            "sell_price": 30.989,
+            "annualized_return_pct": 332.39
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.86,
+                "num_shares": 1,
+                "buy_price": 28.985,
+                "avg_purchase_price": 28.985,
+                "date": "05/08/2000"
+            },
+            {
+                "day_change_pct": -6.08,
+                "num_shares": 2,
+                "buy_price": 27.106,
+                "avg_purchase_price": 27.732,
+                "date": "05/10/2000"
+            }
+        ],
+        "exit": {
+            "date": "05/12/2000",
+            "day_change_pct": 2.5,
+            "investment_gain_pct": 7.23,
+            "day_duration": 4,
+            "num_shares": 3,
+            "sell_price": 29.736,
+            "annualized_return_pct": 659.44
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -6.55,
+                "num_shares": 1,
+                "buy_price": 29.285,
+                "avg_purchase_price": 29.285,
+                "date": "05/18/2000"
+            },
+            {
+                "day_change_pct": -3.21,
+                "num_shares": 2,
+                "buy_price": 27.181,
+                "avg_purchase_price": 27.882,
+                "date": "05/22/2000"
+            },
+            {
+                "day_change_pct": -7.65,
+                "num_shares": 3,
+                "buy_price": 25.102,
+                "avg_purchase_price": 26.492,
+                "date": "05/23/2000"
+            }
+        ],
+        "exit": {
+            "date": "05/30/2000",
+            "day_change_pct": 10.73,
+            "investment_gain_pct": 12.25,
+            "day_duration": 12,
+            "num_shares": 6,
+            "sell_price": 29.736,
+            "annualized_return_pct": 372.48
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.44,
+                "num_shares": 1,
+                "buy_price": 32.667,
+                "avg_purchase_price": 32.667,
+                "date": "06/22/2000"
+            },
+            {
+                "day_change_pct": -9.82,
+                "num_shares": 2,
+                "buy_price": 28.985,
+                "avg_purchase_price": 30.212,
+                "date": "07/05/2000"
+            }
+        ],
+        "exit": {
+            "date": "08/04/2000",
+            "day_change_pct": 5.33,
+            "investment_gain_pct": 8.21,
+            "day_duration": 43,
+            "num_shares": 3,
+            "sell_price": 32.692,
+            "annualized_return_pct": 69.68
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.07,
+                "num_shares": 1,
+                "buy_price": 34.697,
+                "avg_purchase_price": 34.697,
+                "date": "09/08/2000"
+            },
+            {
+                "day_change_pct": -4.87,
+                "num_shares": 2,
+                "buy_price": 31.816,
+                "avg_purchase_price": 32.776,
+                "date": "09/12/2000"
+            },
+            {
+                "day_change_pct": -11.75,
+                "num_shares": 3,
+                "buy_price": 27.857,
+                "avg_purchase_price": 30.317,
+                "date": "10/03/2000"
+            },
+            {
+                "day_change_pct": -3.18,
+                "num_shares": 4,
+                "buy_price": 25.903,
+                "avg_purchase_price": 28.551,
+                "date": "10/10/2000"
+            },
+            {
+                "day_change_pct": -5.78,
+                "num_shares": 5,
+                "buy_price": 23.699,
+                "avg_purchase_price": 26.934,
+                "date": "11/02/2000"
+            },
+            {
+                "day_change_pct": -7.84,
+                "num_shares": 6,
+                "buy_price": 22.396,
+                "avg_purchase_price": 25.637,
+                "date": "11/06/2000"
+            },
+            {
+                "day_change_pct": -6.59,
+                "num_shares": 7,
+                "buy_price": 19.891,
+                "avg_purchase_price": 24.201,
+                "date": "11/08/2000"
+            },
+            {
+                "day_change_pct": -6.54,
+                "num_shares": 8,
+                "buy_price": 17.887,
+                "avg_purchase_price": 22.798,
+                "date": "11/22/2000"
+            }
+        ],
+        "exit": {
+            "date": "12/05/2000",
+            "day_change_pct": 11.75,
+            "investment_gain_pct": 10.77,
+            "day_duration": 88,
+            "num_shares": 36,
+            "sell_price": 25.252,
+            "annualized_return_pct": 44.65
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -6.21,
+                "num_shares": 1,
+                "buy_price": 22.697,
+                "avg_purchase_price": 22.697,
+                "date": "12/07/2000"
+            }
+        ],
+        "exit": {
+            "date": "12/08/2000",
+            "day_change_pct": 6.18,
+            "investment_gain_pct": 6.18,
+            "day_duration": 1,
+            "num_shares": 1,
+            "sell_price": 24.1,
+            "annualized_return_pct": 2256.08
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -7.72,
+                "num_shares": 1,
+                "buy_price": 22.747,
+                "avg_purchase_price": 22.747,
+                "date": "12/13/2000"
+            }
+        ],
+        "exit": {
+            "date": "12/18/2000",
+            "day_change_pct": 12.04,
+            "investment_gain_pct": 12.78,
+            "day_duration": 5,
+            "num_shares": 1,
+            "sell_price": 25.653,
+            "annualized_return_pct": 932.6
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -6.94,
+                "num_shares": 1,
+                "buy_price": 22.847,
+                "avg_purchase_price": 22.847,
+                "date": "12/20/2000"
+            }
+        ],
+        "exit": {
+            "date": "12/22/2000",
+            "day_change_pct": 8.05,
+            "investment_gain_pct": 11.84,
+            "day_duration": 2,
+            "num_shares": 1,
+            "sell_price": 25.553,
+            "annualized_return_pct": 2161.18
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -6.44,
+                "num_shares": 1,
+                "buy_price": 23.298,
+                "avg_purchase_price": 23.298,
+                "date": "12/29/2000"
+            },
+            {
+                "day_change_pct": -9.25,
+                "num_shares": 2,
+                "buy_price": 21.144,
+                "avg_purchase_price": 21.862,
+                "date": "01/02/2001"
+            }
+        ],
+        "exit": {
+            "date": "01/03/2001",
+            "day_change_pct": 21.33,
+            "investment_gain_pct": 17.34,
+            "day_duration": 5,
+            "num_shares": 3,
+            "sell_price": 25.653,
+            "annualized_return_pct": 1265.93
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -7.49,
+                "num_shares": 1,
+                "buy_price": 24.15,
+                "avg_purchase_price": 24.15,
+                "date": "01/05/2001"
+            }
+        ],
+        "exit": {
+            "date": "01/10/2001",
+            "day_change_pct": 3.97,
+            "investment_gain_pct": 8.71,
+            "day_duration": 5,
+            "num_shares": 1,
+            "sell_price": 26.254,
+            "annualized_return_pct": 636.1
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -7.96,
+                "num_shares": 1,
+                "buy_price": 25.503,
+                "avg_purchase_price": 25.503,
+                "date": "01/22/2001"
+            },
+            {
+                "day_change_pct": -4.52,
+                "num_shares": 2,
+                "buy_price": 24.1,
+                "avg_purchase_price": 24.567,
+                "date": "01/24/2001"
+            },
+            {
+                "day_change_pct": -7.69,
+                "num_shares": 3,
+                "buy_price": 22.246,
+                "avg_purchase_price": 23.407,
+                "date": "02/02/2001"
+            },
+            {
+                "day_change_pct": -13.13,
+                "num_shares": 4,
+                "buy_price": 18.889,
+                "avg_purchase_price": 21.6,
+                "date": "02/09/2001"
+            },
+            {
+                "day_change_pct": -5.88,
+                "num_shares": 5,
+                "buy_price": 17.636,
+                "avg_purchase_price": 20.278,
+                "date": "02/23/2001"
+            },
+            {
+                "day_change_pct": -12.39,
+                "num_shares": 6,
+                "buy_price": 15.231,
+                "avg_purchase_price": 18.836,
+                "date": "02/28/2001"
+            },
+            {
+                "day_change_pct": -21.05,
+                "num_shares": 7,
+                "buy_price": 13.528,
+                "avg_purchase_price": 17.509,
+                "date": "03/02/2001"
+            },
+            {
+                "day_change_pct": -7.25,
+                "num_shares": 8,
+                "buy_price": 12.175,
+                "avg_purchase_price": 16.324,
+                "date": "03/12/2001"
+            },
+            {
+                "day_change_pct": -4.26,
+                "num_shares": 9,
+                "buy_price": 11.273,
+                "avg_purchase_price": 15.314,
+                "date": "03/16/2001"
+            },
+            {
+                "day_change_pct": -13.42,
+                "num_shares": 10,
+                "buy_price": 10.55,
+                "avg_purchase_price": 14.448,
+                "date": "04/03/2001"
+            }
+        ],
+        "exit": {
+            "date": "04/19/2001",
+            "day_change_pct": 13.39,
+            "investment_gain_pct": 12.75,
+            "day_duration": 87,
+            "num_shares": 55,
+            "sell_price": 16.29,
+            "annualized_return_pct": 53.49
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -13.16,
+                "num_shares": 1,
+                "buy_price": 13.748,
+                "avg_purchase_price": 13.748,
+                "date": "04/23/2001"
+            },
+            {
+                "day_change_pct": -5.77,
+                "num_shares": 2,
+                "buy_price": 12.955,
+                "avg_purchase_price": 13.219,
+                "date": "04/30/2001"
+            }
+        ],
+        "exit": {
+            "date": "05/21/2001",
+            "day_change_pct": 11.18,
+            "investment_gain_pct": 9.76,
+            "day_duration": 28,
+            "num_shares": 3,
+            "sell_price": 14.51,
+            "annualized_return_pct": 127.27
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.45,
+                "num_shares": 1,
+                "buy_price": 12.514,
+                "avg_purchase_price": 12.514,
+                "date": "05/29/2001"
+            },
+            {
+                "day_change_pct": -7.05,
+                "num_shares": 2,
+                "buy_price": 11.632,
+                "avg_purchase_price": 11.926,
+                "date": "05/30/2001"
+            }
+        ],
+        "exit": {
+            "date": "06/01/2001",
+            "day_change_pct": 3.66,
+            "investment_gain_pct": 6.61,
+            "day_duration": 3,
+            "num_shares": 3,
+            "sell_price": 12.714,
+            "annualized_return_pct": 804.2
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -6.98,
+                "num_shares": 1,
+                "buy_price": 14.101,
+                "avg_purchase_price": 14.101,
+                "date": "07/10/2001"
+            }
+        ],
+        "exit": {
+            "date": "07/12/2001",
+            "day_change_pct": 9.22,
+            "investment_gain_pct": 11.77,
+            "day_duration": 2,
+            "num_shares": 1,
+            "sell_price": 15.76,
+            "annualized_return_pct": 2147.66
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.45,
+                "num_shares": 1,
+                "buy_price": 13.067,
+                "avg_purchase_price": 13.067,
+                "date": "08/08/2001"
+            },
+            {
+                "day_change_pct": -5.19,
+                "num_shares": 2,
+                "buy_price": 12.153,
+                "avg_purchase_price": 12.458,
+                "date": "08/10/2001"
+            },
+            {
+                "day_change_pct": -4.59,
+                "num_shares": 3,
+                "buy_price": 11.327,
+                "avg_purchase_price": 11.893,
+                "date": "08/21/2001"
+            },
+            {
+                "day_change_pct": -4.71,
+                "num_shares": 4,
+                "buy_price": 10.702,
+                "avg_purchase_price": 11.416,
+                "date": "08/29/2001"
+            },
+            {
+                "day_change_pct": -10.11,
+                "num_shares": 5,
+                "buy_price": 9.62,
+                "avg_purchase_price": 10.818,
+                "date": "08/30/2001"
+            },
+            {
+                "day_change_pct": -9.53,
+                "num_shares": 6,
+                "buy_price": 8.754,
+                "avg_purchase_price": 10.228,
+                "date": "09/06/2001"
+            }
+        ],
+        "exit": {
+            "date": "10/03/2001",
+            "day_change_pct": 8.41,
+            "investment_gain_pct": 7.07,
+            "day_duration": 56,
+            "num_shares": 21,
+            "sell_price": 10.951,
+            "annualized_return_pct": 46.05
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -8.57,
+                "num_shares": 1,
+                "buy_price": 10.951,
+                "avg_purchase_price": 10.951,
+                "date": "10/17/2001"
+            }
+        ],
+        "exit": {
+            "date": "10/19/2001",
+            "day_change_pct": 1.96,
+            "investment_gain_pct": 6.44,
+            "day_duration": 2,
+            "num_shares": 1,
+            "sell_price": 11.656,
+            "annualized_return_pct": 1175.69
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.71,
+                "num_shares": 1,
+                "buy_price": 11.64,
+                "avg_purchase_price": 11.64,
+                "date": "11/13/2001"
+            },
+            {
+                "day_change_pct": -2.35,
+                "num_shares": 2,
+                "buy_price": 10.983,
+                "avg_purchase_price": 11.202,
+                "date": "12/03/2001"
+            }
+        ],
+        "exit": {
+            "date": "12/05/2001",
+            "day_change_pct": 11.38,
+            "investment_gain_pct": 10.0,
+            "day_duration": 22,
+            "num_shares": 3,
+            "sell_price": 12.321,
+            "annualized_return_pct": 165.83
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.04,
+                "num_shares": 1,
+                "buy_price": 13.139,
+                "avg_purchase_price": 13.139,
+                "date": "02/01/2002"
+            },
+            {
+                "day_change_pct": -5.09,
+                "num_shares": 2,
+                "buy_price": 12.418,
+                "avg_purchase_price": 12.658,
+                "date": "02/15/2002"
+            }
+        ],
+        "exit": {
+            "date": "02/28/2002",
+            "day_change_pct": 1.53,
+            "investment_gain_pct": 5.26,
+            "day_duration": 27,
+            "num_shares": 3,
+            "sell_price": 13.323,
+            "annualized_return_pct": 71.06
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -14.51,
+                "num_shares": 1,
+                "buy_price": 10.959,
+                "avg_purchase_price": 10.959,
+                "date": "03/04/2002"
+            }
+        ],
+        "exit": {
+            "date": "03/11/2002",
+            "day_change_pct": 2.11,
+            "investment_gain_pct": 6.07,
+            "day_duration": 7,
+            "num_shares": 1,
+            "sell_price": 11.624,
+            "annualized_return_pct": 316.6
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -6.25,
+                "num_shares": 1,
+                "buy_price": 10.101,
+                "avg_purchase_price": 10.101,
+                "date": "03/15/2002"
+            },
+            {
+                "day_change_pct": -3.59,
+                "num_shares": 2,
+                "buy_price": 9.259,
+                "avg_purchase_price": 9.54,
+                "date": "04/10/2002"
+            },
+            {
+                "day_change_pct": -5.28,
+                "num_shares": 3,
+                "buy_price": 8.77,
+                "avg_purchase_price": 9.155,
+                "date": "04/11/2002"
+            }
+        ],
+        "exit": {
+            "date": "04/16/2002",
+            "day_change_pct": 6.73,
+            "investment_gain_pct": 5.6,
+            "day_duration": 32,
+            "num_shares": 6,
+            "sell_price": 9.668,
+            "annualized_return_pct": 63.92
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.58,
+                "num_shares": 1,
+                "buy_price": 8.417,
+                "avg_purchase_price": 8.417,
+                "date": "04/24/2002"
+            },
+            {
+                "day_change_pct": -5.88,
+                "num_shares": 2,
+                "buy_price": 7.576,
+                "avg_purchase_price": 7.856,
+                "date": "05/01/2002"
+            },
+            {
+                "day_change_pct": -9.52,
+                "num_shares": 3,
+                "buy_price": 6.854,
+                "avg_purchase_price": 7.355,
+                "date": "05/02/2002"
+            },
+            {
+                "day_change_pct": -5.54,
+                "num_shares": 4,
+                "buy_price": 6.421,
+                "avg_purchase_price": 6.982,
+                "date": "05/10/2002"
+            }
+        ],
+        "exit": {
+            "date": "05/15/2002",
+            "day_change_pct": 4.31,
+            "investment_gain_pct": 5.52,
+            "day_duration": 21,
+            "num_shares": 10,
+            "sell_price": 7.367,
+            "annualized_return_pct": 96.0
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.55,
+                "num_shares": 1,
+                "buy_price": 7.095,
+                "avg_purchase_price": 7.095,
+                "date": "05/24/2002"
+            },
+            {
+                "day_change_pct": -6.04,
+                "num_shares": 2,
+                "buy_price": 6.734,
+                "avg_purchase_price": 6.854,
+                "date": "05/29/2002"
+            },
+            {
+                "day_change_pct": -5.94,
+                "num_shares": 3,
+                "buy_price": 6.349,
+                "avg_purchase_price": 6.602,
+                "date": "05/31/2002"
+            },
+            {
+                "day_change_pct": -7.58,
+                "num_shares": 4,
+                "buy_price": 5.868,
+                "avg_purchase_price": 6.308,
+                "date": "06/03/2002"
+            }
+        ],
+        "exit": {
+            "date": "06/05/2002",
+            "day_change_pct": 10.74,
+            "investment_gain_pct": 10.05,
+            "day_duration": 12,
+            "num_shares": 10,
+            "sell_price": 6.942,
+            "annualized_return_pct": 305.75
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.89,
+                "num_shares": 1,
+                "buy_price": 6.533,
+                "avg_purchase_price": 6.533,
+                "date": "06/06/2002"
+            }
+        ],
+        "exit": {
+            "date": "06/14/2002",
+            "day_change_pct": 3.75,
+            "investment_gain_pct": 5.15,
+            "day_duration": 8,
+            "num_shares": 1,
+            "sell_price": 6.87,
+            "annualized_return_pct": 235.12
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -6.71,
+                "num_shares": 1,
+                "buy_price": 7.463,
+                "avg_purchase_price": 7.463,
+                "date": "07/08/2002"
+            }
+        ],
+        "exit": {
+            "date": "07/15/2002",
+            "day_change_pct": 4.86,
+            "investment_gain_pct": 9.02,
+            "day_duration": 7,
+            "num_shares": 1,
+            "sell_price": 8.137,
+            "annualized_return_pct": 470.46
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.04,
+                "num_shares": 1,
+                "buy_price": 7.399,
+                "avg_purchase_price": 7.399,
+                "date": "07/22/2002"
+            }
+        ],
+        "exit": {
+            "date": "07/30/2002",
+            "day_change_pct": 3.35,
+            "investment_gain_pct": 6.93,
+            "day_duration": 8,
+            "num_shares": 1,
+            "sell_price": 7.912,
+            "annualized_return_pct": 316.36
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -6.58,
+                "num_shares": 1,
+                "buy_price": 7.287,
+                "avg_purchase_price": 7.287,
+                "date": "08/13/2002"
+            }
+        ],
+        "exit": {
+            "date": "08/14/2002",
+            "day_change_pct": 10.56,
+            "investment_gain_pct": 10.56,
+            "day_duration": 1,
+            "num_shares": 1,
+            "sell_price": 8.057,
+            "annualized_return_pct": 3854.79
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.53,
+                "num_shares": 1,
+                "buy_price": 7.263,
+                "avg_purchase_price": 7.263,
+                "date": "09/03/2002"
+            }
+        ],
+        "exit": {
+            "date": "09/04/2002",
+            "day_change_pct": 5.96,
+            "investment_gain_pct": 5.96,
+            "day_duration": 1,
+            "num_shares": 1,
+            "sell_price": 7.696,
+            "annualized_return_pct": 2175.49
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -7.86,
+                "num_shares": 1,
+                "buy_price": 6.67,
+                "avg_purchase_price": 6.67,
+                "date": "09/18/2002"
+            },
+            {
+                "day_change_pct": -4.38,
+                "num_shares": 2,
+                "buy_price": 6.125,
+                "avg_purchase_price": 6.306,
+                "date": "09/23/2002"
+            }
+        ],
+        "exit": {
+            "date": "09/25/2002",
+            "day_change_pct": 7.37,
+            "investment_gain_pct": 9.19,
+            "day_duration": 7,
+            "num_shares": 3,
+            "sell_price": 6.886,
+            "annualized_return_pct": 479.45
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -6.43,
+                "num_shares": 1,
+                "buy_price": 6.301,
+                "avg_purchase_price": 6.301,
+                "date": "09/30/2002"
+            }
+        ],
+        "exit": {
+            "date": "10/01/2002",
+            "day_change_pct": 8.65,
+            "investment_gain_pct": 8.65,
+            "day_duration": 1,
+            "num_shares": 1,
+            "sell_price": 6.846,
+            "annualized_return_pct": 3157.77
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -6.1,
+                "num_shares": 1,
+                "buy_price": 6.173,
+                "avg_purchase_price": 6.173,
+                "date": "10/07/2002"
+            }
+        ],
+        "exit": {
+            "date": "10/10/2002",
+            "day_change_pct": 5.45,
+            "investment_gain_pct": 10.52,
+            "day_duration": 3,
+            "num_shares": 1,
+            "sell_price": 6.822,
+            "annualized_return_pct": 1279.86
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -6.37,
+                "num_shares": 1,
+                "buy_price": 7.656,
+                "avg_purchase_price": 7.656,
+                "date": "11/08/2002"
+            },
+            {
+                "day_change_pct": -5.24,
+                "num_shares": 2,
+                "buy_price": 7.255,
+                "avg_purchase_price": 7.389,
+                "date": "11/11/2002"
+            }
+        ],
+        "exit": {
+            "date": "11/14/2002",
+            "day_change_pct": 7.59,
+            "investment_gain_pct": 12.3,
+            "day_duration": 6,
+            "num_shares": 3,
+            "sell_price": 8.297,
+            "annualized_return_pct": 748.04
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -6.65,
+                "num_shares": 1,
+                "buy_price": 8.441,
+                "avg_purchase_price": 8.441,
+                "date": "12/09/2002"
+            }
+        ],
+        "exit": {
+            "date": "12/11/2002",
+            "day_change_pct": 5.61,
+            "investment_gain_pct": 7.31,
+            "day_duration": 2,
+            "num_shares": 1,
+            "sell_price": 9.059,
+            "annualized_return_pct": 1334.52
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -6.58,
+                "num_shares": 1,
+                "buy_price": 8.538,
+                "avg_purchase_price": 8.538,
+                "date": "12/13/2002"
+            }
+        ],
+        "exit": {
+            "date": "12/16/2002",
+            "day_change_pct": 6.1,
+            "investment_gain_pct": 6.1,
+            "day_duration": 3,
+            "num_shares": 1,
+            "sell_price": 9.059,
+            "annualized_return_pct": 742.57
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -6.0,
+                "num_shares": 1,
+                "buy_price": 9.171,
+                "avg_purchase_price": 9.171,
+                "date": "01/17/2003"
+            }
+        ],
+        "exit": {
+            "date": "01/23/2003",
+            "day_change_pct": 7.23,
+            "investment_gain_pct": 8.92,
+            "day_duration": 6,
+            "num_shares": 1,
+            "sell_price": 9.989,
+            "annualized_return_pct": 542.4
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.54,
+                "num_shares": 1,
+                "buy_price": 9.435,
+                "avg_purchase_price": 9.435,
+                "date": "01/24/2003"
+            }
+        ],
+        "exit": {
+            "date": "02/18/2003",
+            "day_change_pct": 6.15,
+            "investment_gain_pct": 5.52,
+            "day_duration": 25,
+            "num_shares": 1,
+            "sell_price": 9.957,
+            "annualized_return_pct": 80.63
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -7.67,
+                "num_shares": 1,
+                "buy_price": 9.067,
+                "avg_purchase_price": 9.067,
+                "date": "03/19/2003"
+            }
+        ],
+        "exit": {
+            "date": "04/17/2003",
+            "day_change_pct": 3.63,
+            "investment_gain_pct": 6.1,
+            "day_duration": 29,
+            "num_shares": 1,
+            "sell_price": 9.62,
+            "annualized_return_pct": 76.79
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -7.91,
+                "num_shares": 1,
+                "buy_price": 9.981,
+                "avg_purchase_price": 9.981,
+                "date": "09/23/2005"
+            }
+        ],
+        "exit": {
+            "date": "01/06/2006",
+            "day_change_pct": 2.58,
+            "investment_gain_pct": 5.38,
+            "day_duration": 105,
+            "num_shares": 1,
+            "sell_price": 10.518,
+            "annualized_return_pct": 18.71
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.2,
+                "num_shares": 1,
+                "buy_price": 14.334,
+                "avg_purchase_price": 14.334,
+                "date": "12/06/2006"
+            },
+            {
+                "day_change_pct": -0.93,
+                "num_shares": 2,
+                "buy_price": 13.612,
+                "avg_purchase_price": 13.853,
+                "date": "01/25/2007"
+            }
+        ],
+        "exit": {
+            "date": "03/21/2007",
+            "day_change_pct": 3.53,
+            "investment_gain_pct": 5.15,
+            "day_duration": 105,
+            "num_shares": 3,
+            "sell_price": 14.566,
+            "annualized_return_pct": 17.9
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -7.92,
+                "num_shares": 1,
+                "buy_price": 16.314,
+                "avg_purchase_price": 16.314,
+                "date": "11/08/2007"
+            }
+        ],
+        "exit": {
+            "date": "12/06/2007",
+            "day_change_pct": 0.94,
+            "investment_gain_pct": 5.26,
+            "day_duration": 28,
+            "num_shares": 1,
+            "sell_price": 17.171,
+            "annualized_return_pct": 68.54
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -6.3,
+                "num_shares": 1,
+                "buy_price": 16.209,
+                "avg_purchase_price": 16.209,
+                "date": "01/22/2008"
+            },
+            {
+                "day_change_pct": -2.44,
+                "num_shares": 2,
+                "buy_price": 15.392,
+                "avg_purchase_price": 15.664,
+                "date": "02/07/2008"
+            }
+        ],
+        "exit": {
+            "date": "03/24/2008",
+            "day_change_pct": 3.44,
+            "investment_gain_pct": 6.29,
+            "day_duration": 62,
+            "num_shares": 3,
+            "sell_price": 16.65,
+            "annualized_return_pct": 37.06
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -7.21,
+                "num_shares": 1,
+                "buy_price": 15.576,
+                "avg_purchase_price": 15.576,
+                "date": "03/27/2008"
+            }
+        ],
+        "exit": {
+            "date": "04/01/2008",
+            "day_change_pct": 4.35,
+            "investment_gain_pct": 5.04,
+            "day_duration": 5,
+            "num_shares": 1,
+            "sell_price": 16.362,
+            "annualized_return_pct": 368.19
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.01,
+                "num_shares": 1,
+                "buy_price": 17.171,
+                "avg_purchase_price": 17.171,
+                "date": "06/26/2008"
+            },
+            {
+                "day_change_pct": -0.98,
+                "num_shares": 2,
+                "buy_price": 16.233,
+                "avg_purchase_price": 16.546,
+                "date": "07/15/2008"
+            }
+        ],
+        "exit": {
+            "date": "08/05/2008",
+            "day_change_pct": 4.52,
+            "investment_gain_pct": 7.61,
+            "day_duration": 40,
+            "num_shares": 3,
+            "sell_price": 17.805,
+            "annualized_return_pct": 69.41
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.95,
+                "num_shares": 1,
+                "buy_price": 15.977,
+                "avg_purchase_price": 15.977,
+                "date": "09/04/2008"
+            },
+            {
+                "day_change_pct": -4.54,
+                "num_shares": 2,
+                "buy_price": 14.51,
+                "avg_purchase_price": 14.999,
+                "date": "09/17/2008"
+            }
+        ],
+        "exit": {
+            "date": "09/19/2008",
+            "day_change_pct": 7.04,
+            "investment_gain_pct": 7.27,
+            "day_duration": 15,
+            "num_shares": 3,
+            "sell_price": 16.089,
+            "annualized_return_pct": 176.88
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -8.97,
+                "num_shares": 1,
+                "buy_price": 15.047,
+                "avg_purchase_price": 15.047,
+                "date": "09/29/2008"
+            }
+        ],
+        "exit": {
+            "date": "09/30/2008",
+            "day_change_pct": 8.2,
+            "investment_gain_pct": 8.2,
+            "day_duration": 1,
+            "num_shares": 1,
+            "sell_price": 16.282,
+            "annualized_return_pct": 2994.67
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -6.06,
+                "num_shares": 1,
+                "buy_price": 14.67,
+                "avg_purchase_price": 14.67,
+                "date": "10/06/2008"
+            },
+            {
+                "day_change_pct": -8.31,
+                "num_shares": 2,
+                "buy_price": 13.452,
+                "avg_purchase_price": 13.858,
+                "date": "10/07/2008"
+            }
+        ],
+        "exit": {
+            "date": "10/13/2008",
+            "day_change_pct": 13.07,
+            "investment_gain_pct": 9.1,
+            "day_duration": 7,
+            "num_shares": 3,
+            "sell_price": 15.119,
+            "annualized_return_pct": 474.57
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -6.2,
+                "num_shares": 1,
+                "buy_price": 14.181,
+                "avg_purchase_price": 14.181,
+                "date": "10/14/2008"
+            },
+            {
+                "day_change_pct": -9.84,
+                "num_shares": 2,
+                "buy_price": 12.786,
+                "avg_purchase_price": 13.251,
+                "date": "10/15/2008"
+            }
+        ],
+        "exit": {
+            "date": "10/20/2008",
+            "day_change_pct": 6.7,
+            "investment_gain_pct": 9.86,
+            "day_duration": 6,
+            "num_shares": 3,
+            "sell_price": 14.558,
+            "annualized_return_pct": 599.87
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.71,
+                "num_shares": 1,
+                "buy_price": 14.285,
+                "avg_purchase_price": 14.285,
+                "date": "11/05/2008"
+            },
+            {
+                "day_change_pct": -5.44,
+                "num_shares": 2,
+                "buy_price": 13.508,
+                "avg_purchase_price": 13.767,
+                "date": "11/06/2008"
+            },
+            {
+                "day_change_pct": -5.99,
+                "num_shares": 3,
+                "buy_price": 12.826,
+                "avg_purchase_price": 13.297,
+                "date": "11/19/2008"
+            }
+        ],
+        "exit": {
+            "date": "12/19/2008",
+            "day_change_pct": 7.04,
+            "investment_gain_pct": 7.19,
+            "day_duration": 44,
+            "num_shares": 6,
+            "sell_price": 14.253,
+            "annualized_return_pct": 59.68
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -8.22,
+                "num_shares": 1,
+                "buy_price": 21.292,
+                "avg_purchase_price": 21.292,
+                "date": "08/08/2011"
+            }
+        ],
+        "exit": {
+            "date": "08/09/2011",
+            "day_change_pct": 6.07,
+            "investment_gain_pct": 6.07,
+            "day_duration": 1,
+            "num_shares": 1,
+            "sell_price": 22.584,
+            "annualized_return_pct": 2216.38
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -8.3,
+                "num_shares": 1,
+                "buy_price": 20.612,
+                "avg_purchase_price": 20.612,
+                "date": "08/18/2011"
+            }
+        ],
+        "exit": {
+            "date": "08/24/2011",
+            "day_change_pct": 1.83,
+            "investment_gain_pct": 5.92,
+            "day_duration": 6,
+            "num_shares": 1,
+            "sell_price": 21.832,
+            "annualized_return_pct": 359.83
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -6.01,
+                "num_shares": 1,
+                "buy_price": 25.901,
+                "avg_purchase_price": 25.901,
+                "date": "11/09/2011"
+            },
+            {
+                "day_change_pct": -2.25,
+                "num_shares": 2,
+                "buy_price": 24.524,
+                "avg_purchase_price": 24.983,
+                "date": "11/21/2011"
+            },
+            {
+                "day_change_pct": -11.66,
+                "num_shares": 3,
+                "buy_price": 21.129,
+                "avg_purchase_price": 23.056,
+                "date": "12/21/2011"
+            }
+        ],
+        "exit": {
+            "date": "03/01/2012",
+            "day_change_pct": 1.98,
+            "investment_gain_pct": 6.32,
+            "day_duration": 113,
+            "num_shares": 6,
+            "sell_price": 24.513,
+            "annualized_return_pct": 20.41
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -9.7,
+                "num_shares": 1,
+                "buy_price": 26.853,
+                "avg_purchase_price": 26.853,
+                "date": "03/21/2013"
+            }
+        ],
+        "exit": {
+            "date": "05/10/2013",
+            "day_change_pct": 0.95,
+            "investment_gain_pct": 5.33,
+            "day_duration": 50,
+            "num_shares": 1,
+            "sell_price": 28.283,
+            "annualized_return_pct": 38.87
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -9.24,
+                "num_shares": 1,
+                "buy_price": 25.057,
+                "avg_purchase_price": 25.057,
+                "date": "06/21/2013"
+            }
+        ],
+        "exit": {
+            "date": "07/08/2013",
+            "day_change_pct": 1.47,
+            "investment_gain_pct": 5.01,
+            "day_duration": 17,
+            "num_shares": 1,
+            "sell_price": 26.313,
+            "annualized_return_pct": 107.57
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.09,
+                "num_shares": 1,
+                "buy_price": 31.748,
+                "avg_purchase_price": 31.748,
+                "date": "12/17/2015"
+            },
+            {
+                "day_change_pct": -1.11,
+                "num_shares": 2,
+                "buy_price": 29.91,
+                "avg_purchase_price": 30.523,
+                "date": "01/08/2016"
+            }
+        ],
+        "exit": {
+            "date": "02/25/2016",
+            "day_change_pct": 1.8,
+            "investment_gain_pct": 5.46,
+            "day_duration": 70,
+            "num_shares": 3,
+            "sell_price": 32.189,
+            "annualized_return_pct": 28.47
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -7.67,
+                "num_shares": 1,
+                "buy_price": 43.062,
+                "avg_purchase_price": 43.062,
+                "date": "09/15/2017"
+            }
+        ],
+        "exit": {
+            "date": "01/23/2018",
+            "day_change_pct": 0.81,
+            "investment_gain_pct": 5.71,
+            "day_duration": 130,
+            "num_shares": 1,
+            "sell_price": 45.519,
+            "annualized_return_pct": 16.02
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -9.43,
+                "num_shares": 1,
+                "buy_price": 41.895,
+                "avg_purchase_price": 41.895,
+                "date": "03/20/2018"
+            },
+            {
+                "day_change_pct": -7.46,
+                "num_shares": 2,
+                "buy_price": 38.287,
+                "avg_purchase_price": 39.489,
+                "date": "06/20/2018"
+            }
+        ],
+        "exit": {
+            "date": "07/09/2018",
+            "day_change_pct": 1.59,
+            "investment_gain_pct": 5.81,
+            "day_duration": 111,
+            "num_shares": 3,
+            "sell_price": 41.783,
+            "annualized_return_pct": 19.09
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.03,
+                "num_shares": 1,
+                "buy_price": 44.194,
+                "avg_purchase_price": 44.194,
+                "date": "03/05/2020"
+            },
+            {
+                "day_change_pct": -7.95,
+                "num_shares": 2,
+                "buy_price": 41.174,
+                "avg_purchase_price": 42.18,
+                "date": "03/11/2020"
+            },
+            {
+                "day_change_pct": -11.0,
+                "num_shares": 3,
+                "buy_price": 36.644,
+                "avg_purchase_price": 39.412,
+                "date": "03/12/2020"
+            }
+        ],
+        "exit": {
+            "date": "03/13/2020",
+            "day_change_pct": 20.43,
+            "investment_gain_pct": 11.97,
+            "day_duration": 8,
+            "num_shares": 6,
+            "sell_price": 44.129,
+            "annualized_return_pct": 546.07
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -10.87,
+                "num_shares": 1,
+                "buy_price": 39.332,
+                "avg_purchase_price": 39.332,
+                "date": "03/16/2020"
+            }
+        ],
+        "exit": {
+            "date": "03/17/2020",
+            "day_change_pct": 9.69,
+            "investment_gain_pct": 9.69,
+            "day_duration": 1,
+            "num_shares": 1,
+            "sell_price": 43.144,
+            "annualized_return_pct": 3537.21
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.17,
+                "num_shares": 1,
+                "buy_price": 47.465,
+                "avg_purchase_price": 47.465,
+                "date": "06/11/2020"
+            }
+        ],
+        "exit": {
+            "date": "06/16/2020",
+            "day_change_pct": 2.52,
+            "investment_gain_pct": 6.39,
+            "day_duration": 5,
+            "num_shares": 1,
+            "sell_price": 50.5,
+            "annualized_return_pct": 466.65
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.62,
+                "num_shares": 1,
+                "buy_price": 47.66,
+                "avg_purchase_price": 47.66,
+                "date": "06/17/2020"
+            }
+        ],
+        "exit": {
+            "date": "06/19/2020",
+            "day_change_pct": 1.32,
+            "investment_gain_pct": 5.59,
+            "day_duration": 2,
+            "num_shares": 1,
+            "sell_price": 50.324,
+            "annualized_return_pct": 1020.19
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -6.53,
+                "num_shares": 1,
+                "buy_price": 63.117,
+                "avg_purchase_price": 63.117,
+                "date": "03/11/2021"
+            }
+        ],
+        "exit": {
+            "date": "03/29/2021",
+            "day_change_pct": 1.25,
+            "investment_gain_pct": 5.52,
+            "day_duration": 18,
+            "num_shares": 1,
+            "sell_price": 66.6,
+            "annualized_return_pct": 111.9
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.59,
+                "num_shares": 1,
+                "buy_price": 72.483,
+                "avg_purchase_price": 72.483,
+                "date": "06/16/2021"
+            }
+        ],
+        "exit": {
+            "date": "07/02/2021",
+            "day_change_pct": 2.87,
+            "investment_gain_pct": 6.15,
+            "day_duration": 16,
+            "num_shares": 1,
+            "sell_price": 76.941,
+            "annualized_return_pct": 140.28
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -6.39,
+                "num_shares": 1,
+                "buy_price": 91.511,
+                "avg_purchase_price": 91.511,
+                "date": "12/17/2021"
+            },
+            {
+                "day_change_pct": -5.15,
+                "num_shares": 2,
+                "buy_price": 86.794,
+                "avg_purchase_price": 88.366,
+                "date": "12/20/2021"
+            },
+            {
+                "day_change_pct": -2.68,
+                "num_shares": 3,
+                "buy_price": 81.888,
+                "avg_purchase_price": 85.127,
+                "date": "01/05/2022"
+            },
+            {
+                "day_change_pct": -1.64,
+                "num_shares": 4,
+                "buy_price": 77.068,
+                "avg_purchase_price": 81.903,
+                "date": "01/25/2022"
+            },
+            {
+                "day_change_pct": -4.62,
+                "num_shares": 5,
+                "buy_price": 71.802,
+                "avg_purchase_price": 78.536,
+                "date": "02/17/2022"
+            },
+            {
+                "day_change_pct": -2.07,
+                "num_shares": 6,
+                "buy_price": 67.788,
+                "avg_purchase_price": 75.465,
+                "date": "05/11/2022"
+            },
+            {
+                "day_change_pct": -1.84,
+                "num_shares": 7,
+                "buy_price": 63.98,
+                "avg_purchase_price": 72.594,
+                "date": "05/19/2022"
+            }
+        ],
+        "exit": {
+            "date": "08/16/2022",
+            "day_change_pct": 0.52,
+            "investment_gain_pct": 5.01,
+            "day_duration": 242,
+            "num_shares": 28,
+            "sell_price": 76.23,
+            "annualized_return_pct": 7.55
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.16,
+                "num_shares": 1,
+                "buy_price": 69.136,
+                "avg_purchase_price": 69.136,
+                "date": "09/14/2022"
+            },
+            {
+                "day_change_pct": -1.39,
+                "num_shares": 2,
+                "buy_price": 65.292,
+                "avg_purchase_price": 66.573,
+                "date": "09/20/2022"
+            },
+            {
+                "day_change_pct": -2.24,
+                "num_shares": 3,
+                "buy_price": 61.879,
+                "avg_purchase_price": 64.226,
+                "date": "09/23/2022"
+            },
+            {
+                "day_change_pct": -0.54,
+                "num_shares": 4,
+                "buy_price": 58.543,
+                "avg_purchase_price": 61.953,
+                "date": "09/30/2022"
+            }
+        ],
+        "exit": {
+            "date": "10/20/2022",
+            "day_change_pct": 4.45,
+            "investment_gain_pct": 7.7,
+            "day_duration": 36,
+            "num_shares": 10,
+            "sell_price": 66.726,
+            "annualized_return_pct": 78.11
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -13.5,
+                "num_shares": 1,
+                "buy_price": 106.828,
+                "avg_purchase_price": 106.828,
+                "date": "09/12/2023"
+            },
+            {
+                "day_change_pct": -5.99,
+                "num_shares": 2,
+                "buy_price": 99.629,
+                "avg_purchase_price": 102.029,
+                "date": "10/20/2023"
+            }
+        ],
+        "exit": {
+            "date": "11/08/2023",
+            "day_change_pct": 3.06,
+            "investment_gain_pct": 7.7,
+            "day_duration": 57,
+            "num_shares": 3,
+            "sell_price": 109.88,
+            "annualized_return_pct": 49.28
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -12.44,
+                "num_shares": 1,
+                "buy_price": 98.611,
+                "avg_purchase_price": 98.611,
+                "date": "12/12/2023"
+            }
+        ],
+        "exit": {
+            "date": "12/19/2023",
+            "day_change_pct": 1.19,
+            "investment_gain_pct": 5.4,
+            "day_duration": 7,
+            "num_shares": 1,
+            "sell_price": 103.933,
+            "annualized_return_pct": 281.38
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.37,
+                "num_shares": 1,
+                "buy_price": 115.351,
+                "avg_purchase_price": 115.351,
+                "date": "05/30/2024"
+            }
+        ],
+        "exit": {
+            "date": "06/06/2024",
+            "day_change_pct": 0.71,
+            "investment_gain_pct": 5.47,
+            "day_duration": 7,
+            "num_shares": 1,
+            "sell_price": 121.666,
+            "annualized_return_pct": 285.45
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -6.67,
+                "num_shares": 1,
+                "buy_price": 175.99,
+                "avg_purchase_price": 175.99,
+                "date": "12/10/2024"
+            },
+            {
+                "day_change_pct": -2.53,
+                "num_shares": 2,
+                "buy_price": 163.781,
+                "avg_purchase_price": 167.851,
+                "date": "12/18/2024"
+            },
+            {
+                "day_change_pct": -5.06,
+                "num_shares": 3,
+                "buy_price": 153.354,
+                "avg_purchase_price": 160.602,
+                "date": "01/10/2025"
+            }
+        ],
+        "exit": {
+            "date": "01/21/2025",
+            "day_change_pct": 7.17,
+            "investment_gain_pct": 6.65,
+            "day_duration": 42,
+            "num_shares": 6,
+            "sell_price": 171.29,
+            "annualized_return_pct": 57.83
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -13.79,
+                "num_shares": 1,
+                "buy_price": 157.106,
+                "avg_purchase_price": 157.106,
+                "date": "01/27/2025"
+            }
+        ],
+        "exit": {
+            "date": "01/30/2025",
+            "day_change_pct": 5.16,
+            "investment_gain_pct": 7.64,
+            "day_duration": 3,
+            "num_shares": 1,
+            "sell_price": 169.117,
+            "annualized_return_pct": 930.1
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -6.57,
+                "num_shares": 1,
+                "buy_price": 149.821,
+                "avg_purchase_price": 149.821,
+                "date": "03/06/2025"
+            },
+            {
+                "day_change_pct": -3.37,
+                "num_shares": 2,
+                "buy_price": 139.826,
+                "avg_purchase_price": 143.157,
+                "date": "03/28/2025"
+            },
+            {
+                "day_change_pct": -6.53,
+                "num_shares": 3,
+                "buy_price": 127.319,
+                "avg_purchase_price": 135.238,
+                "date": "04/04/2025"
+            }
+        ],
+        "exit": {
+            "date": "05/01/2025",
+            "day_change_pct": 3.39,
+            "investment_gain_pct": 7.17,
+            "day_duration": 56,
+            "num_shares": 6,
+            "sell_price": 144.93,
+            "annualized_return_pct": 46.71
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.8,
+                "num_shares": 1,
+                "buy_price": 234.214,
+                "avg_purchase_price": 234.214,
+                "date": "08/19/2025"
+            }
+        ],
+        "exit": {
+            "date": "09/10/2025",
+            "day_change_pct": 35.95,
+            "investment_gain_pct": 39.94,
+            "day_duration": 22,
+            "num_shares": 1,
+            "sell_price": 327.761,
+            "annualized_return_pct": 662.66
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -6.23,
+                "num_shares": 1,
+                "buy_price": 307.327,
+                "avg_purchase_price": 307.327,
+                "date": "09/11/2025"
+            },
+            {
+                "day_change_pct": -5.09,
+                "num_shares": 2,
+                "buy_price": 291.674,
+                "avg_purchase_price": 296.891,
+                "date": "09/12/2025"
+            }
+        ],
+        "exit": {
+            "date": "09/22/2025",
+            "day_change_pct": 6.31,
+            "investment_gain_pct": 10.34,
+            "day_duration": 11,
+            "num_shares": 3,
+            "sell_price": 327.582,
+            "annualized_return_pct": 343.0
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.55,
+                "num_shares": 1,
+                "buy_price": 290.825,
+                "avg_purchase_price": 290.825,
+                "date": "09/25/2025"
+            }
+        ],
+        "exit": {
+            "date": "10/13/2025",
+            "day_change_pct": 5.14,
+            "investment_gain_pct": 5.91,
+            "day_duration": 18,
+            "num_shares": 1,
+            "sell_price": 308.01,
+            "annualized_return_pct": 119.82
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -6.93,
+                "num_shares": 1,
+                "buy_price": 291.31,
+                "avg_purchase_price": 291.31,
+                "date": "10/17/2025"
+            },
+            {
+                "day_change_pct": -0.73,
+                "num_shares": 2,
+                "buy_price": 275.15,
+                "avg_purchase_price": 280.537,
+                "date": "10/21/2025"
+            },
+            {
+                "day_change_pct": -6.69,
+                "num_shares": 3,
+                "buy_price": 256.89,
+                "avg_purchase_price": 268.713,
+                "date": "10/30/2025"
+            },
+            {
+                "day_change_pct": -2.6,
+                "num_shares": 4,
+                "buy_price": 243.8,
+                "avg_purchase_price": 258.748,
+                "date": "11/06/2025"
+            },
+            {
+                "day_change_pct": -3.88,
+                "num_shares": 5,
+                "buy_price": 226.99,
+                "avg_purchase_price": 248.162,
+                "date": "11/12/2025"
+            },
+            {
+                "day_change_pct": -6.58,
+                "num_shares": 6,
+                "buy_price": 210.69,
+                "avg_purchase_price": 237.456,
+                "date": "11/20/2025"
+            },
+            {
+                "day_change_pct": -5.66,
+                "num_shares": 7,
+                "buy_price": 198.76,
+                "avg_purchase_price": 227.782,
+                "date": "11/21/2025"
+            }
+        ],
+        "exit": false
+    }
+]

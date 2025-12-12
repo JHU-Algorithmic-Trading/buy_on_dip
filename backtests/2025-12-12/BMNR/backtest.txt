@@ -1,0 +1,44 @@
+06/09/2025: Dropped -8.68% | Bought 1 shares at $6.888 | Avg purchase price at $6.888
+06/11/2025: Dropped -6.67% | 8.566%>=5.0% below last purchase price | Bought 2 shares at $6.298 | Avg purchase price = $6.495
+06/12/2025: Dropped -10.95% | 10.956%>=5.0% below last purchase price | Bought 3 shares at $5.608 | Avg purchase price = $6.052
+06/13/2025: Dropped -11.59% | 11.573%>=5.0% below last purchase price | Bought 4 shares at $4.959 | Avg purchase price = $5.614
+06/18/2025: Dropped -2.49% | 5.243%>=5.0% below last purchase price | Bought 5 shares at $4.699 | Avg purchase price = $5.309
+06/23/2025: Dropped -4.56% | 6.384%>=5.0% below last purchase price | Bought 6 shares at $4.399 | Avg purchase price = $5.049
+06/30/2025: Gained 694.84% | Investment gained 571.22% | Span of 21 days | Sold 21 shares at $33.89
+Annualized return: 9928.41%
+
+07/07/2025: Dropped -20.39% | Bought 1 shares at $107.448 | Avg purchase price at $107.448
+07/09/2025: Dropped -40.16% | 37.923%>=5.0% below last purchase price | Bought 2 shares at $66.7 | Avg purchase price = $80.283
+07/10/2025: Dropped -31.04% | 31.04%>=5.0% below last purchase price | Bought 3 shares at $45.996 | Avg purchase price = $63.14
+07/11/2025: Dropped -11.71% | 11.714%>=5.0% below last purchase price | Bought 4 shares at $40.608 | Avg purchase price = $54.127
+07/28/2025: Dropped -11.78% | 13.564%>=5.0% below last purchase price | Bought 5 shares at $35.1 | Avg purchase price = $47.785
+07/29/2025: Dropped -8.86% | 8.858%>=5.0% below last purchase price | Bought 6 shares at $31.991 | Avg purchase price = $43.272
+08/08/2025: Gained 24.59% | Investment gained 18.82% | Span of 32 days | Sold 21 shares at $51.415
+Annualized return: 214.64%
+
+08/18/2025: Dropped -5.09% | Bought 1 shares at $54.854 | Avg purchase price at $54.854
+08/19/2025: Dropped -9.28% | 9.277%>=5.0% below last purchase price | Bought 2 shares at $49.765 | Avg purchase price = $51.462
+08/27/2025: Dropped -7.85% | 7.533%>=5.0% below last purchase price | Bought 3 shares at $46.016 | Avg purchase price = $48.739
+08/29/2025: Dropped -4.28% | 5.235%>=5.0% below last purchase price | Bought 4 shares at $43.607 | Avg purchase price = $46.686
+09/12/2025: Gained 15.28% | Investment gained 17.97% | Span of 25 days | Sold 10 shares at $55.074
+Annualized return: 262.3%
+
+09/22/2025: Dropped -10.1% | Bought 1 shares at $55.084 | Avg purchase price at $55.084
+09/24/2025: Dropped -4.72% | 5.771%>=5.0% below last purchase price | Bought 2 shares at $51.905 | Avg purchase price = $52.964
+10/02/2025: Gained 7.91% | Investment gained 6.64% | Span of 10 days | Sold 3 shares at $56.483
+Annualized return: 242.51%
+
+10/07/2025: Dropped -6.36% | Bought 1 shares at $59.183 | Avg purchase price at $59.183
+10/10/2025: Dropped -11.22% | 11.368%>=5.0% below last purchase price | Bought 2 shares at $52.455 | Avg purchase price = $54.697
+10/22/2025: Dropped -7.37% | 8.462%>=5.0% below last purchase price | Bought 3 shares at $48.016 | Avg purchase price = $51.357
+10/30/2025: Dropped -10.47% | 7.246%>=5.0% below last purchase price | Bought 4 shares at $44.537 | Avg purchase price = $48.629
+11/04/2025: Dropped -7.93% | 11.426%>=5.0% below last purchase price | Bought 5 shares at $39.448 | Avg purchase price = $45.569
+11/06/2025: Dropped -9.78% | 5.296%>=5.0% below last purchase price | Bought 6 shares at $37.359 | Avg purchase price = $43.223
+11/14/2025: Dropped -5.93% | 7.947%>=5.0% below last purchase price | Bought 7 shares at $34.39 | Avg purchase price = $41.015
+11/17/2025: Dropped -10.03% | 10.029%>=5.0% below last purchase price | Bought 8 shares at $30.941 | Avg purchase price = $38.776
+11/19/2025: Dropped -9.6% | 5.721%>=5.0% below last purchase price | Bought 9 shares at $29.171 | Avg purchase price = $36.855
+11/20/2025: Dropped -10.83% | 10.829%>=5.0% below last purchase price | Bought 10 shares at $26.012 | Avg purchase price = $34.884
+12/09/2025: Gained 9.4% | Investment gained 12.4% | Span of 63 days | Sold 55 shares at $39.21
+Annualized return: 71.85%
+
+12/11/2025: Dropped -5.0% | Bought 1 shares at $38.38 | Avg purchase price at $38.38

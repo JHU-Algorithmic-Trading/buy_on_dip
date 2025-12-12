@@ -11,7 +11,7 @@ from yf_scraper import get_top_losers
 
 
 # directory = "C:\\Users\\ZSchw\\Documents\\MyProjects\\buy_on_dip\\backtests"
-directory = Path("C:\\Users\\ZSchw\\Documents\\MyProjects\\buy_on_dip\\backtests")
+directory = Path("backtests")
 # Create the directory if it doesn't exist
 directory.mkdir(parents=True, exist_ok=True)
 
@@ -61,8 +61,6 @@ def main():
 			except:
 				continue
 			backtest_str = "\n".join([position_set.__str__() for position_set in strategy.position_sets])
-			backtest_json = json.dumps([position_set.to_dict() for position_set in strategy.position_sets])
-			metrics_json = json.dumps(strategy.get_metrics())
 
 			sub_dir = directory / Path(f"{today_str}/{loser['symbol']}")
 			sub_dir.mkdir(parents=True, exist_ok=True)
@@ -76,10 +74,10 @@ def main():
 				file.write(backtest_str)
 
 			with backtest_jsn_file.open("w") as file:
-				json.dump(backtest_json, file, indent=4)
+				json.dump([position_set.to_dict() for position_set in strategy.position_sets], file, indent=4)
 			
 			with metrics_jsn_file.open("w") as file:
-				json.dump(metrics_json, file, indent=4)
+				json.dump(strategy.get_metrics(), file, indent=4)
 
 			
 
