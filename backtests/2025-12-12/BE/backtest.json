@@ -1,0 +1,2526 @@
+[
+    {
+        "entries": [
+            {
+                "day_change_pct": -15.96,
+                "num_shares": 1,
+                "buy_price": 21.01,
+                "avg_purchase_price": 21.01,
+                "date": "07/26/2018"
+            }
+        ],
+        "exit": {
+            "date": "07/27/2018",
+            "day_change_pct": 7.57,
+            "investment_gain_pct": 7.57,
+            "day_duration": 1,
+            "num_shares": 1,
+            "sell_price": 22.6,
+            "annualized_return_pct": 2762.26
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.08,
+                "num_shares": 1,
+                "buy_price": 26.72,
+                "avg_purchase_price": 26.72,
+                "date": "08/09/2018"
+            },
+            {
+                "day_change_pct": -10.45,
+                "num_shares": 2,
+                "buy_price": 24.76,
+                "avg_purchase_price": 25.413,
+                "date": "08/13/2018"
+            },
+            {
+                "day_change_pct": -10.19,
+                "num_shares": 3,
+                "buy_price": 22.91,
+                "avg_purchase_price": 24.162,
+                "date": "08/15/2018"
+            }
+        ],
+        "exit": {
+            "date": "08/22/2018",
+            "day_change_pct": 6.85,
+            "investment_gain_pct": 11.75,
+            "day_duration": 13,
+            "num_shares": 6,
+            "sell_price": 27.0,
+            "annualized_return_pct": 329.83
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -7.18,
+                "num_shares": 1,
+                "buy_price": 28.69,
+                "avg_purchase_price": 28.69,
+                "date": "08/27/2018"
+            }
+        ],
+        "exit": {
+            "date": "09/07/2018",
+            "day_change_pct": 6.55,
+            "investment_gain_pct": 6.59,
+            "day_duration": 11,
+            "num_shares": 1,
+            "sell_price": 30.58,
+            "annualized_return_pct": 218.59
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.0,
+                "num_shares": 1,
+                "buy_price": 29.05,
+                "avg_purchase_price": 29.05,
+                "date": "09/10/2018"
+            }
+        ],
+        "exit": {
+            "date": "09/12/2018",
+            "day_change_pct": 9.06,
+            "investment_gain_pct": 9.85,
+            "day_duration": 2,
+            "num_shares": 1,
+            "sell_price": 31.91,
+            "annualized_return_pct": 1796.73
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -6.63,
+                "num_shares": 1,
+                "buy_price": 29.58,
+                "avg_purchase_price": 29.58,
+                "date": "09/14/2018"
+            }
+        ],
+        "exit": {
+            "date": "09/24/2018",
+            "day_change_pct": 4.2,
+            "investment_gain_pct": 9.03,
+            "day_duration": 10,
+            "num_shares": 1,
+            "sell_price": 32.25,
+            "annualized_return_pct": 329.46
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -6.15,
+                "num_shares": 1,
+                "buy_price": 33.6,
+                "avg_purchase_price": 33.6,
+                "date": "09/27/2018"
+            },
+            {
+                "day_change_pct": -6.35,
+                "num_shares": 2,
+                "buy_price": 30.22,
+                "avg_purchase_price": 31.347,
+                "date": "10/02/2018"
+            },
+            {
+                "day_change_pct": -6.31,
+                "num_shares": 3,
+                "buy_price": 28.34,
+                "avg_purchase_price": 29.843,
+                "date": "10/04/2018"
+            },
+            {
+                "day_change_pct": -3.58,
+                "num_shares": 4,
+                "buy_price": 26.1,
+                "avg_purchase_price": 28.346,
+                "date": "10/09/2018"
+            },
+            {
+                "day_change_pct": -5.33,
+                "num_shares": 5,
+                "buy_price": 24.15,
+                "avg_purchase_price": 26.947,
+                "date": "10/22/2018"
+            },
+            {
+                "day_change_pct": -5.42,
+                "num_shares": 6,
+                "buy_price": 22.17,
+                "avg_purchase_price": 25.582,
+                "date": "10/26/2018"
+            },
+            {
+                "day_change_pct": -25.03,
+                "num_shares": 7,
+                "buy_price": 17.25,
+                "avg_purchase_price": 23.499,
+                "date": "11/06/2018"
+            },
+            {
+                "day_change_pct": -10.58,
+                "num_shares": 8,
+                "buy_price": 15.46,
+                "avg_purchase_price": 21.713,
+                "date": "11/15/2018"
+            },
+            {
+                "day_change_pct": -9.6,
+                "num_shares": 9,
+                "buy_price": 14.5,
+                "avg_purchase_price": 20.27,
+                "date": "11/19/2018"
+            },
+            {
+                "day_change_pct": -9.7,
+                "num_shares": 10,
+                "buy_price": 12.75,
+                "avg_purchase_price": 18.903,
+                "date": "12/17/2018"
+            },
+            {
+                "day_change_pct": -5.88,
+                "num_shares": 11,
+                "buy_price": 12.0,
+                "avg_purchase_price": 17.752,
+                "date": "12/18/2018"
+            },
+            {
+                "day_change_pct": -7.08,
+                "num_shares": 12,
+                "buy_price": 11.15,
+                "avg_purchase_price": 16.737,
+                "date": "12/19/2018"
+            },
+            {
+                "day_change_pct": -8.34,
+                "num_shares": 13,
+                "buy_price": 10.22,
+                "avg_purchase_price": 15.806,
+                "date": "12/20/2018"
+            },
+            {
+                "day_change_pct": -6.78,
+                "num_shares": 14,
+                "buy_price": 9.21,
+                "avg_purchase_price": 14.926,
+                "date": "01/30/2019"
+            }
+        ],
+        "exit": {
+            "date": "03/01/2019",
+            "day_change_pct": 12.65,
+            "investment_gain_pct": 9.2,
+            "day_duration": 155,
+            "num_shares": 105,
+            "sell_price": 16.3,
+            "annualized_return_pct": 21.67
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -7.18,
+                "num_shares": 1,
+                "buy_price": 15.13,
+                "avg_purchase_price": 15.13,
+                "date": "03/04/2019"
+            },
+            {
+                "day_change_pct": -7.47,
+                "num_shares": 2,
+                "buy_price": 14.12,
+                "avg_purchase_price": 14.457,
+                "date": "03/06/2019"
+            },
+            {
+                "day_change_pct": -4.33,
+                "num_shares": 3,
+                "buy_price": 13.27,
+                "avg_purchase_price": 13.863,
+                "date": "03/13/2019"
+            },
+            {
+                "day_change_pct": -5.58,
+                "num_shares": 4,
+                "buy_price": 12.53,
+                "avg_purchase_price": 13.33,
+                "date": "03/14/2019"
+            },
+            {
+                "day_change_pct": -5.98,
+                "num_shares": 5,
+                "buy_price": 11.8,
+                "avg_purchase_price": 12.82,
+                "date": "03/22/2019"
+            }
+        ],
+        "exit": {
+            "date": "04/30/2019",
+            "day_change_pct": 3.5,
+            "investment_gain_pct": 6.24,
+            "day_duration": 57,
+            "num_shares": 15,
+            "sell_price": 13.62,
+            "annualized_return_pct": 39.96
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.79,
+                "num_shares": 1,
+                "buy_price": 13.34,
+                "avg_purchase_price": 13.34,
+                "date": "05/08/2019"
+            },
+            {
+                "day_change_pct": -8.39,
+                "num_shares": 2,
+                "buy_price": 11.9,
+                "avg_purchase_price": 12.38,
+                "date": "05/17/2019"
+            },
+            {
+                "day_change_pct": -3.96,
+                "num_shares": 3,
+                "buy_price": 11.17,
+                "avg_purchase_price": 11.775,
+                "date": "05/24/2019"
+            },
+            {
+                "day_change_pct": -5.96,
+                "num_shares": 4,
+                "buy_price": 10.1,
+                "avg_purchase_price": 11.105,
+                "date": "06/06/2019"
+            }
+        ],
+        "exit": {
+            "date": "06/17/2019",
+            "day_change_pct": 6.12,
+            "investment_gain_pct": 6.17,
+            "day_duration": 40,
+            "num_shares": 10,
+            "sell_price": 11.79,
+            "annualized_return_pct": 56.29
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.79,
+                "num_shares": 1,
+                "buy_price": 11.72,
+                "avg_purchase_price": 11.72,
+                "date": "06/21/2019"
+            }
+        ],
+        "exit": {
+            "date": "07/01/2019",
+            "day_change_pct": 1.96,
+            "investment_gain_pct": 6.74,
+            "day_duration": 10,
+            "num_shares": 1,
+            "sell_price": 12.51,
+            "annualized_return_pct": 246.03
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.74,
+                "num_shares": 1,
+                "buy_price": 12.31,
+                "avg_purchase_price": 12.31,
+                "date": "07/15/2019"
+            },
+            {
+                "day_change_pct": -3.33,
+                "num_shares": 2,
+                "buy_price": 11.6,
+                "avg_purchase_price": 11.837,
+                "date": "07/17/2019"
+            },
+            {
+                "day_change_pct": -3.76,
+                "num_shares": 3,
+                "buy_price": 11.0,
+                "avg_purchase_price": 11.418,
+                "date": "07/19/2019"
+            },
+            {
+                "day_change_pct": -3.1,
+                "num_shares": 4,
+                "buy_price": 10.32,
+                "avg_purchase_price": 10.979,
+                "date": "07/29/2019"
+            },
+            {
+                "day_change_pct": -6.05,
+                "num_shares": 5,
+                "buy_price": 9.62,
+                "avg_purchase_price": 10.526,
+                "date": "08/05/2019"
+            },
+            {
+                "day_change_pct": -2.41,
+                "num_shares": 6,
+                "buy_price": 8.92,
+                "avg_purchase_price": 10.067,
+                "date": "08/08/2019"
+            },
+            {
+                "day_change_pct": -6.54,
+                "num_shares": 7,
+                "buy_price": 8.0,
+                "avg_purchase_price": 9.55,
+                "date": "08/12/2019"
+            },
+            {
+                "day_change_pct": -42.5,
+                "num_shares": 8,
+                "buy_price": 4.6,
+                "avg_purchase_price": 8.45,
+                "date": "08/13/2019"
+            },
+            {
+                "day_change_pct": -2.95,
+                "num_shares": 9,
+                "buy_price": 4.27,
+                "avg_purchase_price": 7.614,
+                "date": "08/28/2019"
+            },
+            {
+                "day_change_pct": -21.0,
+                "num_shares": 10,
+                "buy_price": 3.31,
+                "avg_purchase_price": 6.832,
+                "date": "09/17/2019"
+            },
+            {
+                "day_change_pct": -1.9,
+                "num_shares": 11,
+                "buy_price": 3.1,
+                "avg_purchase_price": 6.21,
+                "date": "10/02/2019"
+            },
+            {
+                "day_change_pct": -8.2,
+                "num_shares": 12,
+                "buy_price": 2.91,
+                "avg_purchase_price": 5.702,
+                "date": "10/14/2019"
+            },
+            {
+                "day_change_pct": -7.14,
+                "num_shares": 13,
+                "buy_price": 2.73,
+                "avg_purchase_price": 5.277,
+                "date": "10/22/2019"
+            }
+        ],
+        "exit": {
+            "date": "11/12/2019",
+            "day_change_pct": 1.09,
+            "investment_gain_pct": 5.35,
+            "day_duration": 120,
+            "num_shares": 91,
+            "sell_price": 5.56,
+            "annualized_return_pct": 16.28
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.22,
+                "num_shares": 1,
+                "buy_price": 5.27,
+                "avg_purchase_price": 5.27,
+                "date": "11/13/2019"
+            }
+        ],
+        "exit": {
+            "date": "11/14/2019",
+            "day_change_pct": 11.95,
+            "investment_gain_pct": 11.95,
+            "day_duration": 1,
+            "num_shares": 1,
+            "sell_price": 5.9,
+            "annualized_return_pct": 4363.38
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.25,
+                "num_shares": 1,
+                "buy_price": 6.14,
+                "avg_purchase_price": 6.14,
+                "date": "11/21/2019"
+            }
+        ],
+        "exit": {
+            "date": "11/29/2019",
+            "day_change_pct": 3.49,
+            "investment_gain_pct": 6.19,
+            "day_duration": 8,
+            "num_shares": 1,
+            "sell_price": 6.52,
+            "annualized_return_pct": 282.37
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -7.19,
+                "num_shares": 1,
+                "buy_price": 5.55,
+                "avg_purchase_price": 5.55,
+                "date": "12/04/2019"
+            },
+            {
+                "day_change_pct": -2.63,
+                "num_shares": 2,
+                "buy_price": 5.19,
+                "avg_purchase_price": 5.31,
+                "date": "12/10/2019"
+            }
+        ],
+        "exit": {
+            "date": "12/11/2019",
+            "day_change_pct": 8.67,
+            "investment_gain_pct": 6.21,
+            "day_duration": 7,
+            "num_shares": 3,
+            "sell_price": 5.64,
+            "annualized_return_pct": 324.05
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -12.72,
+                "num_shares": 1,
+                "buy_price": 6.31,
+                "avg_purchase_price": 6.31,
+                "date": "12/19/2019"
+            }
+        ],
+        "exit": {
+            "date": "12/30/2019",
+            "day_change_pct": 12.87,
+            "investment_gain_pct": 13.95,
+            "day_duration": 11,
+            "num_shares": 1,
+            "sell_price": 7.19,
+            "annualized_return_pct": 462.76
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.87,
+                "num_shares": 1,
+                "buy_price": 9.14,
+                "avg_purchase_price": 9.14,
+                "date": "01/21/2020"
+            },
+            {
+                "day_change_pct": -8.71,
+                "num_shares": 2,
+                "buy_price": 8.28,
+                "avg_purchase_price": 8.567,
+                "date": "01/27/2020"
+            }
+        ],
+        "exit": {
+            "date": "02/04/2020",
+            "day_change_pct": 8.22,
+            "investment_gain_pct": 9.14,
+            "day_duration": 14,
+            "num_shares": 3,
+            "sell_price": 9.35,
+            "annualized_return_pct": 238.4
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -7.74,
+                "num_shares": 1,
+                "buy_price": 9.65,
+                "avg_purchase_price": 9.65,
+                "date": "02/13/2020"
+            }
+        ],
+        "exit": {
+            "date": "02/14/2020",
+            "day_change_pct": 10.88,
+            "investment_gain_pct": 10.88,
+            "day_duration": 1,
+            "num_shares": 1,
+            "sell_price": 10.7,
+            "annualized_return_pct": 3971.5
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -9.72,
+                "num_shares": 1,
+                "buy_price": 12.72,
+                "avg_purchase_price": 12.72,
+                "date": "02/20/2020"
+            },
+            {
+                "day_change_pct": -7.39,
+                "num_shares": 2,
+                "buy_price": 11.78,
+                "avg_purchase_price": 12.093,
+                "date": "02/21/2020"
+            },
+            {
+                "day_change_pct": -8.59,
+                "num_shares": 3,
+                "buy_price": 10.75,
+                "avg_purchase_price": 11.422,
+                "date": "02/25/2020"
+            },
+            {
+                "day_change_pct": -14.62,
+                "num_shares": 4,
+                "buy_price": 9.17,
+                "avg_purchase_price": 10.521,
+                "date": "02/27/2020"
+            },
+            {
+                "day_change_pct": -7.2,
+                "num_shares": 5,
+                "buy_price": 8.51,
+                "avg_purchase_price": 9.851,
+                "date": "03/09/2020"
+            },
+            {
+                "day_change_pct": -14.72,
+                "num_shares": 6,
+                "buy_price": 7.65,
+                "avg_purchase_price": 9.222,
+                "date": "03/11/2020"
+            },
+            {
+                "day_change_pct": -15.16,
+                "num_shares": 7,
+                "buy_price": 6.49,
+                "avg_purchase_price": 8.539,
+                "date": "03/12/2020"
+            },
+            {
+                "day_change_pct": -5.7,
+                "num_shares": 8,
+                "buy_price": 6.12,
+                "avg_purchase_price": 8.001,
+                "date": "03/13/2020"
+            },
+            {
+                "day_change_pct": -13.24,
+                "num_shares": 9,
+                "buy_price": 5.31,
+                "avg_purchase_price": 7.463,
+                "date": "03/16/2020"
+            },
+            {
+                "day_change_pct": -23.16,
+                "num_shares": 10,
+                "buy_price": 4.08,
+                "avg_purchase_price": 6.848,
+                "date": "03/17/2020"
+            },
+            {
+                "day_change_pct": -24.75,
+                "num_shares": 11,
+                "buy_price": 3.07,
+                "avg_purchase_price": 6.218,
+                "date": "03/18/2020"
+            }
+        ],
+        "exit": {
+            "date": "04/14/2020",
+            "day_change_pct": 22.9,
+            "investment_gain_pct": 17.39,
+            "day_duration": 54,
+            "num_shares": 66,
+            "sell_price": 7.3,
+            "annualized_return_pct": 117.58
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -10.27,
+                "num_shares": 1,
+                "buy_price": 6.55,
+                "avg_purchase_price": 6.55,
+                "date": "04/15/2020"
+            }
+        ],
+        "exit": {
+            "date": "04/22/2020",
+            "day_change_pct": 17.43,
+            "investment_gain_pct": 21.37,
+            "day_duration": 7,
+            "num_shares": 1,
+            "sell_price": 7.95,
+            "annualized_return_pct": 1114.5
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -8.85,
+                "num_shares": 1,
+                "buy_price": 7.72,
+                "avg_purchase_price": 7.72,
+                "date": "04/28/2020"
+            },
+            {
+                "day_change_pct": -1.9,
+                "num_shares": 2,
+                "buy_price": 7.21,
+                "avg_purchase_price": 7.38,
+                "date": "05/04/2020"
+            }
+        ],
+        "exit": {
+            "date": "05/06/2020",
+            "day_change_pct": 7.36,
+            "investment_gain_pct": 6.78,
+            "day_duration": 8,
+            "num_shares": 3,
+            "sell_price": 7.88,
+            "annualized_return_pct": 309.11
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -8.51,
+                "num_shares": 1,
+                "buy_price": 7.85,
+                "avg_purchase_price": 7.85,
+                "date": "05/13/2020"
+            }
+        ],
+        "exit": {
+            "date": "05/18/2020",
+            "day_change_pct": 3.86,
+            "investment_gain_pct": 6.24,
+            "day_duration": 5,
+            "num_shares": 1,
+            "sell_price": 8.34,
+            "annualized_return_pct": 455.67
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -15.38,
+                "num_shares": 1,
+                "buy_price": 8.69,
+                "avg_purchase_price": 8.69,
+                "date": "06/11/2020"
+            }
+        ],
+        "exit": {
+            "date": "06/19/2020",
+            "day_change_pct": 3.74,
+            "investment_gain_pct": 8.52,
+            "day_duration": 8,
+            "num_shares": 1,
+            "sell_price": 9.43,
+            "annualized_return_pct": 388.52
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -6.0,
+                "num_shares": 1,
+                "buy_price": 8.46,
+                "avg_purchase_price": 8.46,
+                "date": "06/25/2020"
+            },
+            {
+                "day_change_pct": -8.04,
+                "num_shares": 2,
+                "buy_price": 7.78,
+                "avg_purchase_price": 8.007,
+                "date": "06/26/2020"
+            }
+        ],
+        "exit": {
+            "date": "06/30/2020",
+            "day_change_pct": 32.36,
+            "investment_gain_pct": 35.89,
+            "day_duration": 5,
+            "num_shares": 3,
+            "sell_price": 10.88,
+            "annualized_return_pct": 2619.73
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -11.73,
+                "num_shares": 1,
+                "buy_price": 12.11,
+                "avg_purchase_price": 12.11,
+                "date": "07/13/2020"
+            }
+        ],
+        "exit": {
+            "date": "07/14/2020",
+            "day_change_pct": 8.09,
+            "investment_gain_pct": 8.09,
+            "day_duration": 1,
+            "num_shares": 1,
+            "sell_price": 13.09,
+            "annualized_return_pct": 2953.76
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -6.09,
+                "num_shares": 1,
+                "buy_price": 17.57,
+                "avg_purchase_price": 17.57,
+                "date": "07/23/2020"
+            },
+            {
+                "day_change_pct": -4.08,
+                "num_shares": 2,
+                "buy_price": 16.22,
+                "avg_purchase_price": 16.67,
+                "date": "07/27/2020"
+            },
+            {
+                "day_change_pct": -7.58,
+                "num_shares": 3,
+                "buy_price": 14.99,
+                "avg_purchase_price": 15.83,
+                "date": "07/28/2020"
+            },
+            {
+                "day_change_pct": -14.21,
+                "num_shares": 4,
+                "buy_price": 12.86,
+                "avg_purchase_price": 14.642,
+                "date": "07/29/2020"
+            },
+            {
+                "day_change_pct": -3.34,
+                "num_shares": 5,
+                "buy_price": 12.16,
+                "avg_purchase_price": 13.815,
+                "date": "07/31/2020"
+            }
+        ],
+        "exit": {
+            "date": "08/18/2020",
+            "day_change_pct": 19.3,
+            "investment_gain_pct": 23.06,
+            "day_duration": 26,
+            "num_shares": 15,
+            "sell_price": 17.0,
+            "annualized_return_pct": 323.69
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -8.33,
+                "num_shares": 1,
+                "buy_price": 14.41,
+                "avg_purchase_price": 14.41,
+                "date": "09/04/2020"
+            },
+            {
+                "day_change_pct": -6.04,
+                "num_shares": 2,
+                "buy_price": 13.54,
+                "avg_purchase_price": 13.83,
+                "date": "09/08/2020"
+            }
+        ],
+        "exit": {
+            "date": "09/14/2020",
+            "day_change_pct": 8.61,
+            "investment_gain_pct": 5.78,
+            "day_duration": 10,
+            "num_shares": 3,
+            "sell_price": 14.63,
+            "annualized_return_pct": 211.14
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.75,
+                "num_shares": 1,
+                "buy_price": 16.89,
+                "avg_purchase_price": 16.89,
+                "date": "09/22/2020"
+            },
+            {
+                "day_change_pct": -9.77,
+                "num_shares": 2,
+                "buy_price": 15.24,
+                "avg_purchase_price": 15.79,
+                "date": "09/23/2020"
+            }
+        ],
+        "exit": {
+            "date": "09/28/2020",
+            "day_change_pct": 11.27,
+            "investment_gain_pct": 6.9,
+            "day_duration": 6,
+            "num_shares": 3,
+            "sell_price": 16.88,
+            "annualized_return_pct": 419.94
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -7.58,
+                "num_shares": 1,
+                "buy_price": 15.97,
+                "avg_purchase_price": 15.97,
+                "date": "10/02/2020"
+            }
+        ],
+        "exit": {
+            "date": "10/05/2020",
+            "day_change_pct": 10.83,
+            "investment_gain_pct": 10.83,
+            "day_duration": 3,
+            "num_shares": 1,
+            "sell_price": 17.7,
+            "annualized_return_pct": 1317.99
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -7.96,
+                "num_shares": 1,
+                "buy_price": 19.08,
+                "avg_purchase_price": 19.08,
+                "date": "10/15/2020"
+            },
+            {
+                "day_change_pct": -9.74,
+                "num_shares": 2,
+                "buy_price": 16.4,
+                "avg_purchase_price": 17.293,
+                "date": "10/21/2020"
+            },
+            {
+                "day_change_pct": -1.6,
+                "num_shares": 3,
+                "buy_price": 15.42,
+                "avg_purchase_price": 16.357,
+                "date": "10/27/2020"
+            },
+            {
+                "day_change_pct": -5.32,
+                "num_shares": 4,
+                "buy_price": 14.6,
+                "avg_purchase_price": 15.654,
+                "date": "10/28/2020"
+            },
+            {
+                "day_change_pct": -14.13,
+                "num_shares": 5,
+                "buy_price": 12.64,
+                "avg_purchase_price": 14.649,
+                "date": "10/30/2020"
+            }
+        ],
+        "exit": {
+            "date": "11/05/2020",
+            "day_change_pct": 11.59,
+            "investment_gain_pct": 5.12,
+            "day_duration": 21,
+            "num_shares": 15,
+            "sell_price": 15.4,
+            "annualized_return_pct": 89.06
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -6.66,
+                "num_shares": 1,
+                "buy_price": 25.63,
+                "avg_purchase_price": 25.63,
+                "date": "11/27/2020"
+            },
+            {
+                "day_change_pct": -1.46,
+                "num_shares": 2,
+                "buy_price": 24.26,
+                "avg_purchase_price": 24.717,
+                "date": "12/02/2020"
+            }
+        ],
+        "exit": {
+            "date": "12/04/2020",
+            "day_change_pct": 15.41,
+            "investment_gain_pct": 13.0,
+            "day_duration": 7,
+            "num_shares": 3,
+            "sell_price": 27.93,
+            "annualized_return_pct": 677.89
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -18.24,
+                "num_shares": 1,
+                "buy_price": 25.01,
+                "avg_purchase_price": 25.01,
+                "date": "12/09/2020"
+            }
+        ],
+        "exit": {
+            "date": "12/15/2020",
+            "day_change_pct": 8.55,
+            "investment_gain_pct": 5.64,
+            "day_duration": 6,
+            "num_shares": 1,
+            "sell_price": 26.42,
+            "annualized_return_pct": 342.96
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -7.63,
+                "num_shares": 1,
+                "buy_price": 28.19,
+                "avg_purchase_price": 28.19,
+                "date": "12/28/2020"
+            }
+        ],
+        "exit": {
+            "date": "01/06/2021",
+            "day_change_pct": 7.26,
+            "investment_gain_pct": 7.91,
+            "day_duration": 9,
+            "num_shares": 1,
+            "sell_price": 30.42,
+            "annualized_return_pct": 320.82
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -6.15,
+                "num_shares": 1,
+                "buy_price": 36.47,
+                "avg_purchase_price": 36.47,
+                "date": "01/15/2021"
+            }
+        ],
+        "exit": {
+            "date": "01/19/2021",
+            "day_change_pct": 9.49,
+            "investment_gain_pct": 9.49,
+            "day_duration": 4,
+            "num_shares": 1,
+            "sell_price": 39.93,
+            "annualized_return_pct": 865.71
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.14,
+                "num_shares": 1,
+                "buy_price": 39.35,
+                "avg_purchase_price": 39.35,
+                "date": "01/27/2021"
+            },
+            {
+                "day_change_pct": -7.67,
+                "num_shares": 2,
+                "buy_price": 36.33,
+                "avg_purchase_price": 37.337,
+                "date": "01/28/2021"
+            }
+        ],
+        "exit": {
+            "date": "02/03/2021",
+            "day_change_pct": 6.83,
+            "investment_gain_pct": 9.7,
+            "day_duration": 7,
+            "num_shares": 3,
+            "sell_price": 40.96,
+            "annualized_return_pct": 506.02
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -12.59,
+                "num_shares": 1,
+                "buy_price": 35.35,
+                "avg_purchase_price": 35.35,
+                "date": "02/16/2021"
+            },
+            {
+                "day_change_pct": -6.65,
+                "num_shares": 2,
+                "buy_price": 33.0,
+                "avg_purchase_price": 33.783,
+                "date": "02/17/2021"
+            },
+            {
+                "day_change_pct": -7.48,
+                "num_shares": 3,
+                "buy_price": 30.53,
+                "avg_purchase_price": 32.157,
+                "date": "02/18/2021"
+            },
+            {
+                "day_change_pct": -10.67,
+                "num_shares": 4,
+                "buy_price": 28.62,
+                "avg_purchase_price": 30.742,
+                "date": "02/22/2021"
+            },
+            {
+                "day_change_pct": -7.09,
+                "num_shares": 5,
+                "buy_price": 26.61,
+                "avg_purchase_price": 29.365,
+                "date": "03/03/2021"
+            },
+            {
+                "day_change_pct": -7.98,
+                "num_shares": 6,
+                "buy_price": 24.46,
+                "avg_purchase_price": 27.963,
+                "date": "03/24/2021"
+            },
+            {
+                "day_change_pct": -4.03,
+                "num_shares": 7,
+                "buy_price": 23.09,
+                "avg_purchase_price": 26.745,
+                "date": "04/15/2021"
+            },
+            {
+                "day_change_pct": -6.57,
+                "num_shares": 8,
+                "buy_price": 21.63,
+                "avg_purchase_price": 25.608,
+                "date": "05/05/2021"
+            },
+            {
+                "day_change_pct": -13.52,
+                "num_shares": 9,
+                "buy_price": 20.09,
+                "avg_purchase_price": 24.505,
+                "date": "05/10/2021"
+            },
+            {
+                "day_change_pct": -2.69,
+                "num_shares": 10,
+                "buy_price": 18.79,
+                "avg_purchase_price": 23.466,
+                "date": "05/13/2021"
+            }
+        ],
+        "exit": {
+            "date": "06/02/2021",
+            "day_change_pct": 0.9,
+            "investment_gain_pct": 5.09,
+            "day_duration": 106,
+            "num_shares": 55,
+            "sell_price": 24.66,
+            "annualized_return_pct": 17.53
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -9.5,
+                "num_shares": 1,
+                "buy_price": 23.52,
+                "avg_purchase_price": 23.52,
+                "date": "07/07/2021"
+            },
+            {
+                "day_change_pct": -3.33,
+                "num_shares": 2,
+                "buy_price": 22.05,
+                "avg_purchase_price": 22.54,
+                "date": "07/13/2021"
+            },
+            {
+                "day_change_pct": -2.13,
+                "num_shares": 3,
+                "buy_price": 20.64,
+                "avg_purchase_price": 21.59,
+                "date": "07/15/2021"
+            }
+        ],
+        "exit": {
+            "date": "08/09/2021",
+            "day_change_pct": 6.55,
+            "investment_gain_pct": 6.99,
+            "day_duration": 33,
+            "num_shares": 6,
+            "sell_price": 23.1,
+            "annualized_return_pct": 77.36
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -7.56,
+                "num_shares": 1,
+                "buy_price": 18.58,
+                "avg_purchase_price": 18.58,
+                "date": "09/28/2021"
+            },
+            {
+                "day_change_pct": -8.45,
+                "num_shares": 2,
+                "buy_price": 16.91,
+                "avg_purchase_price": 17.467,
+                "date": "10/04/2021"
+            }
+        ],
+        "exit": {
+            "date": "10/05/2021",
+            "day_change_pct": 8.99,
+            "investment_gain_pct": 5.52,
+            "day_duration": 7,
+            "num_shares": 3,
+            "sell_price": 18.43,
+            "annualized_return_pct": 287.58
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.66,
+                "num_shares": 1,
+                "buy_price": 30.16,
+                "avg_purchase_price": 30.16,
+                "date": "11/04/2021"
+            }
+        ],
+        "exit": {
+            "date": "11/05/2021",
+            "day_change_pct": 6.1,
+            "investment_gain_pct": 6.1,
+            "day_duration": 1,
+            "num_shares": 1,
+            "sell_price": 32.0,
+            "annualized_return_pct": 2226.79
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -11.07,
+                "num_shares": 1,
+                "buy_price": 30.37,
+                "avg_purchase_price": 30.37,
+                "date": "11/15/2021"
+            },
+            {
+                "day_change_pct": -4.01,
+                "num_shares": 2,
+                "buy_price": 28.75,
+                "avg_purchase_price": 29.29,
+                "date": "11/22/2021"
+            },
+            {
+                "day_change_pct": -3.74,
+                "num_shares": 3,
+                "buy_price": 27.28,
+                "avg_purchase_price": 28.285,
+                "date": "11/26/2021"
+            },
+            {
+                "day_change_pct": -6.7,
+                "num_shares": 4,
+                "buy_price": 25.64,
+                "avg_purchase_price": 27.227,
+                "date": "12/01/2021"
+            },
+            {
+                "day_change_pct": -4.59,
+                "num_shares": 5,
+                "buy_price": 24.11,
+                "avg_purchase_price": 26.188,
+                "date": "12/09/2021"
+            },
+            {
+                "day_change_pct": -3.29,
+                "num_shares": 6,
+                "buy_price": 22.9,
+                "avg_purchase_price": 25.249,
+                "date": "12/13/2021"
+            },
+            {
+                "day_change_pct": -6.16,
+                "num_shares": 7,
+                "buy_price": 21.49,
+                "avg_purchase_price": 24.309,
+                "date": "12/14/2021"
+            },
+            {
+                "day_change_pct": -7.15,
+                "num_shares": 8,
+                "buy_price": 20.13,
+                "avg_purchase_price": 23.38,
+                "date": "12/20/2021"
+            },
+            {
+                "day_change_pct": -4.54,
+                "num_shares": 9,
+                "buy_price": 18.31,
+                "avg_purchase_price": 22.366,
+                "date": "01/13/2022"
+            },
+            {
+                "day_change_pct": -6.01,
+                "num_shares": 10,
+                "buy_price": 17.04,
+                "avg_purchase_price": 21.398,
+                "date": "01/18/2022"
+            },
+            {
+                "day_change_pct": -6.48,
+                "num_shares": 11,
+                "buy_price": 15.58,
+                "avg_purchase_price": 20.428,
+                "date": "01/21/2022"
+            },
+            {
+                "day_change_pct": -4.8,
+                "num_shares": 12,
+                "buy_price": 14.49,
+                "avg_purchase_price": 19.515,
+                "date": "01/26/2022"
+            },
+            {
+                "day_change_pct": -8.76,
+                "num_shares": 13,
+                "buy_price": 13.22,
+                "avg_purchase_price": 18.615,
+                "date": "01/27/2022"
+            }
+        ],
+        "exit": {
+            "date": "02/15/2022",
+            "day_change_pct": 13.82,
+            "investment_gain_pct": 7.06,
+            "day_duration": 92,
+            "num_shares": 91,
+            "sell_price": 19.93,
+            "annualized_return_pct": 28.02
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -9.58,
+                "num_shares": 1,
+                "buy_price": 20.66,
+                "avg_purchase_price": 20.66,
+                "date": "03/14/2022"
+            }
+        ],
+        "exit": {
+            "date": "03/16/2022",
+            "day_change_pct": 5.42,
+            "investment_gain_pct": 8.18,
+            "day_duration": 2,
+            "num_shares": 1,
+            "sell_price": 22.35,
+            "annualized_return_pct": 1492.86
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -11.84,
+                "num_shares": 1,
+                "buy_price": 19.8,
+                "avg_purchase_price": 19.8,
+                "date": "04/21/2022"
+            },
+            {
+                "day_change_pct": -4.82,
+                "num_shares": 2,
+                "buy_price": 18.56,
+                "avg_purchase_price": 18.973,
+                "date": "04/29/2022"
+            }
+        ],
+        "exit": {
+            "date": "05/04/2022",
+            "day_change_pct": 7.12,
+            "investment_gain_pct": 6.99,
+            "day_duration": 13,
+            "num_shares": 3,
+            "sell_price": 20.3,
+            "annualized_return_pct": 196.32
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -6.55,
+                "num_shares": 1,
+                "buy_price": 18.97,
+                "avg_purchase_price": 18.97,
+                "date": "05/05/2022"
+            },
+            {
+                "day_change_pct": -20.24,
+                "num_shares": 2,
+                "buy_price": 15.13,
+                "avg_purchase_price": 16.41,
+                "date": "05/06/2022"
+            },
+            {
+                "day_change_pct": -10.18,
+                "num_shares": 3,
+                "buy_price": 13.59,
+                "avg_purchase_price": 15.0,
+                "date": "05/09/2022"
+            },
+            {
+                "day_change_pct": -8.73,
+                "num_shares": 4,
+                "buy_price": 12.13,
+                "avg_purchase_price": 13.852,
+                "date": "05/11/2022"
+            }
+        ],
+        "exit": {
+            "date": "05/17/2022",
+            "day_change_pct": 5.41,
+            "investment_gain_pct": 6.92,
+            "day_duration": 12,
+            "num_shares": 10,
+            "sell_price": 14.81,
+            "annualized_return_pct": 210.36
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -6.6,
+                "num_shares": 1,
+                "buy_price": 15.01,
+                "avg_purchase_price": 15.01,
+                "date": "05/24/2022"
+            }
+        ],
+        "exit": {
+            "date": "05/26/2022",
+            "day_change_pct": 6.15,
+            "investment_gain_pct": 10.39,
+            "day_duration": 2,
+            "num_shares": 1,
+            "sell_price": 16.57,
+            "annualized_return_pct": 1896.73
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -8.45,
+                "num_shares": 1,
+                "buy_price": 15.61,
+                "avg_purchase_price": 15.61,
+                "date": "06/13/2022"
+            }
+        ],
+        "exit": {
+            "date": "06/15/2022",
+            "day_change_pct": 6.33,
+            "investment_gain_pct": 6.6,
+            "day_duration": 2,
+            "num_shares": 1,
+            "sell_price": 16.64,
+            "annualized_return_pct": 1204.2
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -6.25,
+                "num_shares": 1,
+                "buy_price": 17.11,
+                "avg_purchase_price": 17.11,
+                "date": "06/28/2022"
+            }
+        ],
+        "exit": {
+            "date": "07/07/2022",
+            "day_change_pct": 6.25,
+            "investment_gain_pct": 7.36,
+            "day_duration": 9,
+            "num_shares": 1,
+            "sell_price": 18.37,
+            "annualized_return_pct": 298.66
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.45,
+                "num_shares": 1,
+                "buy_price": 17.87,
+                "avg_purchase_price": 17.87,
+                "date": "07/11/2022"
+            },
+            {
+                "day_change_pct": -6.03,
+                "num_shares": 2,
+                "buy_price": 16.05,
+                "avg_purchase_price": 16.657,
+                "date": "07/15/2022"
+            }
+        ],
+        "exit": {
+            "date": "07/20/2022",
+            "day_change_pct": 3.44,
+            "investment_gain_pct": 8.37,
+            "day_duration": 9,
+            "num_shares": 3,
+            "sell_price": 18.05,
+            "annualized_return_pct": 339.25
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -6.24,
+                "num_shares": 1,
+                "buy_price": 16.52,
+                "avg_purchase_price": 16.52,
+                "date": "07/22/2022"
+            }
+        ],
+        "exit": {
+            "date": "07/28/2022",
+            "day_change_pct": 17.27,
+            "investment_gain_pct": 22.09,
+            "day_duration": 6,
+            "num_shares": 1,
+            "sell_price": 20.17,
+            "annualized_return_pct": 1344.08
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -11.73,
+                "num_shares": 1,
+                "buy_price": 26.8,
+                "avg_purchase_price": 26.8,
+                "date": "08/16/2022"
+            },
+            {
+                "day_change_pct": -3.29,
+                "num_shares": 2,
+                "buy_price": 24.7,
+                "avg_purchase_price": 25.4,
+                "date": "08/22/2022"
+            }
+        ],
+        "exit": {
+            "date": "08/25/2022",
+            "day_change_pct": 6.58,
+            "investment_gain_pct": 7.72,
+            "day_duration": 9,
+            "num_shares": 3,
+            "sell_price": 27.36,
+            "annualized_return_pct": 312.95
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.65,
+                "num_shares": 1,
+                "buy_price": 23.9,
+                "avg_purchase_price": 23.9,
+                "date": "09/20/2022"
+            },
+            {
+                "day_change_pct": -6.56,
+                "num_shares": 2,
+                "buy_price": 21.36,
+                "avg_purchase_price": 22.207,
+                "date": "09/23/2022"
+            },
+            {
+                "day_change_pct": -6.74,
+                "num_shares": 3,
+                "buy_price": 20.19,
+                "avg_purchase_price": 21.198,
+                "date": "09/29/2022"
+            },
+            {
+                "day_change_pct": -7.15,
+                "num_shares": 4,
+                "buy_price": 19.08,
+                "avg_purchase_price": 20.351,
+                "date": "10/06/2022"
+            },
+            {
+                "day_change_pct": -6.03,
+                "num_shares": 5,
+                "buy_price": 17.93,
+                "avg_purchase_price": 19.544,
+                "date": "10/07/2022"
+            },
+            {
+                "day_change_pct": -4.75,
+                "num_shares": 6,
+                "buy_price": 16.66,
+                "avg_purchase_price": 18.72,
+                "date": "10/12/2022"
+            }
+        ],
+        "exit": {
+            "date": "11/10/2022",
+            "day_change_pct": 18.57,
+            "investment_gain_pct": 15.65,
+            "day_duration": 51,
+            "num_shares": 21,
+            "sell_price": 21.65,
+            "annualized_return_pct": 112.02
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.58,
+                "num_shares": 1,
+                "buy_price": 20.81,
+                "avg_purchase_price": 20.81,
+                "date": "12/19/2022"
+            },
+            {
+                "day_change_pct": -4.69,
+                "num_shares": 2,
+                "buy_price": 19.52,
+                "avg_purchase_price": 19.95,
+                "date": "12/22/2022"
+            },
+            {
+                "day_change_pct": -5.07,
+                "num_shares": 3,
+                "buy_price": 18.53,
+                "avg_purchase_price": 19.24,
+                "date": "12/23/2022"
+            }
+        ],
+        "exit": {
+            "date": "01/10/2023",
+            "day_change_pct": 10.61,
+            "investment_gain_pct": 14.35,
+            "day_duration": 22,
+            "num_shares": 6,
+            "sell_price": 22.0,
+            "annualized_return_pct": 238.0
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.23,
+                "num_shares": 1,
+                "buy_price": 20.12,
+                "avg_purchase_price": 20.12,
+                "date": "03/10/2023"
+            },
+            {
+                "day_change_pct": -6.05,
+                "num_shares": 2,
+                "buy_price": 18.93,
+                "avg_purchase_price": 19.327,
+                "date": "03/15/2023"
+            },
+            {
+                "day_change_pct": -4.83,
+                "num_shares": 3,
+                "buy_price": 17.15,
+                "avg_purchase_price": 18.238,
+                "date": "03/17/2023"
+            }
+        ],
+        "exit": {
+            "date": "03/30/2023",
+            "day_change_pct": 2.89,
+            "investment_gain_pct": 7.19,
+            "day_duration": 20,
+            "num_shares": 6,
+            "sell_price": 19.55,
+            "annualized_return_pct": 131.25
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.51,
+                "num_shares": 1,
+                "buy_price": 19.05,
+                "avg_purchase_price": 19.05,
+                "date": "04/04/2023"
+            },
+            {
+                "day_change_pct": -2.74,
+                "num_shares": 2,
+                "buy_price": 17.76,
+                "avg_purchase_price": 18.19,
+                "date": "04/06/2023"
+            },
+            {
+                "day_change_pct": -3.35,
+                "num_shares": 3,
+                "buy_price": 16.45,
+                "avg_purchase_price": 17.32,
+                "date": "04/26/2023"
+            },
+            {
+                "day_change_pct": -8.49,
+                "num_shares": 4,
+                "buy_price": 15.2,
+                "avg_purchase_price": 16.472,
+                "date": "05/10/2023"
+            },
+            {
+                "day_change_pct": -12.96,
+                "num_shares": 5,
+                "buy_price": 13.23,
+                "avg_purchase_price": 15.391,
+                "date": "05/11/2023"
+            }
+        ],
+        "exit": {
+            "date": "06/12/2023",
+            "day_change_pct": 11.29,
+            "investment_gain_pct": 9.48,
+            "day_duration": 69,
+            "num_shares": 15,
+            "sell_price": 16.85,
+            "annualized_return_pct": 50.13
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.09,
+                "num_shares": 1,
+                "buy_price": 16.77,
+                "avg_purchase_price": 16.77,
+                "date": "08/02/2023"
+            },
+            {
+                "day_change_pct": -4.16,
+                "num_shares": 2,
+                "buy_price": 15.88,
+                "avg_purchase_price": 16.177,
+                "date": "08/04/2023"
+            },
+            {
+                "day_change_pct": -3.85,
+                "num_shares": 3,
+                "buy_price": 14.97,
+                "avg_purchase_price": 15.573,
+                "date": "08/10/2023"
+            },
+            {
+                "day_change_pct": -4.31,
+                "num_shares": 4,
+                "buy_price": 13.78,
+                "avg_purchase_price": 14.856,
+                "date": "09/21/2023"
+            },
+            {
+                "day_change_pct": -8.07,
+                "num_shares": 5,
+                "buy_price": 12.19,
+                "avg_purchase_price": 13.967,
+                "date": "10/02/2023"
+            },
+            {
+                "day_change_pct": -5.33,
+                "num_shares": 6,
+                "buy_price": 11.54,
+                "avg_purchase_price": 13.274,
+                "date": "10/03/2023"
+            },
+            {
+                "day_change_pct": -5.62,
+                "num_shares": 7,
+                "buy_price": 10.74,
+                "avg_purchase_price": 12.64,
+                "date": "10/05/2023"
+            },
+            {
+                "day_change_pct": -9.94,
+                "num_shares": 8,
+                "buy_price": 9.78,
+                "avg_purchase_price": 12.005,
+                "date": "10/27/2023"
+            }
+        ],
+        "exit": {
+            "date": "11/20/2023",
+            "day_change_pct": 2.31,
+            "investment_gain_pct": 7.12,
+            "day_duration": 110,
+            "num_shares": 36,
+            "sell_price": 12.86,
+            "annualized_return_pct": 23.64
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.01,
+                "num_shares": 1,
+                "buy_price": 14.02,
+                "avg_purchase_price": 14.02,
+                "date": "01/03/2024"
+            },
+            {
+                "day_change_pct": -3.71,
+                "num_shares": 2,
+                "buy_price": 12.97,
+                "avg_purchase_price": 13.32,
+                "date": "01/11/2024"
+            },
+            {
+                "day_change_pct": -6.91,
+                "num_shares": 3,
+                "buy_price": 11.85,
+                "avg_purchase_price": 12.585,
+                "date": "01/16/2024"
+            },
+            {
+                "day_change_pct": -4.91,
+                "num_shares": 4,
+                "buy_price": 11.03,
+                "avg_purchase_price": 11.963,
+                "date": "02/05/2024"
+            },
+            {
+                "day_change_pct": -17.46,
+                "num_shares": 5,
+                "buy_price": 9.88,
+                "avg_purchase_price": 11.269,
+                "date": "02/16/2024"
+            },
+            {
+                "day_change_pct": -9.72,
+                "num_shares": 6,
+                "buy_price": 8.92,
+                "avg_purchase_price": 10.598,
+                "date": "02/20/2024"
+            }
+        ],
+        "exit": {
+            "date": "03/28/2024",
+            "day_change_pct": 1.9,
+            "investment_gain_pct": 6.06,
+            "day_duration": 85,
+            "num_shares": 21,
+            "sell_price": 11.24,
+            "annualized_return_pct": 26.03
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.62,
+                "num_shares": 1,
+                "buy_price": 10.74,
+                "avg_purchase_price": 10.74,
+                "date": "04/12/2024"
+            },
+            {
+                "day_change_pct": -3.52,
+                "num_shares": 2,
+                "buy_price": 9.88,
+                "avg_purchase_price": 10.167,
+                "date": "04/16/2024"
+            },
+            {
+                "day_change_pct": -3.22,
+                "num_shares": 3,
+                "buy_price": 9.32,
+                "avg_purchase_price": 9.743,
+                "date": "04/22/2024"
+            }
+        ],
+        "exit": {
+            "date": "04/26/2024",
+            "day_change_pct": 10.99,
+            "investment_gain_pct": 8.79,
+            "day_duration": 14,
+            "num_shares": 6,
+            "sell_price": 10.6,
+            "annualized_return_pct": 229.23
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -7.47,
+                "num_shares": 1,
+                "buy_price": 15.73,
+                "avg_purchase_price": 15.73,
+                "date": "05/23/2024"
+            }
+        ],
+        "exit": {
+            "date": "05/28/2024",
+            "day_change_pct": 1.47,
+            "investment_gain_pct": 5.09,
+            "day_duration": 5,
+            "num_shares": 1,
+            "sell_price": 16.53,
+            "annualized_return_pct": 371.27
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -6.11,
+                "num_shares": 1,
+                "buy_price": 15.52,
+                "avg_purchase_price": 15.52,
+                "date": "05/29/2024"
+            }
+        ],
+        "exit": {
+            "date": "05/30/2024",
+            "day_change_pct": 7.22,
+            "investment_gain_pct": 7.22,
+            "day_duration": 1,
+            "num_shares": 1,
+            "sell_price": 16.64,
+            "annualized_return_pct": 2634.02
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.1,
+                "num_shares": 1,
+                "buy_price": 14.33,
+                "avg_purchase_price": 14.33,
+                "date": "06/14/2024"
+            },
+            {
+                "day_change_pct": -8.49,
+                "num_shares": 2,
+                "buy_price": 12.82,
+                "avg_purchase_price": 13.323,
+                "date": "06/21/2024"
+            },
+            {
+                "day_change_pct": -7.11,
+                "num_shares": 3,
+                "buy_price": 11.37,
+                "avg_purchase_price": 12.347,
+                "date": "07/01/2024"
+            }
+        ],
+        "exit": {
+            "date": "07/11/2024",
+            "day_change_pct": 4.45,
+            "investment_gain_pct": 8.29,
+            "day_duration": 27,
+            "num_shares": 6,
+            "sell_price": 13.37,
+            "annualized_return_pct": 112.05
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.22,
+                "num_shares": 1,
+                "buy_price": 13.07,
+                "avg_purchase_price": 13.07,
+                "date": "07/30/2024"
+            },
+            {
+                "day_change_pct": -5.68,
+                "num_shares": 2,
+                "buy_price": 11.79,
+                "avg_purchase_price": 12.217,
+                "date": "08/02/2024"
+            },
+            {
+                "day_change_pct": -7.55,
+                "num_shares": 3,
+                "buy_price": 10.9,
+                "avg_purchase_price": 11.558,
+                "date": "08/05/2024"
+            },
+            {
+                "day_change_pct": -7.04,
+                "num_shares": 4,
+                "buy_price": 9.9,
+                "avg_purchase_price": 10.895,
+                "date": "08/07/2024"
+            }
+        ],
+        "exit": {
+            "date": "08/09/2024",
+            "day_change_pct": 9.01,
+            "investment_gain_pct": 5.46,
+            "day_duration": 10,
+            "num_shares": 10,
+            "sell_price": 11.49,
+            "annualized_return_pct": 199.33
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -7.47,
+                "num_shares": 1,
+                "buy_price": 11.02,
+                "avg_purchase_price": 11.02,
+                "date": "09/03/2024"
+            },
+            {
+                "day_change_pct": -9.79,
+                "num_shares": 2,
+                "buy_price": 9.95,
+                "avg_purchase_price": 10.307,
+                "date": "09/06/2024"
+            }
+        ],
+        "exit": {
+            "date": "09/20/2024",
+            "day_change_pct": 6.54,
+            "investment_gain_pct": 5.85,
+            "day_duration": 17,
+            "num_shares": 3,
+            "sell_price": 10.91,
+            "annualized_return_pct": 125.68
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -7.09,
+                "num_shares": 1,
+                "buy_price": 9.04,
+                "avg_purchase_price": 9.04,
+                "date": "10/23/2024"
+            }
+        ],
+        "exit": {
+            "date": "10/25/2024",
+            "day_change_pct": 3.37,
+            "investment_gain_pct": 5.09,
+            "day_duration": 2,
+            "num_shares": 1,
+            "sell_price": 9.5,
+            "annualized_return_pct": 928.65
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -11.7,
+                "num_shares": 1,
+                "buy_price": 23.47,
+                "avg_purchase_price": 23.47,
+                "date": "12/10/2024"
+            }
+        ],
+        "exit": {
+            "date": "12/12/2024",
+            "day_change_pct": 5.13,
+            "investment_gain_pct": 5.71,
+            "day_duration": 2,
+            "num_shares": 1,
+            "sell_price": 24.81,
+            "annualized_return_pct": 1041.97
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.28,
+                "num_shares": 1,
+                "buy_price": 24.77,
+                "avg_purchase_price": 24.77,
+                "date": "12/17/2024"
+            },
+            {
+                "day_change_pct": -5.29,
+                "num_shares": 2,
+                "buy_price": 23.46,
+                "avg_purchase_price": 23.897,
+                "date": "12/18/2024"
+            },
+            {
+                "day_change_pct": -1.33,
+                "num_shares": 3,
+                "buy_price": 22.21,
+                "avg_purchase_price": 23.053,
+                "date": "12/31/2024"
+            }
+        ],
+        "exit": {
+            "date": "01/03/2025",
+            "day_change_pct": 4.07,
+            "investment_gain_pct": 5.49,
+            "day_duration": 17,
+            "num_shares": 6,
+            "sell_price": 24.32,
+            "annualized_return_pct": 117.97
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -24.79,
+                "num_shares": 1,
+                "buy_price": 22.42,
+                "avg_purchase_price": 22.42,
+                "date": "01/27/2025"
+            },
+            {
+                "day_change_pct": -9.01,
+                "num_shares": 2,
+                "buy_price": 20.4,
+                "avg_purchase_price": 21.073,
+                "date": "01/28/2025"
+            }
+        ],
+        "exit": {
+            "date": "01/29/2025",
+            "day_change_pct": 9.71,
+            "investment_gain_pct": 6.2,
+            "day_duration": 2,
+            "num_shares": 3,
+            "sell_price": 22.38,
+            "annualized_return_pct": 1131.6
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.2,
+                "num_shares": 1,
+                "buy_price": 24.07,
+                "avg_purchase_price": 24.07,
+                "date": "02/11/2025"
+            }
+        ],
+        "exit": {
+            "date": "02/14/2025",
+            "day_change_pct": 2.83,
+            "investment_gain_pct": 5.57,
+            "day_duration": 3,
+            "num_shares": 1,
+            "sell_price": 25.41,
+            "annualized_return_pct": 677.33
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -7.0,
+                "num_shares": 1,
+                "buy_price": 24.17,
+                "avg_purchase_price": 24.17,
+                "date": "02/21/2025"
+            },
+            {
+                "day_change_pct": -6.08,
+                "num_shares": 2,
+                "buy_price": 22.7,
+                "avg_purchase_price": 23.19,
+                "date": "02/24/2025"
+            }
+        ],
+        "exit": {
+            "date": "03/11/2025",
+            "day_change_pct": 10.52,
+            "investment_gain_pct": 7.81,
+            "day_duration": 18,
+            "num_shares": 3,
+            "sell_price": 25.0,
+            "annualized_return_pct": 158.27
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.75,
+                "num_shares": 1,
+                "buy_price": 23.95,
+                "avg_purchase_price": 23.95,
+                "date": "03/21/2025"
+            },
+            {
+                "day_change_pct": -3.59,
+                "num_shares": 2,
+                "buy_price": 22.28,
+                "avg_purchase_price": 22.837,
+                "date": "03/26/2025"
+            },
+            {
+                "day_change_pct": -7.55,
+                "num_shares": 3,
+                "buy_price": 20.33,
+                "avg_purchase_price": 21.583,
+                "date": "03/28/2025"
+            },
+            {
+                "day_change_pct": -14.17,
+                "num_shares": 4,
+                "buy_price": 16.6,
+                "avg_purchase_price": 19.59,
+                "date": "04/04/2025"
+            }
+        ],
+        "exit": {
+            "date": "06/06/2025",
+            "day_change_pct": 6.5,
+            "investment_gain_pct": 11.18,
+            "day_duration": 77,
+            "num_shares": 10,
+            "sell_price": 21.78,
+            "annualized_return_pct": 52.99
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -6.85,
+                "num_shares": 1,
+                "buy_price": 21.34,
+                "avg_purchase_price": 21.34,
+                "date": "06/17/2025"
+            }
+        ],
+        "exit": {
+            "date": "06/23/2025",
+            "day_change_pct": 3.72,
+            "investment_gain_pct": 5.72,
+            "day_duration": 6,
+            "num_shares": 1,
+            "sell_price": 22.56,
+            "annualized_return_pct": 347.78
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.88,
+                "num_shares": 1,
+                "buy_price": 21.6,
+                "avg_purchase_price": 21.6,
+                "date": "06/25/2025"
+            }
+        ],
+        "exit": {
+            "date": "06/30/2025",
+            "day_change_pct": 7.84,
+            "investment_gain_pct": 10.74,
+            "day_duration": 5,
+            "num_shares": 1,
+            "sell_price": 23.92,
+            "annualized_return_pct": 784.07
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -7.48,
+                "num_shares": 1,
+                "buy_price": 22.13,
+                "avg_purchase_price": 22.13,
+                "date": "07/01/2025"
+            }
+        ],
+        "exit": {
+            "date": "07/03/2025",
+            "day_change_pct": 7.45,
+            "investment_gain_pct": 9.53,
+            "day_duration": 2,
+            "num_shares": 1,
+            "sell_price": 24.24,
+            "annualized_return_pct": 1740.06
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -9.96,
+                "num_shares": 1,
+                "buy_price": 25.85,
+                "avg_purchase_price": 25.85,
+                "date": "07/10/2025"
+            },
+            {
+                "day_change_pct": -1.54,
+                "num_shares": 2,
+                "buy_price": 24.31,
+                "avg_purchase_price": 24.823,
+                "date": "07/17/2025"
+            }
+        ],
+        "exit": {
+            "date": "07/23/2025",
+            "day_change_pct": 3.7,
+            "investment_gain_pct": 8.33,
+            "day_duration": 13,
+            "num_shares": 3,
+            "sell_price": 26.89,
+            "annualized_return_pct": 233.75
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -5.3,
+                "num_shares": 1,
+                "buy_price": 36.8,
+                "avg_purchase_price": 36.8,
+                "date": "08/07/2025"
+            }
+        ],
+        "exit": {
+            "date": "08/12/2025",
+            "day_change_pct": 9.56,
+            "investment_gain_pct": 12.09,
+            "day_duration": 5,
+            "num_shares": 1,
+            "sell_price": 41.25,
+            "annualized_return_pct": 882.74
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -7.31,
+                "num_shares": 1,
+                "buy_price": 43.1,
+                "avg_purchase_price": 43.1,
+                "date": "08/19/2025"
+            }
+        ],
+        "exit": {
+            "date": "08/22/2025",
+            "day_change_pct": 8.28,
+            "investment_gain_pct": 12.62,
+            "day_duration": 3,
+            "num_shares": 1,
+            "sell_price": 48.54,
+            "annualized_return_pct": 1535.65
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -6.36,
+                "num_shares": 1,
+                "buy_price": 53.44,
+                "avg_purchase_price": 53.44,
+                "date": "09/08/2025"
+            }
+        ],
+        "exit": {
+            "date": "09/10/2025",
+            "day_change_pct": 14.47,
+            "investment_gain_pct": 17.81,
+            "day_duration": 2,
+            "num_shares": 1,
+            "sell_price": 62.96,
+            "annualized_return_pct": 3251.12
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -10.3,
+                "num_shares": 1,
+                "buy_price": 77.38,
+                "avg_purchase_price": 77.38,
+                "date": "09/23/2025"
+            },
+            {
+                "day_change_pct": -10.6,
+                "num_shares": 2,
+                "buy_price": 69.18,
+                "avg_purchase_price": 71.913,
+                "date": "09/24/2025"
+            }
+        ],
+        "exit": {
+            "date": "09/30/2025",
+            "day_change_pct": 14.9,
+            "investment_gain_pct": 17.6,
+            "day_duration": 7,
+            "num_shares": 3,
+            "sell_price": 84.57,
+            "annualized_return_pct": 917.71
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -9.59,
+                "num_shares": 1,
+                "buy_price": 94.37,
+                "avg_purchase_price": 94.37,
+                "date": "10/22/2025"
+            }
+        ],
+        "exit": {
+            "date": "10/23/2025",
+            "day_change_pct": 7.47,
+            "investment_gain_pct": 7.47,
+            "day_duration": 1,
+            "num_shares": 1,
+            "sell_price": 101.42,
+            "annualized_return_pct": 2726.77
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -9.36,
+                "num_shares": 1,
+                "buy_price": 129.05,
+                "avg_purchase_price": 129.05,
+                "date": "11/04/2025"
+            }
+        ],
+        "exit": {
+            "date": "11/05/2025",
+            "day_change_pct": 9.58,
+            "investment_gain_pct": 9.58,
+            "day_duration": 1,
+            "num_shares": 1,
+            "sell_price": 141.41,
+            "annualized_return_pct": 3495.85
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -8.73,
+                "num_shares": 1,
+                "buy_price": 127.07,
+                "avg_purchase_price": 127.07,
+                "date": "11/11/2025"
+            },
+            {
+                "day_change_pct": -18.28,
+                "num_shares": 2,
+                "buy_price": 103.55,
+                "avg_purchase_price": 111.39,
+                "date": "11/13/2025"
+            },
+            {
+                "day_change_pct": -14.28,
+                "num_shares": 3,
+                "buy_price": 93.38,
+                "avg_purchase_price": 102.385,
+                "date": "11/20/2025"
+            }
+        ],
+        "exit": {
+            "date": "11/28/2025",
+            "day_change_pct": 8.01,
+            "investment_gain_pct": 6.7,
+            "day_duration": 17,
+            "num_shares": 6,
+            "sell_price": 109.24,
+            "annualized_return_pct": 143.75
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -9.44,
+                "num_shares": 1,
+                "buy_price": 98.93,
+                "avg_purchase_price": 98.93,
+                "date": "12/01/2025"
+            }
+        ],
+        "exit": {
+            "date": "12/02/2025",
+            "day_change_pct": 6.14,
+            "investment_gain_pct": 6.14,
+            "day_duration": 1,
+            "num_shares": 1,
+            "sell_price": 105.0,
+            "annualized_return_pct": 2239.51
+        }
+    },
+    {
+        "entries": [
+            {
+                "day_change_pct": -6.2,
+                "num_shares": 1,
+                "buy_price": 111.79,
+                "avg_purchase_price": 111.79,
+                "date": "12/08/2025"
+            },
+            {
+                "day_change_pct": -7.45,
+                "num_shares": 2,
+                "buy_price": 101.29,
+                "avg_purchase_price": 104.79,
+                "date": "12/10/2025"
+            },
+            {
+                "day_change_pct": -12.85,
+                "num_shares": 3,
+                "buy_price": 94.98,
+                "avg_purchase_price": 99.885,
+                "date": "12/12/2025"
+            }
+        ],
+        "exit": false
+    }
+]
